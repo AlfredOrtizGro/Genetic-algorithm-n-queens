@@ -1,0 +1,69 @@
+image: maven:3.5.3-jdk-8
+
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  script: "mvn clean compile assembly:single"
+  artifacts:
+    name: "1473__OpCX"
+    paths:
+    - "target/*.jar"
+    expire_in: 1 week
+
+Test CruzaCX_1:
+  stage: test
+  script: 
+  - "java -jar target/OpCX-1.0.jar -CONFIG Test_1/CONFIG_GitLab_1.txt"
+  artifacts:
+    name: "1473__OpCX_T1"
+    paths:
+    - "Test_1/WORK/NEXTGEN_4_/POPULATION/*.bin"
+    - "Test_1/WORK/*.txt"
+    expire_in: 1 week
+
+Test CruzaCX_2:
+  stage: test
+  script: 
+  - "java -jar target/OpCX-1.0.jar -CONFIG Test_2/CONFIG_GitLab_2.txt"
+  artifacts:
+    name: "1473__OpCX_T2"
+    paths:
+    - "Test_2/WORK/NEXTGEN_4_/POPULATION/*.bin"
+    - "Test_2/WORK/*.txt"
+    expire_in: 1 week
+
+Test CruzaCX_3:
+  stage: test
+  script: 
+  - "java -jar target/OpCX-1.0.jar -CONFIG Test_3/CONFIG_GitLab_3.txt"
+  artifacts:
+    name: "1473__OpCX_T3"
+    paths:
+    - "Test_3/WORK/NEXTGEN_4_/POPULATION/*.bin"
+    - "Test_3/WORK/*.txt"
+    expire_in: 1 week
+
+Test CruzaCX_4:
+  stage: test
+  script: 
+  - "java -jar target/OpCX-1.0.jar -CONFIG Test_4/CONFIG_GitLab_4.txt"
+  artifacts:
+    name: "1473__OpCX_T4"
+    paths:
+    - "Test_4/WORK/NEXTGEN_4_/POPULATION/*.bin"
+    - "Test_4/WORK/*.txt"
+    expire_in: 1 week
+
+Test CruzaCX_5:
+  stage: test
+  script: 
+  - "java -jar target/OpCX-1.0.jar -CONFIG Test_5/CONFIG_GitLab_5.txt"
+  artifacts:
+    name: "1473__OpCX_T5"
+    paths:
+    - "Test_5/WORK/NEXTGEN_4_/POPULATION/*.bin"
+    - "Test_5/WORK/*.txt"
+    expire_in: 1 week

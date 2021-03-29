@@ -1,0 +1,31 @@
+-FWORK          @WORK_PATH@/test/WORK
+-FSTATE         @WORK_PATH@/test/WORK/StateMike.txt
+-PLOTMAX		true 
+-PMAXTEXT		NO
+-PLOTPROM		true 
+-PPROMTEXT		GEN
+-PLOTMIN 		true 
+-PMINTEXT		GENVAL
+-HEAD          	>--ö--< GENGENETIC >--ö--<
+-LABELS			-NELITE,-KTORNEO,-PMUT,-XPROB,-NI
+-NELITE         1
+-KTORNEO        2
+-VIEWIFAZ       false
+-PMUT           10
+-XPROP          90
+-NOTES           Experimento 1
+-NI             20
+-FIMGFA		 @WORK_PATH@/test/Img/Evolucion.jpg
+
+-SAVEBOX    @WORK_PATH@/UploadFilesDpx/target/UploadFilesDpx.jar
+-PARAMBOX   @WORK_PATH@/test/Test.txt
+
+-DIR         @WORK_PATH@/test/Img
+-TOKEN       d8bURBEE2PkAAAAAAAAClyOrMrG8GV3G_-NfB6eopeYxIaOdUf-137InpaDjQ1YR
+-UFDATE        2018/08/20/00/00
+-OUT         Experimento1
+-EXT         .jpg
+-FILEURL     @WORK_PATH@/test/Img/Evolucion.txt
+
+-PBESTFA     true
+-OPTIMOD     MIN

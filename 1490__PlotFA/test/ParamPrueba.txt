@@ -1,0 +1,31 @@
+-FWORK          C:\Users\PAI\Documents\ReposGitLab\1490__PlotFA\test\WORK
+-OPTIMOD        MIN
+-PBESTFA        true
+
+-PLOTMAX		true 
+-PMAXTEXT		NO
+-PLOTPROM		true 
+-FSTATE         C:\Users\PAI\Documents\ReposGitLab\1490__PlotFA\test\WORK\StateMike.txt
+-PPROMTEXT		GEN
+-PLOTMIN 		true 
+-PMINTEXT		GENVAL
+-HEAD          	>--ö--< GENGENETIC >--ö--<
+-LABELS			-NELITE,-KTORNEO,-PMUT,-XPROB,-NI
+-NELITE         1
+-KTORNEO        2
+-VIEWIFAZ       false
+-PMUT           10
+-XPROP          90
+-NOTES           Experimento 1
+-NI             20
+-FIMGFA		 C:\Users\PAI\Documents\ReposGitLab\1490__PlotFA\test\Img\Evolucion.jpg
+
+-SAVEBOX    C:\Users\PAI\Documents\ReposGitLab\1490__PlotFA\UploadFilesDpx\target\UploadFilesDpx.jar
+-PARAMBOX   C:\Users\PAI\Documents\ReposGitLab\1490__PlotFA\test\ParamPrueba.txt
+
+-DIR         C:\Users\PAI\Documents\ReposGitLab\1490__PlotFA\test\Img
+-TOKEN       d8bURBEE2PkAAAAAAAAClyOrMrG8GV3G_-NfB6eopeYxIaOdUf-137InpaDjQ1YR
+-UFDATE        2018/08/30/00/00
+-OUT         Experimento1
+-EXT         .jpg
+-FILEURL     C:\Users\PAI\Documents\ReposGitLab\1490__PlotFA\test\Img\Evolucion.txt

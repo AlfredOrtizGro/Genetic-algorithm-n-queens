@@ -1,0 +1,25 @@
+
+-FWORK 		@WORK_PATH@/WORK
+
+-FACTG 		NEXTGEN
+
+-FFA		FA
+
+-NI		5
+
+-FSELECT	winners.txt
+
+-KTOURN		2
+
+-PTOURN		80
+
+-ONEALEO	OFF
+
+-THSELECT	2	
+
+-OPTIMOD	MAX	
+
+-LOG		ON
+
+-FLOG		log.txt
+

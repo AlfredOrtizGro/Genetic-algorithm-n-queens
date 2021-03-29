@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OpXUniforme:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="OpXUniforme.jar">
+      <element id="module-output" name="Cruza" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/seminario/maven/libs/args/1.1/args-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

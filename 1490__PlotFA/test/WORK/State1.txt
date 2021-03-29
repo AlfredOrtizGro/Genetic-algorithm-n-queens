@@ -1,0 +1,56 @@
+====================Generación:1====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	60		1
+
+Adaptación máxima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(1)\FA\IND100GEN.bin
+Adaptación promedio:0.1666666716337204
+Adaptación mínima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(1)\FA\IND100GEN.bin
+
+====================Generación:2====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	60		2
+
+Adaptación máxima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(2)\FA\IND100GEN.bin
+Adaptación promedio:0.1666666716337204
+Adaptación mínima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(2)\FA\IND100GEN.bin
+
+====================Generación:3====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	60		3
+
+Adaptación máxima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(3)\FA\IND100GEN.bin
+Adaptación promedio:0.1666666716337204
+Adaptación mínima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(3)\FA\IND100GEN.bin
+
+====================Generación:4====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	60		4
+
+Adaptación máxima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(4)\FA\IND100GEN.bin
+Adaptación promedio:0.1666666716337204
+Adaptación mínima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(4)\FA\IND100GEN.bin
+
+====================Generación:5====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	60		5
+
+Adaptación máxima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(5)\FA\IND100GEN.bin
+Adaptación promedio:0.1666666716337204
+Adaptación mínima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(5)\FA\IND100GEN.bin
+
+====================Generación:6====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	60		6
+
+Adaptación máxima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(6)\FA\IND1001GEN.bin
+Adaptación promedio:0.1666666716337204
+Adaptación mínima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(6)\FA\IND1001GEN.bin
+
+====================Generación:7====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	60		7
+
+Adaptación máxima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(7)\FA\IND1001GEN.bin
+Adaptación promedio:0.1666666716337204
+Adaptación mínima:0.16666667 ->C:\0001_MixMetric\WORK1\ACTGEN(7)\FA\IND1001GEN.bin
+

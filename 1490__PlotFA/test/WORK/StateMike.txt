@@ -1,0 +1,270 @@
+====================GeneraciÃ³n:1====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		1
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:325.10007
+AdaptaciÃ³n promedio:242.1571142578125
+AdaptaciÃ³n mÃ­nima:146.9
+
+====================GeneraciÃ³n:2====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		2
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:340.09998
+AdaptaciÃ³n promedio:221.69851379394532
+AdaptaciÃ³n mÃ­nima:146.9
+
+====================GeneraciÃ³n:3====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		3
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:274.00003
+AdaptaciÃ³n promedio:205.86791564941407
+AdaptaciÃ³n mÃ­nima:146.9
+
+====================GeneraciÃ³n:4====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		4
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:261.5
+AdaptaciÃ³n promedio:196.42261413574218
+AdaptaciÃ³n mÃ­nima:144.59999
+
+====================GeneraciÃ³n:5====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		5
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:266.09998
+AdaptaciÃ³n promedio:193.27121307373048
+AdaptaciÃ³n mÃ­nima:144.59999
+
+====================GeneraciÃ³n:6====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		6
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:265.1
+AdaptaciÃ³n promedio:193.72131805419923
+AdaptaciÃ³n mÃ­nima:135.30002
+
+====================GeneraciÃ³n:7====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		7
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:276.6
+AdaptaciÃ³n promedio:181.36441696166992
+AdaptaciÃ³n mÃ­nima:135.30002
+
+====================GeneraciÃ³n:8====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		8
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:272.2
+AdaptaciÃ³n promedio:177.7851174926758
+AdaptaciÃ³n mÃ­nima:128.40001
+
+====================GeneraciÃ³n:9====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		9
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:272.90002
+AdaptaciÃ³n promedio:176.08261978149415
+AdaptaciÃ³n mÃ­nima:128.40001
+
+====================GeneraciÃ³n:10====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		10
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:271.99997
+AdaptaciÃ³n promedio:172.13331848144531
+AdaptaciÃ³n mÃ­nima:128.3
+
+====================GeneraciÃ³n:11====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		11
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:274.39996
+AdaptaciÃ³n promedio:163.59771354675294
+AdaptaciÃ³n mÃ­nima:124.20001
+
+====================GeneraciÃ³n:12====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		12
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:235.5
+AdaptaciÃ³n promedio:156.83631332397462
+AdaptaciÃ³n mÃ­nima:122.600006
+
+====================GeneraciÃ³n:13====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		13
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:244.80002
+AdaptaciÃ³n promedio:154.1480142211914
+AdaptaciÃ³n mÃ­nima:122.600006
+
+====================GeneraciÃ³n:14====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		14
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:206.90001
+AdaptaciÃ³n promedio:153.43091178894042
+AdaptaciÃ³n mÃ­nima:122.600006
+
+====================GeneraciÃ³n:15====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		15
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:226.90002
+AdaptaciÃ³n promedio:150.76381057739258
+AdaptaciÃ³n mÃ­nima:117.409996
+
+====================GeneraciÃ³n:16====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		16
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:227.71004
+AdaptaciÃ³n promedio:145.24201141357423
+AdaptaciÃ³n mÃ­nima:117.409996
+
+====================GeneraciÃ³n:17====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		17
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:207.1
+AdaptaciÃ³n promedio:140.58850944519043
+AdaptaciÃ³n mÃ­nima:117.409996
+
+====================GeneraciÃ³n:18====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		18
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:206.01
+AdaptaciÃ³n promedio:144.24721122741698
+AdaptaciÃ³n mÃ­nima:109.49999
+
+====================GeneraciÃ³n:19====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		19
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:256.10004
+AdaptaciÃ³n promedio:145.80050827026366
+AdaptaciÃ³n mÃ­nima:108.49999
+
+====================GeneraciÃ³n:20====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		20
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:231.6
+AdaptaciÃ³n promedio:133.93500427246093
+AdaptaciÃ³n mÃ­nima:108.49999
+
+====================GeneraciÃ³n:21====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		21
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:203.41
+AdaptaciÃ³n promedio:125.50279891967773
+AdaptaciÃ³n mÃ­nima:108.100006
+
+====================GeneraciÃ³n:22====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		22
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:213.00003
+AdaptaciÃ³n promedio:125.31
+AdaptaciÃ³n mÃ­nima:104.49999
+
+====================GeneraciÃ³n:23====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		23
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:184.6
+AdaptaciÃ³n promedio:119.9491008758545
+AdaptaciÃ³n mÃ­nima:98.600006
+
+====================GeneraciÃ³n:24====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		24
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:180.30002
+AdaptaciÃ³n promedio:115.29800239562988
+AdaptaciÃ³n mÃ­nima:97.8
+
+====================GeneraciÃ³n:25====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		25
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:183.70001
+AdaptaciÃ³n promedio:116.93300285339356
+AdaptaciÃ³n mÃ­nima:90.9
+
+====================GeneraciÃ³n:26====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		26
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:183.90002
+AdaptaciÃ³n promedio:113.71400215148925
+AdaptaciÃ³n mÃ­nima:90.9
+
+====================GeneraciÃ³n:27====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		27
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:176.30002
+AdaptaciÃ³n promedio:112.66400352478027
+AdaptaciÃ³n mÃ­nima:90.9
+
+====================GeneraciÃ³n:28====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		28
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:161.40002
+AdaptaciÃ³n promedio:105.15400230407715
+AdaptaciÃ³n mÃ­nima:85.100006
+
+====================GeneraciÃ³n:29====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	30		29
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:179.70003
+AdaptaciÃ³n promedio:104.97600112915039
+AdaptaciÃ³n mÃ­nima:85.100006
+
+====================GeneraciÃ³n:30====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	TRUE	30		30
+-MAXERAS	FALSE	3		1
+
+AdaptaciÃ³n mÃ¡xima:178.90002
+AdaptaciÃ³n promedio:101.63600173950195
+AdaptaciÃ³n mÃ­nima:85.100006
+

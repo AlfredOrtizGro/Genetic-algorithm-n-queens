@@ -1,0 +1,4 @@
+-NOMBRE Dulce Desirey Rodríguez Gómez
+-NOMBRE_PRESENTACION IA en Seg Ciud
+-NIVEL licenciatura
+-CORREO dulce1123@gmail.com

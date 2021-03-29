@@ -1,0 +1,352 @@
+*****************************  REPORTE  **********************************
+Ruta de trabajo (-FWORK): C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK
+Numero de individuos generados (-NI: 100) - (-NELITE: 3) = 97
+DETALLE
+Operador CX
+Generación 3
+-XPROB: 90
+Poblacion de padres: C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION
+Prefijo (-PRE) -> IND
+Infijo (-INF) -> 100
+Posfijo (-POS) -> GEN
+Indices de padres -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\PARENTS.txt
+Validacion de padres
+Suma de valores -> 351.0
+Todos los padres fueron validados
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND100GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND10GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND101GEN.bin
+DB -> IND102GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND11GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND12GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND103GEN.bin
+DB -> IND104GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND13GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND14GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND105GEN.bin
+DB -> IND106GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND15GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND16GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND107GEN.bin
+DB -> IND108GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND17GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND18GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND109GEN.bin
+DB -> IND110GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND19GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND1GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND111GEN.bin
+DB -> IND112GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND20GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND21GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND113GEN.bin
+DB -> IND114GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND22GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND23GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND115GEN.bin
+DB -> IND116GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND24GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND25GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND117GEN.bin
+DB -> IND118GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND26GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND27GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND119GEN.bin
+DB -> IND120GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND28GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND29GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND121GEN.bin
+DB -> IND122GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND2GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND30GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND123GEN.bin
+DB -> IND124GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND31GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND32GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND125GEN.bin
+DB -> IND126GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND33GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND34GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND127GEN.bin
+DB -> IND128GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND35GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND36GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND129GEN.bin
+DB -> IND130GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND37GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND38GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND131GEN.bin
+DB -> IND132GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND39GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND3GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND133GEN.bin
+DB -> IND134GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND40GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND41GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND135GEN.bin
+DB -> IND136GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND42GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND43GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND137GEN.bin
+DB -> IND138GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND44GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND45GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND139GEN.bin
+DB -> IND140GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND46GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND47GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND141GEN.bin
+DB -> IND142GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND48GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND49GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND143GEN.bin
+DB -> IND144GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND4GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND50GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND145GEN.bin
+DB -> IND146GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND51GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND52GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND147GEN.bin
+DB -> IND148GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND53GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND54GEN.bin
+PA -> PB Punto de inicio del ciclo -> 15
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND149GEN.bin
+DB -> IND150GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND55GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND56GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND151GEN.bin
+DB -> IND152GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND57GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND58GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND153GEN.bin
+DB -> IND154GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND59GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND5GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND155GEN.bin
+DB -> IND156GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND60GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND61GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND157GEN.bin
+DB -> IND158GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND62GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND63GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND159GEN.bin
+DB -> IND160GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND64GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND65GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND161GEN.bin
+DB -> IND162GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND66GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND67GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND163GEN.bin
+DB -> IND164GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND68GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND69GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 11
+DA -> IND165GEN.bin
+DB -> IND166GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND6GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND70GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND167GEN.bin
+DB -> IND168GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND71GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND72GEN.bin
+PA -> PB Punto de inicio del ciclo -> 15
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND169GEN.bin
+DB -> IND170GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND73GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND74GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND171GEN.bin
+DB -> IND172GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND75GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND76GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND173GEN.bin
+DB -> IND174GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND77GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND78GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND175GEN.bin
+DB -> IND176GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND79GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND7GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND177GEN.bin
+DB -> IND178GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND80GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND81GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND179GEN.bin
+DB -> IND180GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND82GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND83GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND181GEN.bin
+DB -> IND182GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND84GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND85GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND183GEN.bin
+DB -> IND184GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND86GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND87GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND185GEN.bin
+DB -> IND186GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND88GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND89GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND187GEN.bin
+DB -> IND188GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND8GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND90GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND189GEN.bin
+DB -> IND190GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND91GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND92GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND191GEN.bin
+DB -> IND192GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND93GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND94GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND193GEN.bin
+DB -> IND194GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND95GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND96GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND195GEN.bin
+DB -> IND196GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND97GEN.bin
+PB -> C:\Users\areyes\Desktop\Repositorios\HolaMundo-AG\test-submodules\1473__OpXCycle\Test_5\WORK\ACTGEN_3_\POPULATION\IND98GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND197GEN.bin
+------------------------------------------------------------
+
+***************************************************************************

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GenGenetic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GenGenetic_jar</output-path>
+    <root id="archive" name="GenGenetic.jar">
+      <element id="module-output" name="GenGenetic" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/seminario/maven/libs/args/1.1/args-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

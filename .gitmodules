@@ -1,0 +1,27 @@
+[submodule "1420__population"]
+	path = 1420__population
+	url = git@172.17.110.146:algoritmoGenetico/operadoresPoblacionInicial/1420__population.git
+[submodule "1441__FA-AgenteViajero-TSP"]
+	path = 1441__FA-AgenteViajero-TSP
+	url = git@172.17.110.146:algoritmoGenetico/funcionesDeAptitud/1441__FA-AgenteViajero-TSP.git
+[submodule "1458__OpSelTorneo"]
+	path = 1458__OpSelTorneo
+	url = git@172.17.110.146:algoritmoGenetico/operadoresDeSeleccion/1458__OpSelTorneo.git
+[submodule "1455__OpSelElite"]
+	path = 1455__OpSelElite
+	url = git@172.17.110.146:algoritmoGenetico/operadoresDeSeleccion/1455__OpSelElite.git
+[submodule "1473__OpXCycle"]
+	path = 1473__OpXCycle
+	url = git@172.17.110.146:algoritmoGenetico/operadoresDeCruza/1473__OpXCycle.git
+[submodule "1487__OpMutInsertion"]
+	path = 1487__OpMutInsertion
+	url = git@172.17.110.146:algoritmoGenetico/operadoresDeMutacion/1487__OpMutInsertion.git
+[submodule "1430__parar"]
+	path = 1430__parar
+	url = git@172.17.110.146:algoritmoGenetico/operadoresDeParada/1430__parar.git
+[submodule "1400__GenGenetic"]
+	path = 1400__GenGenetic
+	url = git@172.17.110.146:algoritmoGenetico/GenGenetic/1400__GenGenetic.git
+[submodule "1490__PlotFA"]
+	path = 1490__PlotFA
+	url = git@172.17.110.146:algoritmoGenetico/tools/1490__PlotFA.git

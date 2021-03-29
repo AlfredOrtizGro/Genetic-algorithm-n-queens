@@ -1,0 +1,110 @@
+﻿
+#Para_GenGenetic
+#Forzosos
+
+-FWORK		C:\0008_MixMetric\WORK
+-OP1SEL		C:\0008_MixMetric\1458__Tournament\Tournament.bat
+-OP2SEL		C:\0008_MixMetric\1455__OpSelElite\OpSelElite.bat
+-OPCRUZA	C:\0008_MixMetric\1473__NPointCrossover\NPointCrossover.bat
+-OPMUT		C:\0008_MixMetric\1485__OpMutUniforme\OpMutUniforme.bat
+-OPFA		C:\0008_MixMetric\1441__FAMeasureGA\FAMeasureGA.bat
+-OPSTOP		C:\0008_MixMetric\1430__Parar\Parar.bat
+-OPPOP		C:\0008_MixMetric\1420__Population\Population.bat
+*FINIPOP	C:\0008_MixMetric\WORKIny\NEXTGEN(1)\POPULATION
+*FINIFA		C:\0008_MixMetric\WORKIny\NEXTGEN(1)\FA
+
+#Opcionales
+-HISTORY	true
+-CONSOLE	true
+-FACTG		ACTGEN
+-FNEXTG		NEXTGEN
+-FPOP		POPULATION
+-FFA		FA
+-NDIED		29
+-NELITE		1
+
+
+#Para_la_mutacion_uniforme
+-PMUT		10
+*PRECISION      número de dígitos de precisio en números reales después del punto
+*VMININT        valor entero mínimo que puede tomar el gen
+*VMAXINT        valor entero máximo que peude tomar el gen
+*NGENMUT        número de genes a ser mutados
+*PGENMUT        probabilidad en el número de genes a ser mutados
+
+#Para_la_función_de_aptitud
+-FAFMAMIN	0
+-FAFMAMAX	1000
+-SIZECHR	10
+-PRESI		1000
+-FMEASURE	C:\0008_MixMetric\1441__FAMeasureGA\EndlessMeasure2\Endless.bat
+-PFMEASURE	C:\0008_MixMetric\Parametros.txt
+
+
+#Endless
+-BETWEEN	C:\0008_MixMetric\listNameTGC.txt
+-MDLIST		C:\0008_MixMetric\MeasuresList.txt
+-FORMATT	ED
+-DIR		C:\0008_MixMetric\ALLMEDIDAS_MSoCo_TGC4
+-DFUSION	C:\0008_MixMetric\FUSION_TGC4
+-DENDLESS	C:\0008_MixMetric\FINAL_TGC
+-FPARAMS	paramsAG.txt
+-JOINER		C:\0008_MixMetric\1441__FAMeasureGA\JoinMeasures2Gabs\Join.bat
+-EVAL		C:\0008_MixMetric\1441__FAMeasureGA\EvaluationKondrak2\Evaluation.bat
+-PEVAL		C:\0008_MixMetric\Parametros.txt
+-EXTT		c
+
+#Evaluacion Kondrak
+-OBJETIVE	C:\0008_MixMetric\GoldSt_Soco14c.txt
+-TOEVALUATE	C:\0008_MixMetric\FINAL_TGC
+-FORMATTK	ED
+-TYPEK		RAGH
+-SHOW		ALL
+-NFM		2
+-FOUT		C:\0008_MixMetric\fmeasure.bin
+
+#Para la seleccion Tournament
+-KTOURN		2
+
+#Para_la_cruza_uniforme
+*XPROB          5
+#Para_la_cruza_en_NPuntos
+*XNPTS          2
+*XSOFT
+#Para cruza N puntos pordeaful NCROSS = 1
+-NCROSS		2
+
+#Para_la_creación_de_la_población
+-NI		30
+-NGEN		30
+-VMININT	0
+-VMAXINT	1
+-TYPE		INT
+-PRE		IND
+-INF		1
+-POS		GEN
+-REPEAT		true
+
+#Para_la_condición_de_paro
+-MAXGEN		50
+*TIME           4
+*DATE           2011/06/14/17/22
+*FAMIN          11.11
+*FAMAX          1000.0
+*GEN100         74
+*POP100         29
+*FADIFF         0.1
+
+#Para graficación de la evolución
+-PLOTMAX	true
+-PMAXTEXT	NO
+-PLOTPROM	true
+-PPROMTEXT	GEN
+-PLOTMIN	true
+-PMINTEXT	GENVAL
+-HEAD		>--ö--< GENGENETIC - FALUXES
+-NOTE		-NELITE,-KTORNEO,-PMUT,-XPROB,-NI
+-FIMGFA		Evolucion.png
+-FELITE		ELITE.TXT
+-CONFIG		Parametros.txt
+-FSELECT	PARENTS.txt

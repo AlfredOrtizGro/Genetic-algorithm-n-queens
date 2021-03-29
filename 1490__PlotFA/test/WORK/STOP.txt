@@ -1,0 +1,8 @@
+====================Generación:50====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	TRUE	50		50
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(50)\FA\IND1000GEN.bin
+Adaptación promedio:1.5057056546211243
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(50)\FA\IND1441GEN.bin
+

@@ -1,0 +1,2 @@
+-IN_DATA         @WORK_PATH@/test/data1
+-OUT             @WORK_PATH@/test_out/data1

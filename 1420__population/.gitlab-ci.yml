@@ -1,0 +1,94 @@
+image: maven:3.5.3-jdk-8
+
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  script: "mvn clean compile assembly:single"
+  artifacts:
+    name: "Population-jar"
+    paths:
+    - "target/*.jar"
+    expire_in: 1 week
+
+Test_1 Population_1:
+  stage: test
+  script: "java -jar target/Population-1.0.jar -CONFIG Test_1/CONFIG_GitLab_1.txt"
+  artifacts:
+    name: "Population_T1"
+    paths:
+    - "Test_1/WORK/NEXTGEN_1_/POPULATION/*.bin"
+    - "Test_1/WORK/*.txt"
+    expire_in: 1 week
+
+Test_2 Population_2:
+  stage: test
+  script: "java -jar target/Population-1.0.jar -CONFIG Test_2/CONFIG_GitLab_2.txt"
+  artifacts:
+    name: "Population_T2"
+    paths:
+    - "Test_2/WORK/NEXTGEN_1_/POPULATION/*.bin"
+    - "Test_2/WORK/*.txt"
+    expire_in: 1 week
+
+Test_3 Population_3:
+  stage: test
+  script: "java -jar target/Population-1.0.jar -CONFIG Test_3/CONFIG_GitLab_3.txt"
+  artifacts:
+    name: "Population_T3"
+    paths:
+    - "Test_3/WORK/NEXTGEN_1_/POPULATION/*.bin"
+    - "Test_3/WORK/*.txt"
+    expire_in: 1 week
+
+Test_4 Population_4:
+  stage: test
+  script: "java -jar target/Population-1.0.jar -CONFIG Test_4/CONFIG_GitLab_4.txt"
+  artifacts:
+    name: "Population_T4"
+    paths:
+    - "Test_4/WORK/NEXTGEN_1_/POPULATION/*.bin"
+    - "Test_4/WORK/*.txt"
+    expire_in: 1 week
+
+Test_5 Population_5:
+  stage: test
+  script: "java -jar target/Population-1.0.jar -CONFIG Test_5/CONFIG_GitLab_5.txt"
+  artifacts:
+    name: "Population_T5"
+    paths:
+    - "Test_5/WORK/NEXTGEN_1_/POPULATION/*.bin"
+    - "Test_5/WORK/*.txt"
+    expire_in: 1 week
+  
+Test_6 Population_6:
+  stage: test
+  script: "java -jar target/Population-1.0.jar -CONFIG Test_6/CONFIG.txt"
+  artifacts:
+    name: "Population_T6"
+    paths:
+    - "Test_6/WORK/NEXTGEN_1_/POPULATION/*.bin"
+    - "Test_6/WORK/*.txt"
+    expire_in: 1 week
+
+Test_7 Population_fromVector_Permutations :
+  stage: test
+  script: "java -jar target/Population-1.0.jar -CONFIG Test_7/CONFIG.txt -FWORK @WORK_PATH@/Test_7/WORK_Perm -REPEAT true"
+  artifacts:
+    name: "Population_T7_Permutation"
+    paths:
+    - "Test_7/WORK_Perm/NEXTGEN_1_/POPULATION/*.bin"
+    - "Test_7/WORK_Perm/*.txt"
+    expire_in: 1 week
+
+Test_7 Population_fromVector_Combinations :
+  stage: test
+  script: "java -jar target/Population-1.0.jar -CONFIG Test_7/CONFIG.txt -FWORK @WORK_PATH@/Test_7/WORK_Comb -REPEAT false"
+  artifacts:
+    name: "Population_T7_Combinations"
+    paths:
+    - "Test_7/WORK_Comb/NEXTGEN_1_/POPULATION/*.bin"
+    - "Test_7/WORK_Comb/*.txt"
+    expire_in: 1 week

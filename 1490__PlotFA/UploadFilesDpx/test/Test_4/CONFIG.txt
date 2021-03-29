@@ -1,0 +1,6 @@
+-DIR       test/Test_4/Presentaciones
+-EXT       .png 
+-TOKEN     "ex2uw8-XzDkAAAAAAAAEmxz7tlOo9bsmvy9yQm1pMx8XIOgsvObtEkH3sWtbZVsE"
+-UFDATE    "2017/05/30/10/30"
+-OUT       Test
+-FILEURL   test/Test_4/URL.txt

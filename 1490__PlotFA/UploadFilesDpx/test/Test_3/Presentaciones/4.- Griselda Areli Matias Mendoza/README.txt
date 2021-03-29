@@ -1,0 +1,4 @@
+-NOMBRE Griselda Areli Matias Mendoza	
+-NOMBRE_PRESENTACION Generación Automática de Resúmenes Independientes del Lenguaje 
+-NIVEL Doctorado
+-CORREO gris_9123@hotmail.com

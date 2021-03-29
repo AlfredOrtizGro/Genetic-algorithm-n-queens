@@ -1,0 +1,9 @@
+-FWORK     @WORK_PATH@/Test_3/WORK
+-FACTG     ACTGEN_3_
+-FNEXTG    NEXTGEN_4_
+-FPOP      POPULATION
+-FSELECT   PARENTS.txt                     
+-NI        100
+-NELITE    1                      
+-XPROB  20
+-REPORTCX RepoOpCX_3.txt

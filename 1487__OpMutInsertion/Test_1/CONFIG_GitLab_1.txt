@@ -1,0 +1,5 @@
+-FWORK      @WORK_PATH@/Test_1/WORK
+-FNEXTG     NEXTGEN_4_
+-FPOP       POPULATION
+-PMUT       0.7
+-REPORTINS  Report_Ins_1.txt

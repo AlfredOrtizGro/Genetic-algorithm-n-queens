@@ -1,0 +1,102 @@
+﻿#Para_GenGenetic
+#Forzosos
+-FWORK          @WORK_PATH@\WORK
+-OP1SEL         @WORK_PATH@\1458__OpSelTorneo\target\OpSelTorneo-1.0.jar
+-OP2SEL         @WORK_PATH@\1455__OpSelElite\target\OpSelElite-1.0.jar
+*OPCRUZA        @WORK_PATH@\1474__OpXPmx\dist\1474__OpXPmx-1.0.jar
+-OPCRUZA        @WORK_PATH@\1473__OpXCycle\target\OpCX-1.0.jar
+*OPCRUZA        @WORK_PATH@\Cruza_Por_Orden\Cruza_Por_Orden.jar
+-OPMUT          @WORK_PATH@\1487__OpMutInsertion\target\OpMutInsertion-1.0.jar
+-OPFA           @WORK_PATH@\FAReinas\dist\FAReinas.jar
+-OPSTOP         @WORK_PATH@\1430__parar\target\parar-1.0.jar
+-OPPOP          @WORK_PATH@\1420__population\target\Population-1.0.jar
+*FINIPOP        @WORK_PATH@\WORK\ACTGEN_00_\POPULATION
+*FINIFA         @WORK_PATH@\WORK\NEXTGEN_01_\FA
+
+#OPCIONALES
+#Conservar los individuos generados en toda la evolución
+-HISTORY        true
+#Mostrar los comandos en la consola que son ejecutados desde GenGenetic
+-CONSOLE        true
+#Nombre del directorio de la generación actual
+-FACTG          ACTGEN
+#Nombre del directorio de la generación siguiente
+-FNEXTG         NEXTGEN
+#Nombre del directorio en donde se va a generar la población (El resultado es WORK+FACTG+FPOP)--->@WORK_PATH@/WORK/ACTGEN/POPULTATION
+-FPOP           POPULATION
+#Nombre del directorio en donde se va a guardar la aptitud de cada individuo (El resultado es WORK+FACTG+FA)--->@WORK_PATH@/WORK/ACTGEN/FA
+-FFA            FA
+
+#GENERACIÓN DE LA POBLACIÓN INICIAL
+#Número de individuos que se van a generar
+-NI             1000
+#Número de genes que debe tener cada individuo
+-NGEN           27
+#Valor mínimo que puede tener un gen
+-VMININT        1
+#Valor máximo que puede tener un gen
+-VMAXINT        27
+#Tipo de dato para cada gen
+-TYPE           INT
+#Para nombrar a los individuos
+-PRE            IND
+-INF            1
+-POS            GEN
+#¿El individuo puede tener genes repetidos?
+-REPEAT         false
+-REPORTPOP      ReportPopulation.txt
+
+#SELECCIÓN DE INDIVIDUOS
+#TORNEO
+#Tamaño del torneo
+-KTOURN         4
+-FLOG           Sel_KT.txt
+#Modo de optimización MAX = Maximización, MIN = Minimización
+-OPTIMOD        MIN
+-LOG            ON
+-FSELECT        PARENTS.TXT
+#ELITISMO
+#Número de individuos ELITE que se van a usar
+-NELITE         1
+
+#CRUZA POR CICLOS(CX)
+#Probabilidad de cruza -XPROB [0-100]
+-XPROB          85
+-REPORTCX       RepoOpCX.txt
+
+#MUTACIÓN POR INSERCIÓN
+#Probabilidad de mutación [0-100]. Se recomienda utilizar valores de 0.0 a 1.5
+-PMUT           0.6
+-REPORTINS      Report_Ins.txt
+
+#CONDICIÓN DE PARO
+#El algoritmo genético detendrá su ejecución al alcanzar la generación 100
+-MAXGEN         50
+#El algoritmo genético se detendrá al tomar más de 2 minutos de ejecución
+*TIME           2
+#Detener en una fecha
+*DATE           2011/06/14/17/22
+#Detener al alcanzar un valor mínimo de aptitud
+*FAMIN          0.0
+#Detener al alcanzar un valor máximo de aptitud
+*FAMAX          100.0
+*GEN100         74
+*POP100         29
+*FADIFF         0.1
+
+#Para graficador(GENVAL = No. generación + FA, GEN = No. de generación)
+#¿Graficar la aptitud máxima?
+-PLOTMAX        true 
+-PMAXTEXT       VAL
+#¿Graficar aptitud promedio?
+-PLOTPROM       true 
+-PPROMTEXT      VAL
+#¿Graficar aptitud mínima?
+-PLOTMIN        true 
+-PMINTEXT       VAL
+#Cabecera de la imagen que contiene la evolución graficada
+-HEAD           >--ö--< GENGENETIC >--ö--<
+-LABELS         -NELITE,-KTOURN,-PMUT,-XPROB,-NI,-MAXGEN
+-VIEWIFAZ       true
+
+#Autogenerados

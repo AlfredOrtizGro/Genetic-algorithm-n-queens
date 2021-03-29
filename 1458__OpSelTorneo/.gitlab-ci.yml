@@ -1,0 +1,41 @@
+image: maven:3.5.3-jdk-8
+
+stages:
+  - build
+  - test
+
+job 1:
+  stage: build
+  script: "mvn clean compile assembly:single"
+  artifacts:
+    name: "ejemplo"
+    paths:
+    - "target/*.jar"
+    expire_in: 1 week
+
+test maxk2p80th1log:
+  stage: test
+  script: "java -jar target/OpSelTorneo-1.0.jar -CONFIG test/test1.txt"
+  artifacts:
+    name: "out1"
+    paths:
+    - "WORK/NEXTGEN/*.txt"
+    expire_in: 1 week
+
+test mink2p50th2log:
+  stage: test
+  script: "java -jar target/OpSelTorneo-1.0.jar -CONFIG test/test2.txt"
+  artifacts:
+    name: "out2"
+    paths:
+    - "WORK/NEXTGEN/*.txt"
+    expire_in: 1 week
+
+test maxk2th0log:
+  stage: test
+  script: "java -jar target/OpSelTorneo-1.0.jar -CONFIG test/test2.txt"
+  artifacts:
+    name: "out3"
+    paths:
+    - "WORK/NEXTGEN/*.txt"
+    expire_in: 1 week

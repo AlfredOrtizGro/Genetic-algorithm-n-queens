@@ -1,0 +1,74 @@
+image: maven:3.5.3-jdk-8
+
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  script: "mvn clean compile assembly:single"
+  artifacts:
+    name: "1487__OpMutInsertion"
+    paths:
+    - "target/*.jar"
+    expire_in: 1 week
+
+Test Mut-Ins_1:
+  stage: test
+  script: 
+  - "java -jar target/OpMutInsertion-1.0.jar -CONFIG Test_1/CONFIG_GitLab_1.txt"
+  artifacts:
+    name: "1487__OpMutInsertion_T1"
+    paths:
+    - "Test_1/WORK/NEXTGEN_4_/POPULATION/*.bin"
+    - "Test_1/WORK/NEXTGEN_4_/*.*"
+    - "Test_1/*.*"
+    expire_in: 1 week
+
+Test Mut-Ins_2:
+  stage: test
+  script: 
+  - "java -jar target/OpMutInsertion-1.0.jar -CONFIG Test_2/CONFIG_GitLab_2.txt"
+  artifacts:
+    name: "1487__OpMutInsertion_T2"
+    paths:
+    - "Test_2/WORK/NEXTGEN_4_/POPULATION/*.bin"
+    - "Test_2/WORK/NEXTGEN_4_/*.*"
+    - "Test_2/*.*"
+    expire_in: 1 week
+
+Test Mut-Ins_3:
+  stage: test
+  script: 
+  - "java -jar target/OpMutInsertion-1.0.jar -CONFIG Test_3/CONFIG_GitLab_3.txt"
+  artifacts:
+    name: "1487__OpMutInsertion_T3"
+    paths:
+    - "Test_3/WORK/NEXTGEN_4_/POPULATION/*.bin"
+    - "Test_3/WORK/NEXTGEN_4_/*.*"
+    - "Test_3/*.*"
+    expire_in: 1 week
+
+Test Mut-Ins_4:
+  stage: test
+  script: 
+  - "java -jar target/OpMutInsertion-1.0.jar -CONFIG Test_4/CONFIG_GitLab_4.txt"
+  artifacts:
+    name: "1487__OpMutInsertion_T4"
+    paths:
+    - "Test_4/WORK/NEXTGEN_4_/POPULATION/*.bin"
+    - "Test_4/WORK/NEXTGEN_4_/*.*"
+    - "Test_4/*.*"
+    expire_in: 1 week
+
+Test Mut-Ins_5:
+  stage: test
+  script: 
+  - "java -jar target/OpMutInsertion-1.0.jar -CONFIG Test_5/CONFIG_GitLab_5.txt"
+  artifacts:
+    name: "1487__OpMutInsertion_T5"
+    paths:
+    - "Test_5/WORK/NEXTGEN_4_/POPULATION/*.bin"
+    - "Test_5/WORK/NEXTGEN_4_/*.*"
+    - "Test_5/*.*"
+    expire_in: 1 week

@@ -1,0 +1,400 @@
+====================Generación:1====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		1
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(1)\FA\IND1GEN.bin
+Adaptación promedio:1.4455855727195739
+Adaptación mínima:1.2459459 ->C:\0008_MixMetric\WORK\ACTGEN(1)\FA\IND20GEN.bin
+
+====================Generación:2====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		2
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(2)\FA\IND1GEN.bin
+Adaptación promedio:1.4744143843650819
+Adaptación mínima:1.3765767 ->C:\0008_MixMetric\WORK\ACTGEN(2)\FA\IND37GEN.bin
+
+====================Generación:3====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		3
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(3)\FA\IND1GEN.bin
+Adaptación promedio:1.4870870471000672
+Adaptación mínima:1.4081081 ->C:\0008_MixMetric\WORK\ACTGEN(3)\FA\IND84GEN.bin
+
+====================Generación:4====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		4
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(4)\FA\IND1GEN.bin
+Adaptación promedio:1.4814714312553405
+Adaptación mínima:1.3207207 ->C:\0008_MixMetric\WORK\ACTGEN(4)\FA\IND102GEN.bin
+
+====================Generación:5====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		5
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(5)\FA\IND135GEN.bin
+Adaptación promedio:1.4808708310127259
+Adaptación mínima:1.2666667 ->C:\0008_MixMetric\WORK\ACTGEN(5)\FA\IND134GEN.bin
+
+====================Generación:6====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		6
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(6)\FA\IND135GEN.bin
+Adaptación promedio:1.490090048313141
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(6)\FA\IND155GEN.bin
+
+====================Generación:7====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		7
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(7)\FA\IND135GEN.bin
+Adaptación promedio:1.4912912487983703
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(7)\FA\IND184GEN.bin
+
+====================Generación:8====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		8
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(8)\FA\IND135GEN.bin
+Adaptación promedio:1.4850750327110291
+Adaptación mínima:1.3207207 ->C:\0008_MixMetric\WORK\ACTGEN(8)\FA\IND206GEN.bin
+
+====================Generación:9====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		9
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(9)\FA\IND135GEN.bin
+Adaptación promedio:1.5003002524375915
+Adaptación mínima:1.4801801 ->C:\0008_MixMetric\WORK\ACTGEN(9)\FA\IND244GEN.bin
+
+====================Generación:10====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		10
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(10)\FA\IND135GEN.bin
+Adaptación promedio:1.5018017530441283
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(10)\FA\IND263GEN.bin
+
+====================Generación:11====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		11
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(11)\FA\IND135GEN.bin
+Adaptación promedio:1.5051050543785096
+Adaptación mínima:1.4801801 ->C:\0008_MixMetric\WORK\ACTGEN(11)\FA\IND303GEN.bin
+
+====================Generación:12====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		12
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(12)\FA\IND135GEN.bin
+Adaptación promedio:1.5057056546211243
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(12)\FA\IND344GEN.bin
+
+====================Generación:13====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		13
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(13)\FA\IND135GEN.bin
+Adaptación promedio:1.5066065549850465
+Adaptación mínima:1.4891891 ->C:\0008_MixMetric\WORK\ACTGEN(13)\FA\IND358GEN.bin
+
+====================Generación:14====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		14
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(14)\FA\IND135GEN.bin
+Adaptación promedio:1.5057056546211243
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(14)\FA\IND406GEN.bin
+
+====================Generación:15====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		15
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(15)\FA\IND135GEN.bin
+Adaptación promedio:1.5051050543785096
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(15)\FA\IND430GEN.bin
+
+====================Generación:16====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		16
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(16)\FA\IND135GEN.bin
+Adaptación promedio:1.5066065549850465
+Adaptación mínima:1.4891891 ->C:\0008_MixMetric\WORK\ACTGEN(16)\FA\IND437GEN.bin
+
+====================Generación:17====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		17
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(17)\FA\IND135GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(17)\FA\IND135GEN.bin
+
+====================Generación:18====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		18
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(18)\FA\IND135GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(18)\FA\IND135GEN.bin
+
+====================Generación:19====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		19
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(19)\FA\IND135GEN.bin
+Adaptación promedio:1.5057056546211243
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(19)\FA\IND550GEN.bin
+
+====================Generación:20====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		20
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(20)\FA\IND135GEN.bin
+Adaptación promedio:1.5051050543785096
+Adaptación mínima:1.4801801 ->C:\0008_MixMetric\WORK\ACTGEN(20)\FA\IND581GEN.bin
+
+====================Generación:21====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		21
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(21)\FA\IND135GEN.bin
+Adaptación promedio:1.5066065549850465
+Adaptación mínima:1.4891891 ->C:\0008_MixMetric\WORK\ACTGEN(21)\FA\IND602GEN.bin
+
+====================Generación:22====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		22
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(22)\FA\IND135GEN.bin
+Adaptación promedio:1.5027026534080505
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(22)\FA\IND620GEN.bin
+
+====================Generación:23====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		23
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(23)\FA\IND135GEN.bin
+Adaptación promedio:1.504804754257202
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(23)\FA\IND662GEN.bin
+
+====================Generación:24====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		24
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(24)\FA\IND135GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(24)\FA\IND135GEN.bin
+
+====================Generación:25====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		25
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(25)\FA\IND135GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(25)\FA\IND135GEN.bin
+
+====================Generación:26====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		26
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(26)\FA\IND135GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(26)\FA\IND135GEN.bin
+
+====================Generación:27====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		27
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(27)\FA\IND135GEN.bin
+Adaptación promedio:1.5057056546211243
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(27)\FA\IND766GEN.bin
+
+====================Generación:28====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		28
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(28)\FA\IND135GEN.bin
+Adaptación promedio:1.5066065549850465
+Adaptación mínima:1.4891891 ->C:\0008_MixMetric\WORK\ACTGEN(28)\FA\IND813GEN.bin
+
+====================Generación:29====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		29
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(29)\FA\IND135GEN.bin
+Adaptación promedio:1.5045044541358947
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(29)\FA\IND817GEN.bin
+
+====================Generación:30====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		30
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(30)\FA\IND135GEN.bin
+Adaptación promedio:1.5036035537719727
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(30)\FA\IND858GEN.bin
+
+====================Generación:31====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		31
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(31)\FA\IND135GEN.bin
+Adaptación promedio:1.5027026534080505
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(31)\FA\IND884GEN.bin
+
+====================Generación:32====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		32
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(32)\FA\IND135GEN.bin
+Adaptación promedio:1.5045044541358947
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(32)\FA\IND901GEN.bin
+
+====================Generación:33====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		33
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(33)\FA\IND135GEN.bin
+Adaptación promedio:1.5060059547424316
+Adaptación mínima:1.4891891 ->C:\0008_MixMetric\WORK\ACTGEN(33)\FA\IND930GEN.bin
+
+====================Generación:34====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		34
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(34)\FA\IND135GEN.bin
+Adaptación promedio:1.5051050543785096
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(34)\FA\IND973GEN.bin
+
+====================Generación:35====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		35
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(35)\FA\IND1000GEN.bin
+Adaptación promedio:1.5057056546211243
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(35)\FA\IND1015GEN.bin
+
+====================Generación:36====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		36
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(36)\FA\IND1000GEN.bin
+Adaptación promedio:1.5042041540145874
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(36)\FA\IND1022GEN.bin
+
+====================Generación:37====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		37
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(37)\FA\IND1000GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(37)\FA\IND1000GEN.bin
+
+====================Generación:38====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		38
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(38)\FA\IND1000GEN.bin
+Adaptación promedio:1.5051050543785096
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(38)\FA\IND1101GEN.bin
+
+====================Generación:39====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		39
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(39)\FA\IND1000GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(39)\FA\IND1000GEN.bin
+
+====================Generación:40====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		40
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(40)\FA\IND1000GEN.bin
+Adaptación promedio:1.5051050543785096
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(40)\FA\IND1154GEN.bin
+
+====================Generación:41====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		41
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(41)\FA\IND1000GEN.bin
+Adaptación promedio:1.5051050543785096
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(41)\FA\IND1164GEN.bin
+
+====================Generación:42====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		42
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(42)\FA\IND1000GEN.bin
+Adaptación promedio:1.5066065549850465
+Adaptación mínima:1.4891891 ->C:\0008_MixMetric\WORK\ACTGEN(42)\FA\IND1218GEN.bin
+
+====================Generación:43====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		43
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(43)\FA\IND1000GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(43)\FA\IND1000GEN.bin
+
+====================Generación:44====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		44
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(44)\FA\IND1000GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(44)\FA\IND1000GEN.bin
+
+====================Generación:45====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		45
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(45)\FA\IND1000GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(45)\FA\IND1000GEN.bin
+
+====================Generación:46====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		46
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(46)\FA\IND1000GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(46)\FA\IND1000GEN.bin
+
+====================Generación:47====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		47
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(47)\FA\IND1000GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(47)\FA\IND1000GEN.bin
+
+====================Generación:48====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		48
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(48)\FA\IND1000GEN.bin
+Adaptación promedio:1.5066065549850465
+Adaptación mínima:1.4891891 ->C:\0008_MixMetric\WORK\ACTGEN(48)\FA\IND1376GEN.bin
+
+====================Generación:49====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		49
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(49)\FA\IND1000GEN.bin
+Adaptación promedio:1.5072071552276611
+Adaptación mínima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(49)\FA\IND1000GEN.bin
+
+====================Generación:50====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	TRUE	50		50
+
+Adaptación máxima:1.5072072 ->C:\0008_MixMetric\WORK\ACTGEN(50)\FA\IND1000GEN.bin
+Adaptación promedio:1.5057056546211243
+Adaptación mínima:1.4621621 ->C:\0008_MixMetric\WORK\ACTGEN(50)\FA\IND1441GEN.bin
+

@@ -1,0 +1,800 @@
+====================GeneraciÃ³n:1====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		1
+
+AdaptaciÃ³n mÃ¡xima:1.4756757 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_1_/FA/IND4GEN.bin
+AdaptaciÃ³n promedio:1.3026126146316528
+AdaptaciÃ³n mÃ­nima:1.1126126 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_1_/FA/IND33GEN.bin
+
+====================GeneraciÃ³n:2====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		2
+
+AdaptaciÃ³n mÃ¡xima:1.4801801 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_2_/FA/IND92GEN.bin
+AdaptaciÃ³n promedio:1.3042985762868609
+AdaptaciÃ³n mÃ­nima:1.1216216 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_2_/FA/IND100GEN.bin
+
+====================GeneraciÃ³n:3====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		3
+
+AdaptaciÃ³n mÃ¡xima:1.4801801 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_3_/FA/IND92GEN.bin
+AdaptaciÃ³n promedio:1.3066280535289219
+AdaptaciÃ³n mÃ­nima:1.1621622 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_3_/FA/IND164GEN.bin
+
+====================GeneraciÃ³n:4====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		4
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_4_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3111325587545122
+AdaptaciÃ³n mÃ­nima:1.1576576 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_4_/FA/IND266GEN.bin
+
+====================GeneraciÃ³n:5====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		5
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_5_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3076705166271754
+AdaptaciÃ³n mÃ­nima:1.1801802 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_5_/FA/IND332GEN.bin
+
+====================GeneraciÃ³n:6====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		6
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_6_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3014800429344178
+AdaptaciÃ³n mÃ­nima:1.1666666 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_6_/FA/IND395GEN.bin
+
+====================GeneraciÃ³n:7====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		7
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_7_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3216216155460903
+AdaptaciÃ³n mÃ­nima:1.1396396 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_7_/FA/IND442GEN.bin
+
+====================GeneraciÃ³n:8====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		8
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_8_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3202960048403058
+AdaptaciÃ³n mÃ­nima:1.1891892 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_8_/FA/IND507GEN.bin
+
+====================GeneraciÃ³n:9====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		9
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_9_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3085842932973588
+AdaptaciÃ³n mÃ­nima:1.099099 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_9_/FA/IND600GEN.bin
+
+====================GeneraciÃ³n:10====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		10
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_10_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3168983169964381
+AdaptaciÃ³n mÃ­nima:1.1351352 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_10_/FA/IND657GEN.bin
+
+====================GeneraciÃ³n:11====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		11
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_11_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3322007605007717
+AdaptaciÃ³n mÃ­nima:1.2072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_11_/FA/IND696GEN.bin
+
+====================GeneraciÃ³n:12====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		12
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_12_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3371557252747672
+AdaptaciÃ³n mÃ­nima:1.2027028 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_12_/FA/IND790GEN.bin
+
+====================GeneraciÃ³n:13====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		13
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_13_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3553024411201477
+AdaptaciÃ³n mÃ­nima:1.1891892 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_13_/FA/IND833GEN.bin
+
+====================GeneraciÃ³n:14====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		14
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_14_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3505147968019757
+AdaptaciÃ³n mÃ­nima:1.218018 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_14_/FA/IND904GEN.bin
+
+====================GeneraciÃ³n:15====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		15
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_15_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.367541832583291
+AdaptaciÃ³n mÃ­nima:1.1324325 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_15_/FA/IND992GEN.bin
+
+====================GeneraciÃ³n:16====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		16
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_16_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3569240638187954
+AdaptaciÃ³n mÃ­nima:1.1909909 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_16_/FA/IND1060GEN.bin
+
+====================GeneraciÃ³n:17====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		17
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_17_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3483140230178834
+AdaptaciÃ³n mÃ­nima:1.2072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_17_/FA/IND1117GEN.bin
+
+====================GeneraciÃ³n:18====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		18
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_18_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3638867463384357
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_18_/FA/IND1193GEN.bin
+
+====================GeneraciÃ³n:19====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		19
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_19_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.349510943889618
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_19_/FA/IND1244GEN.bin
+
+====================GeneraciÃ³n:20====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		20
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_20_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.366267706666674
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_20_/FA/IND1319GEN.bin
+
+====================GeneraciÃ³n:21====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		21
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_21_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3765894532203675
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_21_/FA/IND1412GEN.bin
+
+====================GeneraciÃ³n:22====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		22
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_22_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3719562428338188
+AdaptaciÃ³n mÃ­nima:1.2072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_22_/FA/IND1476GEN.bin
+
+====================GeneraciÃ³n:23====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		23
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_23_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3632689816611154
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_23_/FA/IND1538GEN.bin
+
+====================GeneraciÃ³n:24====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		24
+
+AdaptaciÃ³n mÃ¡xima:1.4936937 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_24_/FA/IND256GEN.bin
+AdaptaciÃ³n promedio:1.3874131270817347
+AdaptaciÃ³n mÃ­nima:1.2342342 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_24_/FA/IND1591GEN.bin
+
+====================GeneraciÃ³n:25====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		25
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_25_/FA/IND1677GEN.bin
+AdaptaciÃ³n promedio:1.3867310183388846
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_25_/FA/IND1664GEN.bin
+
+====================GeneraciÃ³n:26====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		26
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_26_/FA/IND1677GEN.bin
+AdaptaciÃ³n promedio:1.3807207209723336
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_26_/FA/IND1781GEN.bin
+
+====================GeneraciÃ³n:27====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		27
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_27_/FA/IND1677GEN.bin
+AdaptaciÃ³n promedio:1.39065637247903
+AdaptaciÃ³n mÃ­nima:1.2072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_27_/FA/IND1844GEN.bin
+
+====================GeneraciÃ³n:28====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		28
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_28_/FA/IND1677GEN.bin
+AdaptaciÃ³n promedio:1.4080180151121957
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_28_/FA/IND1926GEN.bin
+
+====================GeneraciÃ³n:29====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		29
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_29_/FA/IND1677GEN.bin
+AdaptaciÃ³n promedio:1.4334362932613918
+AdaptaciÃ³n mÃ­nima:1.3171171 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_29_/FA/IND1937GEN.bin
+
+====================GeneraciÃ³n:30====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		30
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_30_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4404118384633746
+AdaptaciÃ³n mÃ­nima:1.2072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_30_/FA/IND2028GEN.bin
+
+====================GeneraciÃ³n:31====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		31
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_31_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4475804431097847
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_31_/FA/IND2077GEN.bin
+
+====================GeneraciÃ³n:32====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		32
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_32_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4529729740960258
+AdaptaciÃ³n mÃ­nima:1.2612612 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_32_/FA/IND2182GEN.bin
+
+====================GeneraciÃ³n:33====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		33
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_33_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4476447888783046
+AdaptaciÃ³n mÃ­nima:1.1891892 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_33_/FA/IND2221GEN.bin
+
+====================GeneraciÃ³n:34====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		34
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_34_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4676576580320086
+AdaptaciÃ³n mÃ­nima:1.2342342 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_34_/FA/IND2323GEN.bin
+
+====================GeneraciÃ³n:35====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		35
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_35_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4770141635622298
+AdaptaciÃ³n mÃ­nima:1.2477478 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_35_/FA/IND2353GEN.bin
+
+====================GeneraciÃ³n:36====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		36
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_36_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.463153154509408
+AdaptaciÃ³n mÃ­nima:1.2342342 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_36_/FA/IND2458GEN.bin
+
+====================GeneraciÃ³n:37====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		37
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_37_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.46248391526086
+AdaptaciÃ³n mÃ­nima:1.2612612 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_37_/FA/IND2554GEN.bin
+
+====================GeneraciÃ³n:38====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		38
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_38_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4681981938225883
+AdaptaciÃ³n mÃ­nima:1.2747748 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_38_/FA/IND2562GEN.bin
+
+====================GeneraciÃ³n:39====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		39
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_39_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4666923999786377
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_39_/FA/IND2641GEN.bin
+
+====================GeneraciÃ³n:40====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		40
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_40_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4713770832334245
+AdaptaciÃ³n mÃ­nima:1.3234234 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_40_/FA/IND2756GEN.bin
+
+====================GeneraciÃ³n:41====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		41
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_41_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4498841643333436
+AdaptaciÃ³n mÃ­nima:1.2072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_41_/FA/IND2819GEN.bin
+
+====================GeneraciÃ³n:42====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		42
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_42_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4742342250687734
+AdaptaciÃ³n mÃ­nima:1.2342342 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_42_/FA/IND2871GEN.bin
+
+====================GeneraciÃ³n:43====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		43
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_43_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.486383513041905
+AdaptaciÃ³n mÃ­nima:1.2927928 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_43_/FA/IND2949GEN.bin
+
+====================GeneraciÃ³n:44====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		44
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_44_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4492792657443456
+AdaptaciÃ³n mÃ­nima:1.2072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_44_/FA/IND2974GEN.bin
+
+====================GeneraciÃ³n:45====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		45
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_45_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4692921331950597
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_45_/FA/IND3066GEN.bin
+
+====================GeneraciÃ³n:46====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		46
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_46_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.4647232804979597
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_46_/FA/IND3168GEN.bin
+
+====================GeneraciÃ³n:47====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		47
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_47_/FA/IND2071GEN.bin
+AdaptaciÃ³n promedio:1.48157012122018
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_47_/FA/IND3240GEN.bin
+
+====================GeneraciÃ³n:48====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		48
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_48_/FA/IND3276GEN.bin
+AdaptaciÃ³n promedio:1.4941055076462881
+AdaptaciÃ³n mÃ­nima:1.3342342 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_48_/FA/IND3310GEN.bin
+
+====================GeneraciÃ³n:49====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		49
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_49_/FA/IND3276GEN.bin
+AdaptaciÃ³n promedio:1.4874645727021354
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_49_/FA/IND3337GEN.bin
+
+====================GeneraciÃ³n:50====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		50
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_50_/FA/IND3276GEN.bin
+AdaptaciÃ³n promedio:1.4929600630487714
+AdaptaciÃ³n mÃ­nima:1.2792792 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_50_/FA/IND3445GEN.bin
+
+====================GeneraciÃ³n:51====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		51
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_51_/FA/IND3276GEN.bin
+AdaptaciÃ³n promedio:1.4755726831299918
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_51_/FA/IND3465GEN.bin
+
+====================GeneraciÃ³n:52====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		52
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_52_/FA/IND3276GEN.bin
+AdaptaciÃ³n promedio:1.4823422993932451
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_52_/FA/IND3587GEN.bin
+
+====================GeneraciÃ³n:53====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		53
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_53_/FA/IND3276GEN.bin
+AdaptaciÃ³n promedio:1.4936936497688293
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_53_/FA/IND3591GEN.bin
+
+====================GeneraciÃ³n:54====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		54
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_54_/FA/IND3276GEN.bin
+AdaptaciÃ³n promedio:1.4830758946282523
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_54_/FA/IND3682GEN.bin
+
+====================GeneraciÃ³n:55====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		55
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_55_/FA/IND3276GEN.bin
+AdaptaciÃ³n promedio:1.4818789822714669
+AdaptaciÃ³n mÃ­nima:1.2837838 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_55_/FA/IND3747GEN.bin
+
+====================GeneraciÃ³n:56====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		56
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_56_/FA/IND3811GEN.bin
+AdaptaciÃ³n promedio:1.4841183611324855
+AdaptaciÃ³n mÃ­nima:1.2657658 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_56_/FA/IND3849GEN.bin
+
+====================GeneraciÃ³n:57====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		57
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_57_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4805147613797869
+AdaptaciÃ³n mÃ­nima:1.2072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_57_/FA/IND3906GEN.bin
+
+====================GeneraciÃ³n:58====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		58
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_58_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4929343240601676
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_58_/FA/IND3952GEN.bin
+
+====================GeneraciÃ³n:59====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		59
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_59_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4897682990346637
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_59_/FA/IND4017GEN.bin
+
+====================GeneraciÃ³n:60====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		60
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_60_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4568339415958949
+AdaptaciÃ³n mÃ­nima:1.1936936 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_60_/FA/IND4126GEN.bin
+
+====================GeneraciÃ³n:61====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		61
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_61_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.475019269330161
+AdaptaciÃ³n mÃ­nima:1.2792792 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_61_/FA/IND4185GEN.bin
+
+====================GeneraciÃ³n:62====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		62
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_62_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4832689489637103
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_62_/FA/IND4249GEN.bin
+
+====================GeneraciÃ³n:63====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		63
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_63_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.47241952419281
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_63_/FA/IND4331GEN.bin
+
+====================GeneraciÃ³n:64====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		64
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_64_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4888802664620535
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_64_/FA/IND4361GEN.bin
+
+====================GeneraciÃ³n:65====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		65
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_65_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4783654740878514
+AdaptaciÃ³n mÃ­nima:1.2612612 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_65_/FA/IND4472GEN.bin
+
+====================GeneraciÃ³n:66====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		66
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_66_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4709652202469963
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_66_/FA/IND4513GEN.bin
+
+====================GeneraciÃ³n:67====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		67
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_67_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4808493869645254
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_67_/FA/IND4612GEN.bin
+
+====================GeneraciÃ³n:68====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		68
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_68_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4854311108589173
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_68_/FA/IND4671GEN.bin
+
+====================GeneraciÃ³n:69====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		69
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_69_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.476254791872842
+AdaptaciÃ³n mÃ­nima:1.2342342 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_69_/FA/IND4744GEN.bin
+
+====================GeneraciÃ³n:70====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		70
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_70_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4791248032024928
+AdaptaciÃ³n mÃ­nima:1.2027028 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_70_/FA/IND4774GEN.bin
+
+====================GeneraciÃ³n:71====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		71
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_71_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4784169520650592
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_71_/FA/IND4896GEN.bin
+
+====================GeneraciÃ³n:72====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		72
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_72_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4896653345652988
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_72_/FA/IND4933GEN.bin
+
+====================GeneraciÃ³n:73====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		73
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_73_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.483011543750763
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_73_/FA/IND5038GEN.bin
+
+====================GeneraciÃ³n:74====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		74
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_74_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4823165552956716
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_74_/FA/IND5097GEN.bin
+
+====================GeneraciÃ³n:75====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		75
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_75_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4795881237302508
+AdaptaciÃ³n mÃ­nima:1.2792792 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_75_/FA/IND5113GEN.bin
+
+====================GeneraciÃ³n:76====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		76
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_76_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4804375444139752
+AdaptaciÃ³n mÃ­nima:1.2657658 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_76_/FA/IND5201GEN.bin
+
+====================GeneraciÃ³n:77====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		77
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_77_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.490064311027527
+AdaptaciÃ³n mÃ­nima:1.2792792 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_77_/FA/IND5270GEN.bin
+
+====================GeneraciÃ³n:78====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		78
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_78_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4883139950888498
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_78_/FA/IND5328GEN.bin
+
+====================GeneraciÃ³n:79====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		79
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_79_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4910939182553973
+AdaptaciÃ³n mÃ­nima:1.2477478 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_79_/FA/IND5398GEN.bin
+
+====================GeneraciÃ³n:80====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		80
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_80_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4931531139782497
+AdaptaciÃ³n mÃ­nima:1.2747748 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_80_/FA/IND5454GEN.bin
+
+====================GeneraciÃ³n:81====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		81
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_81_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4890733173915318
+AdaptaciÃ³n mÃ­nima:1.2747748 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_81_/FA/IND5575GEN.bin
+
+====================GeneraciÃ³n:82====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		82
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_82_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.484851954664503
+AdaptaciÃ³n mÃ­nima:1.2477478 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_82_/FA/IND5591GEN.bin
+
+====================GeneraciÃ³n:83====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		83
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_83_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.478017977305821
+AdaptaciÃ³n mÃ­nima:1.2792792 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_83_/FA/IND5671GEN.bin
+
+====================GeneraciÃ³n:84====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		84
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_84_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4893307174955095
+AdaptaciÃ³n mÃ­nima:1.2657658 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_84_/FA/IND5732GEN.bin
+
+====================GeneraciÃ³n:85====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		85
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_85_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4914928793907165
+AdaptaciÃ³n mÃ­nima:1.2792792 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_85_/FA/IND5856GEN.bin
+
+====================GeneraciÃ³n:86====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		86
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_86_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.49956237418311
+AdaptaciÃ³n mÃ­nima:1.2567568 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_86_/FA/IND5892GEN.bin
+
+====================GeneraciÃ³n:87====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		87
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_87_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4804504070963178
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_87_/FA/IND6004GEN.bin
+
+====================GeneraciÃ³n:88====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		88
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_88_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4706563319478716
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_88_/FA/IND6029GEN.bin
+
+====================GeneraciÃ³n:89====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		89
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_89_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4891247987747191
+AdaptaciÃ³n mÃ­nima:1.2792792 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_89_/FA/IND6109GEN.bin
+
+====================GeneraciÃ³n:90====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		90
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_90_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.486615148612431
+AdaptaciÃ³n mÃ­nima:1.2657658 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_90_/FA/IND6190GEN.bin
+
+====================GeneraciÃ³n:91====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		91
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_91_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4863706180027554
+AdaptaciÃ³n mÃ­nima:1.2792792 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_91_/FA/IND6219GEN.bin
+
+====================GeneraciÃ³n:92====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		92
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_92_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4723937869071961
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_92_/FA/IND6345GEN.bin
+
+====================GeneraciÃ³n:93====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		93
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_93_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.480553368159703
+AdaptaciÃ³n mÃ­nima:1.2027028 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_93_/FA/IND6392GEN.bin
+
+====================GeneraciÃ³n:94====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		94
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_94_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4863834874970572
+AdaptaciÃ³n mÃ­nima:1.2207208 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_94_/FA/IND6457GEN.bin
+
+====================GeneraciÃ³n:95====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		95
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_95_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4924967391150339
+AdaptaciÃ³n mÃ­nima:1.2477478 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_95_/FA/IND6506GEN.bin
+
+====================GeneraciÃ³n:96====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		96
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_96_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4663191369601658
+AdaptaciÃ³n mÃ­nima:1.2342342 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_96_/FA/IND6583GEN.bin
+
+====================GeneraciÃ³n:97====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		97
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_97_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4841312340327673
+AdaptaciÃ³n mÃ­nima:1.2927928 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_97_/FA/IND6637GEN.bin
+
+====================GeneraciÃ³n:98====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		98
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_98_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4923809119633267
+AdaptaciÃ³n mÃ­nima:1.2792792 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_98_/FA/IND6715GEN.bin
+
+====================GeneraciÃ³n:99====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	100		99
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_99_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4822650807244437
+AdaptaciÃ³n mÃ­nima:1.2342342 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_99_/FA/IND6808GEN.bin
+
+====================GeneraciÃ³n:100====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	TRUE	100		100
+
+AdaptaciÃ³n mÃ¡xima:1.5072072 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_100_/FA/IND3918GEN.bin
+AdaptaciÃ³n promedio:1.4775546635900225
+AdaptaciÃ³n mÃ­nima:1.2387388 -> /builds/Gabs/0000_MixMetric/test/WORKs/WORK_11c_1m100xA4/ACTGEN_100_/FA/IND6899GEN.bin
+

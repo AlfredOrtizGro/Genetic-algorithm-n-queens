@@ -1,0 +1,67 @@
+#Para_GenGenetic
+#Forzosos
+
+-FWORK          @USER@\tmp\genTMP\hola-mundo\WORK
+-OP1SEL         @USER@\tmp\genTMP\hola-mundo\1457__OpSelRuleta\target\OpSelRuleta.jar
+-OP2SEL         @USER@\tmp\genTMP\hola-mundo\1455__OpSelElite\target\OpSelElite.jar
+-OPCRUZA        @USER@\tmp\genTMP\hola-mundo\1472__OpXUniforme\target\OpXUniforme.jar
+-OPMUT          @USER@\tmp\genTMP\hola-mundo\1485__OpMutUniforme\target\OpMutUniforme.jar
+-OPFA           @USER@\tmp\genTMP\hola-mundo\1440__FAFunMat1VarA\target\FAFunMat1VarA.jar
+-OPSTOP         @USER@\tmp\genTMP\hola-mundo\1430__parar\target\parar.jar
+-OPPOP          @USER@\tmp\genTMP\hola-mundo\1420__population\target\population.jar
+*FINIPOP	    @USER@\tmp\genTMP\hola-mundo\WORK\ACTGEN(12)\POPULATION
+*FINIFA		    @USER@\tmp\genTMP\hola-mundo\WORK\NEXTGEN(13)\FA
+
+#Opcionales
+-HISTORY        false
+-CONSOLE	    false
+-FACTG		    ACTGEN
+-FNEXTG		    NEXTGEN
+-FPOP		    POPULATION
+-FFA		    FA
+-NDIED          49
+NELITE          1
+
+#Para_la_mutacion_uniforme
+-PMUT           10
+-PGENMUT        10
+*PRECISION      número de dígitos de precisio en números reales después del punto
+*VMININT        valor entero mínimo que puede tomar el gen
+*VMAXINT        valor entero máximo que peude tomar el gen
+*NGENMUT        número de genes a ser mutados
+*PGENMUT        probabilidad en el número de genes a ser mutados
+
+#Para_la_función_de_aptitud
+-FAFMAMIN       0
+-FAFMAMAX       300
+
+
+#Para_la_cruza_uniforme
+*XPROB          50
+#Para_la_cruza_en_NPuntos
+-XNPTS          3
+*XSOFT
+
+
+#Para_la_creación_de_la_población
+-NI             50
+-NGEN           15
+-VMININT	    0
+-VMAXINT 	    1
+-TYPE           INT
+-PRE            IND
+-INF            1
+-POS            GEN
+-REPEAT         true
+
+#Para_la_condición_de_paro
+-MAXGEN         50
+*TIME           4
+*DATE           2011/06/14/17/22
+*FAMIN          11.11
+*FAMAX          1000.0
+*GEN100         74
+*POP100         29
+*FADIFF         0.1
+
+#Autogenerados
