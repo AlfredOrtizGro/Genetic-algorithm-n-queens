@@ -1,0 +1,3509 @@
+Operador TORNEO en modo de MINIMIZACION
+
+Torneo número:	1
+Competidor #	0	IND47482GEN.bin	  fitness: 3.5
+Competidor #	1	IND47642GEN.bin	  fitness: 3.5
+Competidor #	2	IND47443GEN.bin	  fitness: 3.5
+Competidor #	3	IND47159GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	2
+Competidor #	0	IND47454GEN.bin	  fitness: 3.5
+Competidor #	1	IND46981GEN.bin	  fitness: 13.0
+Competidor #	2	IND47904GEN.bin	  fitness: 3.5
+Competidor #	3	IND47863GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	3
+Competidor #	0	IND47691GEN.bin	  fitness: 3.5
+Competidor #	1	IND47035GEN.bin	  fitness: 3.5
+Competidor #	2	IND47837GEN.bin	  fitness: 3.5
+Competidor #	3	IND47475GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	4
+Competidor #	0	IND47683GEN.bin	  fitness: 3.5
+Competidor #	1	IND47215GEN.bin	  fitness: 5.0
+Competidor #	2	IND47562GEN.bin	  fitness: 3.5
+Competidor #	3	IND47051GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	5
+Competidor #	0	IND47043GEN.bin	  fitness: 3.5
+Competidor #	1	IND47759GEN.bin	  fitness: 3.5
+Competidor #	2	IND47740GEN.bin	  fitness: 3.5
+Competidor #	3	IND47703GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	6
+Competidor #	0	IND47853GEN.bin	  fitness: 3.5
+Competidor #	1	IND46977GEN.bin	  fitness: 3.5
+Competidor #	2	IND47608GEN.bin	  fitness: 3.5
+Competidor #	3	IND47560GEN.bin	  fitness: 8.0
+Ganador :	0
+
+Torneo número:	7
+Competidor #	0	IND47040GEN.bin	  fitness: 3.5
+Competidor #	1	IND47870GEN.bin	  fitness: 3.5
+Competidor #	2	IND47105GEN.bin	  fitness: 3.5
+Competidor #	3	IND47487GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	8
+Competidor #	0	IND47366GEN.bin	  fitness: 3.5
+Competidor #	1	IND47185GEN.bin	  fitness: 3.5
+Competidor #	2	IND47815GEN.bin	  fitness: 3.5
+Competidor #	3	IND47587GEN.bin	  fitness: 6.5
+Ganador :	0
+
+Torneo número:	9
+Competidor #	0	IND47665GEN.bin	  fitness: 9.5
+Competidor #	1	IND47303GEN.bin	  fitness: 12.0
+Competidor #	2	IND47644GEN.bin	  fitness: 3.5
+Competidor #	3	IND47495GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	10
+Competidor #	0	IND47505GEN.bin	  fitness: 3.5
+Competidor #	1	IND47474GEN.bin	  fitness: 3.5
+Competidor #	2	IND47855GEN.bin	  fitness: 3.5
+Competidor #	3	IND47226GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	11
+Competidor #	0	IND47320GEN.bin	  fitness: 3.5
+Competidor #	1	IND47187GEN.bin	  fitness: 3.5
+Competidor #	2	IND47158GEN.bin	  fitness: 8.5
+Competidor #	3	IND47089GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	12
+Competidor #	0	IND47341GEN.bin	  fitness: 3.5
+Competidor #	1	IND47169GEN.bin	  fitness: 3.5
+Competidor #	2	IND47255GEN.bin	  fitness: 3.5
+Competidor #	3	IND47584GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	13
+Competidor #	0	IND47382GEN.bin	  fitness: 8.5
+Competidor #	1	IND47856GEN.bin	  fitness: 3.5
+Competidor #	2	IND47089GEN.bin	  fitness: 5.5
+Competidor #	3	IND47368GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	14
+Competidor #	0	IND47812GEN.bin	  fitness: 3.5
+Competidor #	1	IND47573GEN.bin	  fitness: 10.5
+Competidor #	2	IND47256GEN.bin	  fitness: 3.5
+Competidor #	3	IND47431GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	15
+Competidor #	0	IND47317GEN.bin	  fitness: 3.5
+Competidor #	1	IND47888GEN.bin	  fitness: 3.5
+Competidor #	2	IND47762GEN.bin	  fitness: 3.5
+Competidor #	3	IND47084GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	16
+Competidor #	0	IND47525GEN.bin	  fitness: 3.5
+Competidor #	1	IND46998GEN.bin	  fitness: 3.5
+Competidor #	2	IND47701GEN.bin	  fitness: 3.5
+Competidor #	3	IND47377GEN.bin	  fitness: 12.5
+Ganador :	0
+
+Torneo número:	17
+Competidor #	0	IND47409GEN.bin	  fitness: 3.5
+Competidor #	1	IND46963GEN.bin	  fitness: 3.5
+Competidor #	2	IND47225GEN.bin	  fitness: 3.5
+Competidor #	3	IND47165GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	18
+Competidor #	0	IND47599GEN.bin	  fitness: 8.5
+Competidor #	1	IND47492GEN.bin	  fitness: 3.5
+Competidor #	2	IND47568GEN.bin	  fitness: 3.5
+Competidor #	3	IND47148GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	19
+Competidor #	0	IND47531GEN.bin	  fitness: 3.5
+Competidor #	1	IND47835GEN.bin	  fitness: 3.5
+Competidor #	2	IND47129GEN.bin	  fitness: 3.5
+Competidor #	3	IND47934GEN.bin	  fitness: 7.5
+Ganador :	0
+
+Torneo número:	20
+Competidor #	0	IND47591GEN.bin	  fitness: 5.5
+Competidor #	1	IND47850GEN.bin	  fitness: 3.5
+Competidor #	2	IND47571GEN.bin	  fitness: 6.5
+Competidor #	3	IND47195GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	21
+Competidor #	0	IND47446GEN.bin	  fitness: 10.5
+Competidor #	1	IND47684GEN.bin	  fitness: 3.5
+Competidor #	2	IND46996GEN.bin	  fitness: 3.5
+Competidor #	3	IND47582GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	22
+Competidor #	0	IND47255GEN.bin	  fitness: 3.5
+Competidor #	1	IND47591GEN.bin	  fitness: 5.5
+Competidor #	2	IND47751GEN.bin	  fitness: 4.5
+Competidor #	3	IND47638GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	23
+Competidor #	0	IND47300GEN.bin	  fitness: 3.5
+Competidor #	1	IND47902GEN.bin	  fitness: 3.5
+Competidor #	2	IND47824GEN.bin	  fitness: 3.5
+Competidor #	3	IND47041GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	24
+Competidor #	0	IND47823GEN.bin	  fitness: 7.0
+Competidor #	1	IND47877GEN.bin	  fitness: 3.5
+Competidor #	2	IND47474GEN.bin	  fitness: 3.5
+Competidor #	3	IND47809GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	25
+Competidor #	0	IND47621GEN.bin	  fitness: 3.5
+Competidor #	1	IND47258GEN.bin	  fitness: 3.5
+Competidor #	2	IND47912GEN.bin	  fitness: 3.5
+Competidor #	3	IND47491GEN.bin	  fitness: 9.0
+Ganador :	0
+
+Torneo número:	26
+Competidor #	0	IND47426GEN.bin	  fitness: 3.5
+Competidor #	1	IND47662GEN.bin	  fitness: 3.5
+Competidor #	2	IND47892GEN.bin	  fitness: 3.5
+Competidor #	3	IND47504GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	27
+Competidor #	0	IND47626GEN.bin	  fitness: 3.5
+Competidor #	1	IND47479GEN.bin	  fitness: 3.5
+Competidor #	2	IND47910GEN.bin	  fitness: 3.5
+Competidor #	3	IND47490GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	28
+Competidor #	0	IND47938GEN.bin	  fitness: 3.5
+Competidor #	1	IND47557GEN.bin	  fitness: 3.5
+Competidor #	2	IND47802GEN.bin	  fitness: 3.5
+Competidor #	3	IND47717GEN.bin	  fitness: 4.5
+Ganador :	0
+
+Torneo número:	29
+Competidor #	0	IND47174GEN.bin	  fitness: 3.5
+Competidor #	1	IND47469GEN.bin	  fitness: 3.5
+Competidor #	2	IND47839GEN.bin	  fitness: 3.5
+Competidor #	3	IND47102GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	30
+Competidor #	0	IND47528GEN.bin	  fitness: 3.5
+Competidor #	1	IND47059GEN.bin	  fitness: 3.5
+Competidor #	2	IND47549GEN.bin	  fitness: 3.5
+Competidor #	3	IND47475GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	31
+Competidor #	0	IND47220GEN.bin	  fitness: 3.5
+Competidor #	1	IND46969GEN.bin	  fitness: 3.5
+Competidor #	2	IND47891GEN.bin	  fitness: 3.5
+Competidor #	3	IND47882GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	32
+Competidor #	0	IND47877GEN.bin	  fitness: 3.5
+Competidor #	1	IND47222GEN.bin	  fitness: 3.5
+Competidor #	2	IND47678GEN.bin	  fitness: 3.5
+Competidor #	3	IND47936GEN.bin	  fitness: 6.5
+Ganador :	0
+
+Torneo número:	33
+Competidor #	0	IND47572GEN.bin	  fitness: 3.5
+Competidor #	1	IND47749GEN.bin	  fitness: 3.5
+Competidor #	2	IND47091GEN.bin	  fitness: 3.5
+Competidor #	3	IND47863GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	34
+Competidor #	0	IND47580GEN.bin	  fitness: 4.5
+Competidor #	1	IND47564GEN.bin	  fitness: 6.5
+Competidor #	2	IND47717GEN.bin	  fitness: 4.5
+Competidor #	3	IND47148GEN.bin	  fitness: 3.5
+Ganador :	3
+
+Torneo número:	35
+Competidor #	0	IND47426GEN.bin	  fitness: 3.5
+Competidor #	1	IND47468GEN.bin	  fitness: 3.5
+Competidor #	2	IND47869GEN.bin	  fitness: 3.5
+Competidor #	3	IND47951GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	36
+Competidor #	0	IND47694GEN.bin	  fitness: 3.5
+Competidor #	1	IND47336GEN.bin	  fitness: 3.5
+Competidor #	2	IND46996GEN.bin	  fitness: 3.5
+Competidor #	3	IND47540GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	37
+Competidor #	0	IND47919GEN.bin	  fitness: 3.5
+Competidor #	1	IND47138GEN.bin	  fitness: 3.5
+Competidor #	2	IND47630GEN.bin	  fitness: 3.5
+Competidor #	3	IND47595GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	38
+Competidor #	0	IND47684GEN.bin	  fitness: 3.5
+Competidor #	1	IND47557GEN.bin	  fitness: 3.5
+Competidor #	2	IND47026GEN.bin	  fitness: 3.5
+Competidor #	3	IND47352GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	39
+Competidor #	0	IND46956GEN.bin	  fitness: 3.5
+Competidor #	1	IND47830GEN.bin	  fitness: 3.5
+Competidor #	2	IND47163GEN.bin	  fitness: 3.5
+Competidor #	3	IND47253GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	40
+Competidor #	0	IND47802GEN.bin	  fitness: 3.5
+Competidor #	1	IND47740GEN.bin	  fitness: 3.5
+Competidor #	2	IND47122GEN.bin	  fitness: 3.5
+Competidor #	3	IND47705GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	41
+Competidor #	0	IND47874GEN.bin	  fitness: 4.5
+Competidor #	1	IND47200GEN.bin	  fitness: 3.5
+Competidor #	2	IND47202GEN.bin	  fitness: 3.5
+Competidor #	3	IND47214GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	42
+Competidor #	0	IND47736GEN.bin	  fitness: 3.5
+Competidor #	1	IND47720GEN.bin	  fitness: 3.5
+Competidor #	2	IND47040GEN.bin	  fitness: 3.5
+Competidor #	3	IND47904GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	43
+Competidor #	0	IND47701GEN.bin	  fitness: 3.5
+Competidor #	1	IND47264GEN.bin	  fitness: 4.5
+Competidor #	2	IND47418GEN.bin	  fitness: 3.5
+Competidor #	3	IND47709GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	44
+Competidor #	0	IND47822GEN.bin	  fitness: 3.5
+Competidor #	1	IND47896GEN.bin	  fitness: 3.5
+Competidor #	2	IND47696GEN.bin	  fitness: 3.5
+Competidor #	3	IND47100GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	45
+Competidor #	0	IND47246GEN.bin	  fitness: 3.5
+Competidor #	1	IND47455GEN.bin	  fitness: 3.5
+Competidor #	2	IND47310GEN.bin	  fitness: 3.5
+Competidor #	3	IND47914GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	46
+Competidor #	0	IND47571GEN.bin	  fitness: 6.5
+Competidor #	1	IND47224GEN.bin	  fitness: 5.5
+Competidor #	2	IND47389GEN.bin	  fitness: 3.5
+Competidor #	3	IND47106GEN.bin	  fitness: 7.5
+Ganador :	2
+
+Torneo número:	47
+Competidor #	0	IND47624GEN.bin	  fitness: 3.5
+Competidor #	1	IND47143GEN.bin	  fitness: 9.0
+Competidor #	2	IND47148GEN.bin	  fitness: 3.5
+Competidor #	3	IND47679GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	48
+Competidor #	0	IND47449GEN.bin	  fitness: 3.5
+Competidor #	1	IND47059GEN.bin	  fitness: 3.5
+Competidor #	2	IND47603GEN.bin	  fitness: 8.0
+Competidor #	3	IND47023GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	49
+Competidor #	0	IND47615GEN.bin	  fitness: 3.5
+Competidor #	1	IND47684GEN.bin	  fitness: 3.5
+Competidor #	2	IND47067GEN.bin	  fitness: 8.5
+Competidor #	3	IND47717GEN.bin	  fitness: 4.5
+Ganador :	0
+
+Torneo número:	50
+Competidor #	0	IND47870GEN.bin	  fitness: 3.5
+Competidor #	1	IND47302GEN.bin	  fitness: 8.5
+Competidor #	2	IND46964GEN.bin	  fitness: 3.5
+Competidor #	3	IND47143GEN.bin	  fitness: 9.0
+Ganador :	0
+
+Torneo número:	51
+Competidor #	0	IND47660GEN.bin	  fitness: 3.5
+Competidor #	1	IND47130GEN.bin	  fitness: 3.5
+Competidor #	2	IND47790GEN.bin	  fitness: 3.5
+Competidor #	3	IND47062GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	52
+Competidor #	0	IND47111GEN.bin	  fitness: 6.5
+Competidor #	1	IND47521GEN.bin	  fitness: 8.5
+Competidor #	2	IND47459GEN.bin	  fitness: 3.5
+Competidor #	3	IND47772GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	53
+Competidor #	0	IND47798GEN.bin	  fitness: 3.5
+Competidor #	1	IND47940GEN.bin	  fitness: 3.5
+Competidor #	2	IND47320GEN.bin	  fitness: 3.5
+Competidor #	3	IND47535GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	54
+Competidor #	0	IND47078GEN.bin	  fitness: 3.5
+Competidor #	1	IND47809GEN.bin	  fitness: 3.5
+Competidor #	2	IND47494GEN.bin	  fitness: 3.5
+Competidor #	3	IND47630GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	55
+Competidor #	0	IND47776GEN.bin	  fitness: 3.5
+Competidor #	1	IND47480GEN.bin	  fitness: 9.0
+Competidor #	2	IND47002GEN.bin	  fitness: 3.5
+Competidor #	3	IND47409GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	56
+Competidor #	0	IND47588GEN.bin	  fitness: 11.5
+Competidor #	1	IND47477GEN.bin	  fitness: 3.5
+Competidor #	2	IND47678GEN.bin	  fitness: 3.5
+Competidor #	3	IND47922GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	57
+Competidor #	0	IND47090GEN.bin	  fitness: 3.5
+Competidor #	1	IND47164GEN.bin	  fitness: 3.5
+Competidor #	2	IND47283GEN.bin	  fitness: 3.5
+Competidor #	3	IND47131GEN.bin	  fitness: 11.5
+Ganador :	0
+
+Torneo número:	58
+Competidor #	0	IND47762GEN.bin	  fitness: 3.5
+Competidor #	1	IND47284GEN.bin	  fitness: 3.5
+Competidor #	2	IND47948GEN.bin	  fitness: 3.5
+Competidor #	3	IND47369GEN.bin	  fitness: 9.0
+Ganador :	0
+
+Torneo número:	59
+Competidor #	0	IND47872GEN.bin	  fitness: 3.5
+Competidor #	1	IND47215GEN.bin	  fitness: 5.0
+Competidor #	2	IND47413GEN.bin	  fitness: 3.5
+Competidor #	3	IND47369GEN.bin	  fitness: 9.0
+Ganador :	0
+
+Torneo número:	60
+Competidor #	0	IND47337GEN.bin	  fitness: 3.5
+Competidor #	1	IND47899GEN.bin	  fitness: 3.5
+Competidor #	2	IND47673GEN.bin	  fitness: 8.5
+Competidor #	3	IND47729GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	61
+Competidor #	0	IND46996GEN.bin	  fitness: 3.5
+Competidor #	1	IND47579GEN.bin	  fitness: 3.5
+Competidor #	2	IND46976GEN.bin	  fitness: 3.5
+Competidor #	3	IND47299GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	62
+Competidor #	0	IND47780GEN.bin	  fitness: 3.5
+Competidor #	1	IND47385GEN.bin	  fitness: 10.5
+Competidor #	2	IND47933GEN.bin	  fitness: 3.5
+Competidor #	3	IND47678GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	63
+Competidor #	0	IND47362GEN.bin	  fitness: 3.5
+Competidor #	1	IND47496GEN.bin	  fitness: 3.5
+Competidor #	2	IND47916GEN.bin	  fitness: 3.5
+Competidor #	3	IND47429GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	64
+Competidor #	0	IND47160GEN.bin	  fitness: 3.5
+Competidor #	1	IND47187GEN.bin	  fitness: 3.5
+Competidor #	2	IND47487GEN.bin	  fitness: 3.5
+Competidor #	3	IND47355GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	65
+Competidor #	0	IND47246GEN.bin	  fitness: 3.5
+Competidor #	1	IND46955GEN.bin	  fitness: 3.5
+Competidor #	2	IND47246GEN.bin	  fitness: 3.5
+Competidor #	3	IND47281GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	66
+Competidor #	0	IND47504GEN.bin	  fitness: 3.5
+Competidor #	1	IND47639GEN.bin	  fitness: 3.5
+Competidor #	2	IND47820GEN.bin	  fitness: 3.5
+Competidor #	3	IND47327GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	67
+Competidor #	0	IND47312GEN.bin	  fitness: 3.5
+Competidor #	1	IND47000GEN.bin	  fitness: 3.5
+Competidor #	2	IND47501GEN.bin	  fitness: 3.5
+Competidor #	3	IND47147GEN.bin	  fitness: 7.5
+Ganador :	0
+
+Torneo número:	68
+Competidor #	0	IND47751GEN.bin	  fitness: 4.5
+Competidor #	1	IND47586GEN.bin	  fitness: 3.5
+Competidor #	2	IND47307GEN.bin	  fitness: 7.5
+Competidor #	3	IND47119GEN.bin	  fitness: 9.5
+Ganador :	1
+
+Torneo número:	69
+Competidor #	0	IND46974GEN.bin	  fitness: 3.5
+Competidor #	1	IND47614GEN.bin	  fitness: 3.5
+Competidor #	2	IND47848GEN.bin	  fitness: 3.5
+Competidor #	3	IND47326GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	70
+Competidor #	0	IND47846GEN.bin	  fitness: 3.5
+Competidor #	1	IND47240GEN.bin	  fitness: 3.5
+Competidor #	2	IND47561GEN.bin	  fitness: 3.5
+Competidor #	3	IND47695GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	71
+Competidor #	0	IND47605GEN.bin	  fitness: 3.5
+Competidor #	1	IND47467GEN.bin	  fitness: 3.5
+Competidor #	2	IND47404GEN.bin	  fitness: 3.5
+Competidor #	3	IND47234GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	72
+Competidor #	0	IND47716GEN.bin	  fitness: 3.5
+Competidor #	1	IND47663GEN.bin	  fitness: 3.5
+Competidor #	2	IND47630GEN.bin	  fitness: 3.5
+Competidor #	3	IND47470GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	73
+Competidor #	0	IND47875GEN.bin	  fitness: 3.5
+Competidor #	1	IND47901GEN.bin	  fitness: 3.5
+Competidor #	2	IND47306GEN.bin	  fitness: 3.5
+Competidor #	3	IND47159GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	74
+Competidor #	0	IND47026GEN.bin	  fitness: 3.5
+Competidor #	1	IND47554GEN.bin	  fitness: 6.5
+Competidor #	2	IND47693GEN.bin	  fitness: 3.5
+Competidor #	3	IND47567GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	75
+Competidor #	0	IND47189GEN.bin	  fitness: 3.5
+Competidor #	1	IND47061GEN.bin	  fitness: 3.5
+Competidor #	2	IND47839GEN.bin	  fitness: 3.5
+Competidor #	3	IND47334GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	76
+Competidor #	0	IND46974GEN.bin	  fitness: 3.5
+Competidor #	1	IND47819GEN.bin	  fitness: 3.5
+Competidor #	2	IND47857GEN.bin	  fitness: 3.5
+Competidor #	3	IND47613GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	77
+Competidor #	0	IND47073GEN.bin	  fitness: 3.5
+Competidor #	1	IND47660GEN.bin	  fitness: 3.5
+Competidor #	2	IND47691GEN.bin	  fitness: 3.5
+Competidor #	3	IND47593GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	78
+Competidor #	0	IND46989GEN.bin	  fitness: 5.5
+Competidor #	1	IND47490GEN.bin	  fitness: 3.5
+Competidor #	2	IND47576GEN.bin	  fitness: 3.5
+Competidor #	3	IND47295GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	79
+Competidor #	0	IND47801GEN.bin	  fitness: 3.5
+Competidor #	1	IND47039GEN.bin	  fitness: 3.5
+Competidor #	2	IND46970GEN.bin	  fitness: 9.5
+Competidor #	3	IND47119GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	80
+Competidor #	0	IND47615GEN.bin	  fitness: 3.5
+Competidor #	1	IND47221GEN.bin	  fitness: 3.5
+Competidor #	2	IND47060GEN.bin	  fitness: 8.5
+Competidor #	3	IND47195GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	81
+Competidor #	0	IND47740GEN.bin	  fitness: 3.5
+Competidor #	1	IND47040GEN.bin	  fitness: 3.5
+Competidor #	2	IND47355GEN.bin	  fitness: 3.5
+Competidor #	3	IND47079GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	82
+Competidor #	0	IND47033GEN.bin	  fitness: 3.5
+Competidor #	1	IND47256GEN.bin	  fitness: 3.5
+Competidor #	2	IND47746GEN.bin	  fitness: 3.5
+Competidor #	3	IND47924GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	83
+Competidor #	0	IND47590GEN.bin	  fitness: 10.5
+Competidor #	1	IND47020GEN.bin	  fitness: 11.5
+Competidor #	2	IND47877GEN.bin	  fitness: 3.5
+Competidor #	3	IND47447GEN.bin	  fitness: 7.5
+Ganador :	2
+
+Torneo número:	84
+Competidor #	0	IND47166GEN.bin	  fitness: 3.5
+Competidor #	1	IND47718GEN.bin	  fitness: 3.5
+Competidor #	2	IND47408GEN.bin	  fitness: 3.5
+Competidor #	3	IND47754GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	85
+Competidor #	0	IND47325GEN.bin	  fitness: 3.5
+Competidor #	1	IND47625GEN.bin	  fitness: 10.0
+Competidor #	2	IND47192GEN.bin	  fitness: 3.5
+Competidor #	3	IND47448GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	86
+Competidor #	0	IND46967GEN.bin	  fitness: 3.5
+Competidor #	1	IND47844GEN.bin	  fitness: 3.5
+Competidor #	2	IND47442GEN.bin	  fitness: 5.5
+Competidor #	3	IND47755GEN.bin	  fitness: 9.0
+Ganador :	0
+
+Torneo número:	87
+Competidor #	0	IND47084GEN.bin	  fitness: 3.5
+Competidor #	1	IND47530GEN.bin	  fitness: 3.5
+Competidor #	2	IND47444GEN.bin	  fitness: 3.5
+Competidor #	3	IND46959GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	88
+Competidor #	0	IND47902GEN.bin	  fitness: 3.5
+Competidor #	1	IND47351GEN.bin	  fitness: 3.5
+Competidor #	2	IND47591GEN.bin	  fitness: 5.5
+Competidor #	3	IND47424GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	89
+Competidor #	0	IND47240GEN.bin	  fitness: 3.5
+Competidor #	1	IND47389GEN.bin	  fitness: 3.5
+Competidor #	2	IND47103GEN.bin	  fitness: 3.5
+Competidor #	3	IND47647GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	90
+Competidor #	0	IND47312GEN.bin	  fitness: 3.5
+Competidor #	1	IND47524GEN.bin	  fitness: 3.5
+Competidor #	2	IND47855GEN.bin	  fitness: 3.5
+Competidor #	3	IND47943GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	91
+Competidor #	0	IND47233GEN.bin	  fitness: 11.5
+Competidor #	1	IND47526GEN.bin	  fitness: 3.5
+Competidor #	2	IND47741GEN.bin	  fitness: 3.5
+Competidor #	3	IND47280GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	92
+Competidor #	0	IND47895GEN.bin	  fitness: 11.0
+Competidor #	1	IND47012GEN.bin	  fitness: 3.5
+Competidor #	2	IND47217GEN.bin	  fitness: 3.5
+Competidor #	3	IND46973GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	93
+Competidor #	0	IND47858GEN.bin	  fitness: 3.5
+Competidor #	1	IND47140GEN.bin	  fitness: 5.5
+Competidor #	2	IND47659GEN.bin	  fitness: 3.5
+Competidor #	3	IND47125GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	94
+Competidor #	0	IND47820GEN.bin	  fitness: 3.5
+Competidor #	1	IND47016GEN.bin	  fitness: 3.5
+Competidor #	2	IND47922GEN.bin	  fitness: 3.5
+Competidor #	3	IND47025GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	95
+Competidor #	0	IND47832GEN.bin	  fitness: 3.5
+Competidor #	1	IND47316GEN.bin	  fitness: 3.5
+Competidor #	2	IND47748GEN.bin	  fitness: 3.5
+Competidor #	3	IND47166GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	96
+Competidor #	0	IND47577GEN.bin	  fitness: 3.5
+Competidor #	1	IND47412GEN.bin	  fitness: 12.5
+Competidor #	2	IND47818GEN.bin	  fitness: 3.5
+Competidor #	3	IND47512GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	97
+Competidor #	0	IND47580GEN.bin	  fitness: 4.5
+Competidor #	1	IND47473GEN.bin	  fitness: 3.5
+Competidor #	2	IND47735GEN.bin	  fitness: 3.5
+Competidor #	3	IND47852GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	98
+Competidor #	0	IND47640GEN.bin	  fitness: 3.5
+Competidor #	1	IND47306GEN.bin	  fitness: 3.5
+Competidor #	2	IND47046GEN.bin	  fitness: 3.5
+Competidor #	3	IND47865GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	99
+Competidor #	0	IND47530GEN.bin	  fitness: 3.5
+Competidor #	1	IND47150GEN.bin	  fitness: 3.5
+Competidor #	2	IND46988GEN.bin	  fitness: 3.5
+Competidor #	3	IND47333GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	100
+Competidor #	0	IND47613GEN.bin	  fitness: 9.5
+Competidor #	1	IND47548GEN.bin	  fitness: 3.5
+Competidor #	2	IND46998GEN.bin	  fitness: 3.5
+Competidor #	3	IND47066GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	101
+Competidor #	0	IND47228GEN.bin	  fitness: 3.5
+Competidor #	1	IND47311GEN.bin	  fitness: 3.5
+Competidor #	2	IND47759GEN.bin	  fitness: 3.5
+Competidor #	3	IND47940GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	102
+Competidor #	0	IND47747GEN.bin	  fitness: 3.5
+Competidor #	1	IND47879GEN.bin	  fitness: 3.5
+Competidor #	2	IND47785GEN.bin	  fitness: 3.5
+Competidor #	3	IND47429GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	103
+Competidor #	0	IND47583GEN.bin	  fitness: 9.5
+Competidor #	1	IND46961GEN.bin	  fitness: 3.5
+Competidor #	2	IND47389GEN.bin	  fitness: 3.5
+Competidor #	3	IND47776GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	104
+Competidor #	0	IND47184GEN.bin	  fitness: 3.5
+Competidor #	1	IND47918GEN.bin	  fitness: 3.5
+Competidor #	2	IND47467GEN.bin	  fitness: 3.5
+Competidor #	3	IND47640GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	105
+Competidor #	0	IND47216GEN.bin	  fitness: 3.5
+Competidor #	1	IND47889GEN.bin	  fitness: 3.5
+Competidor #	2	IND47396GEN.bin	  fitness: 3.5
+Competidor #	3	IND47502GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	106
+Competidor #	0	IND47154GEN.bin	  fitness: 9.5
+Competidor #	1	IND47081GEN.bin	  fitness: 3.5
+Competidor #	2	IND47106GEN.bin	  fitness: 7.5
+Competidor #	3	IND47501GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	107
+Competidor #	0	IND47496GEN.bin	  fitness: 3.5
+Competidor #	1	IND47872GEN.bin	  fitness: 3.5
+Competidor #	2	IND47053GEN.bin	  fitness: 3.5
+Competidor #	3	IND47180GEN.bin	  fitness: 7.5
+Ganador :	0
+
+Torneo número:	108
+Competidor #	0	IND47014GEN.bin	  fitness: 3.5
+Competidor #	1	IND47156GEN.bin	  fitness: 3.5
+Competidor #	2	IND47545GEN.bin	  fitness: 11.5
+Competidor #	3	IND47145GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	109
+Competidor #	0	IND47441GEN.bin	  fitness: 7.5
+Competidor #	1	IND47339GEN.bin	  fitness: 3.5
+Competidor #	2	IND47535GEN.bin	  fitness: 3.5
+Competidor #	3	IND47086GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	110
+Competidor #	0	IND47033GEN.bin	  fitness: 3.5
+Competidor #	1	IND47906GEN.bin	  fitness: 3.5
+Competidor #	2	IND47386GEN.bin	  fitness: 3.5
+Competidor #	3	IND47623GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	111
+Competidor #	0	IND47564GEN.bin	  fitness: 6.5
+Competidor #	1	IND47891GEN.bin	  fitness: 3.5
+Competidor #	2	IND47071GEN.bin	  fitness: 3.5
+Competidor #	3	IND47010GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	112
+Competidor #	0	IND47676GEN.bin	  fitness: 3.5
+Competidor #	1	IND47517GEN.bin	  fitness: 3.5
+Competidor #	2	IND47794GEN.bin	  fitness: 3.5
+Competidor #	3	IND47432GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	113
+Competidor #	0	IND47203GEN.bin	  fitness: 3.5
+Competidor #	1	IND47349GEN.bin	  fitness: 3.5
+Competidor #	2	IND47156GEN.bin	  fitness: 3.5
+Competidor #	3	IND47829GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	114
+Competidor #	0	IND47108GEN.bin	  fitness: 12.5
+Competidor #	1	IND47873GEN.bin	  fitness: 3.5
+Competidor #	2	IND47132GEN.bin	  fitness: 10.0
+Competidor #	3	IND47626GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	115
+Competidor #	0	IND47728GEN.bin	  fitness: 3.5
+Competidor #	1	IND47564GEN.bin	  fitness: 6.5
+Competidor #	2	IND47030GEN.bin	  fitness: 3.5
+Competidor #	3	IND46984GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	116
+Competidor #	0	IND47485GEN.bin	  fitness: 3.5
+Competidor #	1	IND47318GEN.bin	  fitness: 3.5
+Competidor #	2	IND47082GEN.bin	  fitness: 3.5
+Competidor #	3	IND47114GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	117
+Competidor #	0	IND47486GEN.bin	  fitness: 3.5
+Competidor #	1	IND47198GEN.bin	  fitness: 3.5
+Competidor #	2	IND47862GEN.bin	  fitness: 3.5
+Competidor #	3	IND47619GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	118
+Competidor #	0	IND47163GEN.bin	  fitness: 3.5
+Competidor #	1	IND47791GEN.bin	  fitness: 3.5
+Competidor #	2	IND47726GEN.bin	  fitness: 3.5
+Competidor #	3	IND47601GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	119
+Competidor #	0	IND47062GEN.bin	  fitness: 8.5
+Competidor #	1	IND46965GEN.bin	  fitness: 3.5
+Competidor #	2	IND47935GEN.bin	  fitness: 3.5
+Competidor #	3	IND47145GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	120
+Competidor #	0	IND47535GEN.bin	  fitness: 3.5
+Competidor #	1	IND47343GEN.bin	  fitness: 3.5
+Competidor #	2	IND47453GEN.bin	  fitness: 3.5
+Competidor #	3	IND47773GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	121
+Competidor #	0	IND47730GEN.bin	  fitness: 3.5
+Competidor #	1	IND47709GEN.bin	  fitness: 3.5
+Competidor #	2	IND47614GEN.bin	  fitness: 3.5
+Competidor #	3	IND47623GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	122
+Competidor #	0	IND47537GEN.bin	  fitness: 3.5
+Competidor #	1	IND46986GEN.bin	  fitness: 3.5
+Competidor #	2	IND47575GEN.bin	  fitness: 3.5
+Competidor #	3	IND47602GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	123
+Competidor #	0	IND47273GEN.bin	  fitness: 3.5
+Competidor #	1	IND47107GEN.bin	  fitness: 3.5
+Competidor #	2	IND47489GEN.bin	  fitness: 10.5
+Competidor #	3	IND47912GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	124
+Competidor #	0	IND47773GEN.bin	  fitness: 3.5
+Competidor #	1	IND47034GEN.bin	  fitness: 3.5
+Competidor #	2	IND47243GEN.bin	  fitness: 3.5
+Competidor #	3	IND47859GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	125
+Competidor #	0	IND47135GEN.bin	  fitness: 3.5
+Competidor #	1	IND47910GEN.bin	  fitness: 3.5
+Competidor #	2	IND47892GEN.bin	  fitness: 3.5
+Competidor #	3	IND47845GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	126
+Competidor #	0	IND47195GEN.bin	  fitness: 3.5
+Competidor #	1	IND47020GEN.bin	  fitness: 11.5
+Competidor #	2	IND47916GEN.bin	  fitness: 3.5
+Competidor #	3	IND47734GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	127
+Competidor #	0	IND47741GEN.bin	  fitness: 3.5
+Competidor #	1	IND47609GEN.bin	  fitness: 8.5
+Competidor #	2	IND47888GEN.bin	  fitness: 3.5
+Competidor #	3	IND47581GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	128
+Competidor #	0	IND47796GEN.bin	  fitness: 3.5
+Competidor #	1	IND47064GEN.bin	  fitness: 12.5
+Competidor #	2	IND46983GEN.bin	  fitness: 3.5
+Competidor #	3	IND47085GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	129
+Competidor #	0	IND47707GEN.bin	  fitness: 3.5
+Competidor #	1	IND47338GEN.bin	  fitness: 8.0
+Competidor #	2	IND47253GEN.bin	  fitness: 3.5
+Competidor #	3	IND47093GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	130
+Competidor #	0	IND46974GEN.bin	  fitness: 3.5
+Competidor #	1	IND47144GEN.bin	  fitness: 3.5
+Competidor #	2	IND47677GEN.bin	  fitness: 3.5
+Competidor #	3	IND47737GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	131
+Competidor #	0	IND47311GEN.bin	  fitness: 3.5
+Competidor #	1	IND47828GEN.bin	  fitness: 8.5
+Competidor #	2	IND47783GEN.bin	  fitness: 3.5
+Competidor #	3	IND47104GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	132
+Competidor #	0	IND47283GEN.bin	  fitness: 3.5
+Competidor #	1	IND47164GEN.bin	  fitness: 3.5
+Competidor #	2	IND47188GEN.bin	  fitness: 3.5
+Competidor #	3	IND47062GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	133
+Competidor #	0	IND47229GEN.bin	  fitness: 3.5
+Competidor #	1	IND47938GEN.bin	  fitness: 3.5
+Competidor #	2	IND47831GEN.bin	  fitness: 3.5
+Competidor #	3	IND47359GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	134
+Competidor #	0	IND47409GEN.bin	  fitness: 3.5
+Competidor #	1	IND47886GEN.bin	  fitness: 3.5
+Competidor #	2	IND47526GEN.bin	  fitness: 3.5
+Competidor #	3	IND47495GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	135
+Competidor #	0	IND47572GEN.bin	  fitness: 3.5
+Competidor #	1	IND47559GEN.bin	  fitness: 3.5
+Competidor #	2	IND47316GEN.bin	  fitness: 3.5
+Competidor #	3	IND47882GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	136
+Competidor #	0	IND47462GEN.bin	  fitness: 3.5
+Competidor #	1	IND47343GEN.bin	  fitness: 3.5
+Competidor #	2	IND47619GEN.bin	  fitness: 3.5
+Competidor #	3	IND47607GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	137
+Competidor #	0	IND47353GEN.bin	  fitness: 3.5
+Competidor #	1	IND47531GEN.bin	  fitness: 3.5
+Competidor #	2	IND47825GEN.bin	  fitness: 3.5
+Competidor #	3	IND47340GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	138
+Competidor #	0	IND46997GEN.bin	  fitness: 12.0
+Competidor #	1	IND47439GEN.bin	  fitness: 3.5
+Competidor #	2	IND47795GEN.bin	  fitness: 3.5
+Competidor #	3	IND47264GEN.bin	  fitness: 4.5
+Ganador :	1
+
+Torneo número:	139
+Competidor #	0	IND47626GEN.bin	  fitness: 3.5
+Competidor #	1	IND47650GEN.bin	  fitness: 6.5
+Competidor #	2	IND47376GEN.bin	  fitness: 8.5
+Competidor #	3	IND47472GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	140
+Competidor #	0	IND47706GEN.bin	  fitness: 3.5
+Competidor #	1	IND47421GEN.bin	  fitness: 3.5
+Competidor #	2	IND47304GEN.bin	  fitness: 3.5
+Competidor #	3	IND46956GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	141
+Competidor #	0	IND47760GEN.bin	  fitness: 3.5
+Competidor #	1	IND47553GEN.bin	  fitness: 3.5
+Competidor #	2	IND47742GEN.bin	  fitness: 3.5
+Competidor #	3	IND47485GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	142
+Competidor #	0	IND47511GEN.bin	  fitness: 4.5
+Competidor #	1	IND47468GEN.bin	  fitness: 3.5
+Competidor #	2	IND47595GEN.bin	  fitness: 3.5
+Competidor #	3	IND47255GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	143
+Competidor #	0	IND47225GEN.bin	  fitness: 3.5
+Competidor #	1	IND47658GEN.bin	  fitness: 3.5
+Competidor #	2	IND47460GEN.bin	  fitness: 6.0
+Competidor #	3	IND47865GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	144
+Competidor #	0	IND47924GEN.bin	  fitness: 3.5
+Competidor #	1	IND47466GEN.bin	  fitness: 3.5
+Competidor #	2	IND47630GEN.bin	  fitness: 3.5
+Competidor #	3	IND47154GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	145
+Competidor #	0	IND47536GEN.bin	  fitness: 3.5
+Competidor #	1	IND47551GEN.bin	  fitness: 3.5
+Competidor #	2	IND47238GEN.bin	  fitness: 3.5
+Competidor #	3	IND47512GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	146
+Competidor #	0	IND47899GEN.bin	  fitness: 3.5
+Competidor #	1	IND47495GEN.bin	  fitness: 3.5
+Competidor #	2	IND47162GEN.bin	  fitness: 3.5
+Competidor #	3	IND47287GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	147
+Competidor #	0	IND47466GEN.bin	  fitness: 3.5
+Competidor #	1	IND47681GEN.bin	  fitness: 3.5
+Competidor #	2	IND47332GEN.bin	  fitness: 3.5
+Competidor #	3	IND47349GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	148
+Competidor #	0	IND47655GEN.bin	  fitness: 3.5
+Competidor #	1	IND47364GEN.bin	  fitness: 3.5
+Competidor #	2	IND47830GEN.bin	  fitness: 3.5
+Competidor #	3	IND47761GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	149
+Competidor #	0	IND47407GEN.bin	  fitness: 3.5
+Competidor #	1	IND47488GEN.bin	  fitness: 3.5
+Competidor #	2	IND47578GEN.bin	  fitness: 15.5
+Competidor #	3	IND46985GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	150
+Competidor #	0	IND46987GEN.bin	  fitness: 9.0
+Competidor #	1	IND47461GEN.bin	  fitness: 3.5
+Competidor #	2	IND47440GEN.bin	  fitness: 3.5
+Competidor #	3	IND47781GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	151
+Competidor #	0	IND47061GEN.bin	  fitness: 3.5
+Competidor #	1	IND47583GEN.bin	  fitness: 9.5
+Competidor #	2	IND47452GEN.bin	  fitness: 3.5
+Competidor #	3	IND47813GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	152
+Competidor #	0	IND47533GEN.bin	  fitness: 3.5
+Competidor #	1	IND47017GEN.bin	  fitness: 3.5
+Competidor #	2	IND47948GEN.bin	  fitness: 3.5
+Competidor #	3	IND47768GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	153
+Competidor #	0	IND47623GEN.bin	  fitness: 3.5
+Competidor #	1	IND47645GEN.bin	  fitness: 3.5
+Competidor #	2	IND46998GEN.bin	  fitness: 3.5
+Competidor #	3	IND47301GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	154
+Competidor #	0	IND47863GEN.bin	  fitness: 3.5
+Competidor #	1	IND47872GEN.bin	  fitness: 3.5
+Competidor #	2	IND47642GEN.bin	  fitness: 3.5
+Competidor #	3	IND47030GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	155
+Competidor #	0	IND47432GEN.bin	  fitness: 3.5
+Competidor #	1	IND47159GEN.bin	  fitness: 3.5
+Competidor #	2	IND47283GEN.bin	  fitness: 3.5
+Competidor #	3	IND47455GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	156
+Competidor #	0	IND47635GEN.bin	  fitness: 3.5
+Competidor #	1	IND47741GEN.bin	  fitness: 3.5
+Competidor #	2	IND47286GEN.bin	  fitness: 4.5
+Competidor #	3	IND47025GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	157
+Competidor #	0	IND47601GEN.bin	  fitness: 3.5
+Competidor #	1	IND47733GEN.bin	  fitness: 3.5
+Competidor #	2	IND47468GEN.bin	  fitness: 3.5
+Competidor #	3	IND47462GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	158
+Competidor #	0	IND47094GEN.bin	  fitness: 3.5
+Competidor #	1	IND47625GEN.bin	  fitness: 10.0
+Competidor #	2	IND47114GEN.bin	  fitness: 3.5
+Competidor #	3	IND47005GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	159
+Competidor #	0	IND47377GEN.bin	  fitness: 12.5
+Competidor #	1	IND47717GEN.bin	  fitness: 4.5
+Competidor #	2	IND47462GEN.bin	  fitness: 3.5
+Competidor #	3	IND46994GEN.bin	  fitness: 8.5
+Ganador :	2
+
+Torneo número:	160
+Competidor #	0	IND47303GEN.bin	  fitness: 12.0
+Competidor #	1	IND47252GEN.bin	  fitness: 3.5
+Competidor #	2	IND47875GEN.bin	  fitness: 3.5
+Competidor #	3	IND47772GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	161
+Competidor #	0	IND47376GEN.bin	  fitness: 8.5
+Competidor #	1	IND47181GEN.bin	  fitness: 3.5
+Competidor #	2	IND47082GEN.bin	  fitness: 3.5
+Competidor #	3	IND47456GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	162
+Competidor #	0	IND47607GEN.bin	  fitness: 3.5
+Competidor #	1	IND47068GEN.bin	  fitness: 3.5
+Competidor #	2	IND47744GEN.bin	  fitness: 9.5
+Competidor #	3	IND47451GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	163
+Competidor #	0	IND47466GEN.bin	  fitness: 3.5
+Competidor #	1	IND47129GEN.bin	  fitness: 3.5
+Competidor #	2	IND47406GEN.bin	  fitness: 3.5
+Competidor #	3	IND47833GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	164
+Competidor #	0	IND47668GEN.bin	  fitness: 3.5
+Competidor #	1	IND47723GEN.bin	  fitness: 3.5
+Competidor #	2	IND47616GEN.bin	  fitness: 3.5
+Competidor #	3	IND47570GEN.bin	  fitness: 7.5
+Ganador :	0
+
+Torneo número:	165
+Competidor #	0	IND47711GEN.bin	  fitness: 3.5
+Competidor #	1	IND47823GEN.bin	  fitness: 7.0
+Competidor #	2	IND47153GEN.bin	  fitness: 3.5
+Competidor #	3	IND46985GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	166
+Competidor #	0	IND47720GEN.bin	  fitness: 3.5
+Competidor #	1	IND47823GEN.bin	  fitness: 7.0
+Competidor #	2	IND47541GEN.bin	  fitness: 8.5
+Competidor #	3	IND46976GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	167
+Competidor #	0	IND47268GEN.bin	  fitness: 3.5
+Competidor #	1	IND47559GEN.bin	  fitness: 3.5
+Competidor #	2	IND47652GEN.bin	  fitness: 3.5
+Competidor #	3	IND47667GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	168
+Competidor #	0	IND47561GEN.bin	  fitness: 3.5
+Competidor #	1	IND47088GEN.bin	  fitness: 3.5
+Competidor #	2	IND47880GEN.bin	  fitness: 3.5
+Competidor #	3	IND47051GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	169
+Competidor #	0	IND47639GEN.bin	  fitness: 3.5
+Competidor #	1	IND47130GEN.bin	  fitness: 3.5
+Competidor #	2	IND47189GEN.bin	  fitness: 3.5
+Competidor #	3	IND47892GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	170
+Competidor #	0	IND47091GEN.bin	  fitness: 3.5
+Competidor #	1	IND47320GEN.bin	  fitness: 3.5
+Competidor #	2	IND47722GEN.bin	  fitness: 3.5
+Competidor #	3	IND47849GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	171
+Competidor #	0	IND47575GEN.bin	  fitness: 3.5
+Competidor #	1	IND47000GEN.bin	  fitness: 3.5
+Competidor #	2	IND47253GEN.bin	  fitness: 3.5
+Competidor #	3	IND47157GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	172
+Competidor #	0	IND47903GEN.bin	  fitness: 9.5
+Competidor #	1	IND47632GEN.bin	  fitness: 3.5
+Competidor #	2	IND47270GEN.bin	  fitness: 3.5
+Competidor #	3	IND47274GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	173
+Competidor #	0	IND47357GEN.bin	  fitness: 10.0
+Competidor #	1	IND47106GEN.bin	  fitness: 7.5
+Competidor #	2	IND47374GEN.bin	  fitness: 3.5
+Competidor #	3	IND47645GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	174
+Competidor #	0	IND47333GEN.bin	  fitness: 3.5
+Competidor #	1	IND47310GEN.bin	  fitness: 3.5
+Competidor #	2	IND47243GEN.bin	  fitness: 3.5
+Competidor #	3	IND47689GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	175
+Competidor #	0	IND47801GEN.bin	  fitness: 3.5
+Competidor #	1	IND47905GEN.bin	  fitness: 3.5
+Competidor #	2	IND47345GEN.bin	  fitness: 3.5
+Competidor #	3	IND47785GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	176
+Competidor #	0	IND46973GEN.bin	  fitness: 3.5
+Competidor #	1	IND47067GEN.bin	  fitness: 8.5
+Competidor #	2	IND47451GEN.bin	  fitness: 3.5
+Competidor #	3	IND47662GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	177
+Competidor #	0	IND47475GEN.bin	  fitness: 3.5
+Competidor #	1	IND47714GEN.bin	  fitness: 3.5
+Competidor #	2	IND46964GEN.bin	  fitness: 3.5
+Competidor #	3	IND47303GEN.bin	  fitness: 12.0
+Ganador :	0
+
+Torneo número:	178
+Competidor #	0	IND47307GEN.bin	  fitness: 7.5
+Competidor #	1	IND47674GEN.bin	  fitness: 3.5
+Competidor #	2	IND46986GEN.bin	  fitness: 3.5
+Competidor #	3	IND47780GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	179
+Competidor #	0	IND47122GEN.bin	  fitness: 3.5
+Competidor #	1	IND47135GEN.bin	  fitness: 3.5
+Competidor #	2	IND47085GEN.bin	  fitness: 3.5
+Competidor #	3	IND47320GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	180
+Competidor #	0	IND47923GEN.bin	  fitness: 3.5
+Competidor #	1	IND47061GEN.bin	  fitness: 3.5
+Competidor #	2	IND47509GEN.bin	  fitness: 3.5
+Competidor #	3	IND47506GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	181
+Competidor #	0	IND47828GEN.bin	  fitness: 8.5
+Competidor #	1	IND47603GEN.bin	  fitness: 8.0
+Competidor #	2	IND47449GEN.bin	  fitness: 3.5
+Competidor #	3	IND47160GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	182
+Competidor #	0	IND47823GEN.bin	  fitness: 7.0
+Competidor #	1	IND47361GEN.bin	  fitness: 3.5
+Competidor #	2	IND47363GEN.bin	  fitness: 3.5
+Competidor #	3	IND47498GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	183
+Competidor #	0	IND47559GEN.bin	  fitness: 3.5
+Competidor #	1	IND47170GEN.bin	  fitness: 3.5
+Competidor #	2	IND47399GEN.bin	  fitness: 3.5
+Competidor #	3	IND47695GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	184
+Competidor #	0	IND47489GEN.bin	  fitness: 10.5
+Competidor #	1	IND47171GEN.bin	  fitness: 3.5
+Competidor #	2	IND47405GEN.bin	  fitness: 3.5
+Competidor #	3	IND47030GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	185
+Competidor #	0	IND47139GEN.bin	  fitness: 3.5
+Competidor #	1	IND47140GEN.bin	  fitness: 5.5
+Competidor #	2	IND47195GEN.bin	  fitness: 3.5
+Competidor #	3	IND47160GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	186
+Competidor #	0	IND47804GEN.bin	  fitness: 3.5
+Competidor #	1	IND47856GEN.bin	  fitness: 3.5
+Competidor #	2	IND47522GEN.bin	  fitness: 3.5
+Competidor #	3	IND47935GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	187
+Competidor #	0	IND47506GEN.bin	  fitness: 3.5
+Competidor #	1	IND47569GEN.bin	  fitness: 3.5
+Competidor #	2	IND47177GEN.bin	  fitness: 6.5
+Competidor #	3	IND47849GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	188
+Competidor #	0	IND47074GEN.bin	  fitness: 3.5
+Competidor #	1	IND47750GEN.bin	  fitness: 3.5
+Competidor #	2	IND46987GEN.bin	  fitness: 9.0
+Competidor #	3	IND47406GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	189
+Competidor #	0	IND47628GEN.bin	  fitness: 3.5
+Competidor #	1	IND47448GEN.bin	  fitness: 3.5
+Competidor #	2	IND47030GEN.bin	  fitness: 3.5
+Competidor #	3	IND47278GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	190
+Competidor #	0	IND46984GEN.bin	  fitness: 3.5
+Competidor #	1	IND47861GEN.bin	  fitness: 3.5
+Competidor #	2	IND47686GEN.bin	  fitness: 3.5
+Competidor #	3	IND47051GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	191
+Competidor #	0	IND47502GEN.bin	  fitness: 3.5
+Competidor #	1	IND47667GEN.bin	  fitness: 3.5
+Competidor #	2	IND47677GEN.bin	  fitness: 3.5
+Competidor #	3	IND47832GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	192
+Competidor #	0	IND47711GEN.bin	  fitness: 3.5
+Competidor #	1	IND47849GEN.bin	  fitness: 3.5
+Competidor #	2	IND47723GEN.bin	  fitness: 3.5
+Competidor #	3	IND47405GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	193
+Competidor #	0	IND47664GEN.bin	  fitness: 3.5
+Competidor #	1	IND47600GEN.bin	  fitness: 3.5
+Competidor #	2	IND47299GEN.bin	  fitness: 3.5
+Competidor #	3	IND47784GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	194
+Competidor #	0	IND47004GEN.bin	  fitness: 3.5
+Competidor #	1	IND47844GEN.bin	  fitness: 3.5
+Competidor #	2	IND47566GEN.bin	  fitness: 3.5
+Competidor #	3	IND47377GEN.bin	  fitness: 12.5
+Ganador :	0
+
+Torneo número:	195
+Competidor #	0	IND47358GEN.bin	  fitness: 3.5
+Competidor #	1	IND47511GEN.bin	  fitness: 4.5
+Competidor #	2	IND47350GEN.bin	  fitness: 3.5
+Competidor #	3	IND47216GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	196
+Competidor #	0	IND47834GEN.bin	  fitness: 3.5
+Competidor #	1	IND47945GEN.bin	  fitness: 3.5
+Competidor #	2	IND47569GEN.bin	  fitness: 3.5
+Competidor #	3	IND47205GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	197
+Competidor #	0	IND47460GEN.bin	  fitness: 6.0
+Competidor #	1	IND47804GEN.bin	  fitness: 3.5
+Competidor #	2	IND47446GEN.bin	  fitness: 10.5
+Competidor #	3	IND47748GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	198
+Competidor #	0	IND47149GEN.bin	  fitness: 3.5
+Competidor #	1	IND47677GEN.bin	  fitness: 3.5
+Competidor #	2	IND47796GEN.bin	  fitness: 3.5
+Competidor #	3	IND47703GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	199
+Competidor #	0	IND47860GEN.bin	  fitness: 3.5
+Competidor #	1	IND47377GEN.bin	  fitness: 12.5
+Competidor #	2	IND47659GEN.bin	  fitness: 3.5
+Competidor #	3	IND47070GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	200
+Competidor #	0	IND47683GEN.bin	  fitness: 3.5
+Competidor #	1	IND47346GEN.bin	  fitness: 3.5
+Competidor #	2	IND47642GEN.bin	  fitness: 3.5
+Competidor #	3	IND47789GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	201
+Competidor #	0	IND47284GEN.bin	  fitness: 3.5
+Competidor #	1	IND47498GEN.bin	  fitness: 3.5
+Competidor #	2	IND47285GEN.bin	  fitness: 3.5
+Competidor #	3	IND47376GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	202
+Competidor #	0	IND47564GEN.bin	  fitness: 6.5
+Competidor #	1	IND47783GEN.bin	  fitness: 3.5
+Competidor #	2	IND47078GEN.bin	  fitness: 3.5
+Competidor #	3	IND47727GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	203
+Competidor #	0	IND47808GEN.bin	  fitness: 3.5
+Competidor #	1	IND47474GEN.bin	  fitness: 3.5
+Competidor #	2	IND47534GEN.bin	  fitness: 3.5
+Competidor #	3	IND47884GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	204
+Competidor #	0	IND47629GEN.bin	  fitness: 3.5
+Competidor #	1	IND47172GEN.bin	  fitness: 3.5
+Competidor #	2	IND47266GEN.bin	  fitness: 3.5
+Competidor #	3	IND47674GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	205
+Competidor #	0	IND47177GEN.bin	  fitness: 6.5
+Competidor #	1	IND47205GEN.bin	  fitness: 5.5
+Competidor #	2	IND46985GEN.bin	  fitness: 3.5
+Competidor #	3	IND47003GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	206
+Competidor #	0	IND47477GEN.bin	  fitness: 3.5
+Competidor #	1	IND47743GEN.bin	  fitness: 3.5
+Competidor #	2	IND47311GEN.bin	  fitness: 3.5
+Competidor #	3	IND47211GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	207
+Competidor #	0	IND47376GEN.bin	  fitness: 8.5
+Competidor #	1	IND47174GEN.bin	  fitness: 3.5
+Competidor #	2	IND47789GEN.bin	  fitness: 3.5
+Competidor #	3	IND47902GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	208
+Competidor #	0	IND47866GEN.bin	  fitness: 3.5
+Competidor #	1	IND47659GEN.bin	  fitness: 3.5
+Competidor #	2	IND47819GEN.bin	  fitness: 3.5
+Competidor #	3	IND47346GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	209
+Competidor #	0	IND47947GEN.bin	  fitness: 3.5
+Competidor #	1	IND47616GEN.bin	  fitness: 3.5
+Competidor #	2	IND47202GEN.bin	  fitness: 3.5
+Competidor #	3	IND47760GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	210
+Competidor #	0	IND47739GEN.bin	  fitness: 3.5
+Competidor #	1	IND47939GEN.bin	  fitness: 3.5
+Competidor #	2	IND47892GEN.bin	  fitness: 3.5
+Competidor #	3	IND47035GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	211
+Competidor #	0	IND47019GEN.bin	  fitness: 3.5
+Competidor #	1	IND47066GEN.bin	  fitness: 3.5
+Competidor #	2	IND47485GEN.bin	  fitness: 3.5
+Competidor #	3	IND47352GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	212
+Competidor #	0	IND47931GEN.bin	  fitness: 3.5
+Competidor #	1	IND47411GEN.bin	  fitness: 7.5
+Competidor #	2	IND46967GEN.bin	  fitness: 3.5
+Competidor #	3	IND47644GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	213
+Competidor #	0	IND46995GEN.bin	  fitness: 3.5
+Competidor #	1	IND47202GEN.bin	  fitness: 3.5
+Competidor #	2	IND47502GEN.bin	  fitness: 3.5
+Competidor #	3	IND47237GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	214
+Competidor #	0	IND47839GEN.bin	  fitness: 3.5
+Competidor #	1	IND47655GEN.bin	  fitness: 3.5
+Competidor #	2	IND47455GEN.bin	  fitness: 3.5
+Competidor #	3	IND47402GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	215
+Competidor #	0	IND47125GEN.bin	  fitness: 8.5
+Competidor #	1	IND47626GEN.bin	  fitness: 3.5
+Competidor #	2	IND47691GEN.bin	  fitness: 3.5
+Competidor #	3	IND47488GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	216
+Competidor #	0	IND47848GEN.bin	  fitness: 3.5
+Competidor #	1	IND47919GEN.bin	  fitness: 3.5
+Competidor #	2	IND47513GEN.bin	  fitness: 3.5
+Competidor #	3	IND46970GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	217
+Competidor #	0	IND47135GEN.bin	  fitness: 3.5
+Competidor #	1	IND47824GEN.bin	  fitness: 3.5
+Competidor #	2	IND47470GEN.bin	  fitness: 3.5
+Competidor #	3	IND47257GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	218
+Competidor #	0	IND47914GEN.bin	  fitness: 3.5
+Competidor #	1	IND47104GEN.bin	  fitness: 9.5
+Competidor #	2	IND47941GEN.bin	  fitness: 3.5
+Competidor #	3	IND47351GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	219
+Competidor #	0	IND46975GEN.bin	  fitness: 3.5
+Competidor #	1	IND47117GEN.bin	  fitness: 3.5
+Competidor #	2	IND47715GEN.bin	  fitness: 3.5
+Competidor #	3	IND47074GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	220
+Competidor #	0	IND47769GEN.bin	  fitness: 3.5
+Competidor #	1	IND47329GEN.bin	  fitness: 7.5
+Competidor #	2	IND47412GEN.bin	  fitness: 12.5
+Competidor #	3	IND47258GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	221
+Competidor #	0	IND47445GEN.bin	  fitness: 3.5
+Competidor #	1	IND47861GEN.bin	  fitness: 3.5
+Competidor #	2	IND47826GEN.bin	  fitness: 3.5
+Competidor #	3	IND47474GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	222
+Competidor #	0	IND47344GEN.bin	  fitness: 3.5
+Competidor #	1	IND47008GEN.bin	  fitness: 3.5
+Competidor #	2	IND47580GEN.bin	  fitness: 4.5
+Competidor #	3	IND47745GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	223
+Competidor #	0	IND47243GEN.bin	  fitness: 3.5
+Competidor #	1	IND47231GEN.bin	  fitness: 3.5
+Competidor #	2	IND47340GEN.bin	  fitness: 3.5
+Competidor #	3	IND47237GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	224
+Competidor #	0	IND47742GEN.bin	  fitness: 3.5
+Competidor #	1	IND47346GEN.bin	  fitness: 3.5
+Competidor #	2	IND47655GEN.bin	  fitness: 3.5
+Competidor #	3	IND47052GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	225
+Competidor #	0	IND47174GEN.bin	  fitness: 3.5
+Competidor #	1	IND47279GEN.bin	  fitness: 3.5
+Competidor #	2	IND46961GEN.bin	  fitness: 3.5
+Competidor #	3	IND47056GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	226
+Competidor #	0	IND47082GEN.bin	  fitness: 3.5
+Competidor #	1	IND47745GEN.bin	  fitness: 3.5
+Competidor #	2	IND47499GEN.bin	  fitness: 3.5
+Competidor #	3	IND47184GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	227
+Competidor #	0	IND47366GEN.bin	  fitness: 3.5
+Competidor #	1	IND47782GEN.bin	  fitness: 10.5
+Competidor #	2	IND47000GEN.bin	  fitness: 3.5
+Competidor #	3	IND47010GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	228
+Competidor #	0	IND47952GEN.bin	  fitness: 8.5
+Competidor #	1	IND47394GEN.bin	  fitness: 6.5
+Competidor #	2	IND47871GEN.bin	  fitness: 3.5
+Competidor #	3	IND47191GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	229
+Competidor #	0	IND47067GEN.bin	  fitness: 8.5
+Competidor #	1	IND47170GEN.bin	  fitness: 3.5
+Competidor #	2	IND47831GEN.bin	  fitness: 3.5
+Competidor #	3	IND47820GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	230
+Competidor #	0	IND46981GEN.bin	  fitness: 13.0
+Competidor #	1	IND47912GEN.bin	  fitness: 3.5
+Competidor #	2	IND47018GEN.bin	  fitness: 3.5
+Competidor #	3	IND46994GEN.bin	  fitness: 8.5
+Ganador :	1
+
+Torneo número:	231
+Competidor #	0	IND47458GEN.bin	  fitness: 9.5
+Competidor #	1	IND47251GEN.bin	  fitness: 3.5
+Competidor #	2	IND47474GEN.bin	  fitness: 3.5
+Competidor #	3	IND47927GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	232
+Competidor #	0	IND47071GEN.bin	  fitness: 3.5
+Competidor #	1	IND46959GEN.bin	  fitness: 3.5
+Competidor #	2	IND46982GEN.bin	  fitness: 3.5
+Competidor #	3	IND47528GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	233
+Competidor #	0	IND47017GEN.bin	  fitness: 3.5
+Competidor #	1	IND47055GEN.bin	  fitness: 3.5
+Competidor #	2	IND47673GEN.bin	  fitness: 8.5
+Competidor #	3	IND47506GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	234
+Competidor #	0	IND47185GEN.bin	  fitness: 3.5
+Competidor #	1	IND47361GEN.bin	  fitness: 3.5
+Competidor #	2	IND47062GEN.bin	  fitness: 8.5
+Competidor #	3	IND47026GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	235
+Competidor #	0	IND47778GEN.bin	  fitness: 3.5
+Competidor #	1	IND47294GEN.bin	  fitness: 3.5
+Competidor #	2	IND47711GEN.bin	  fitness: 3.5
+Competidor #	3	IND47379GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	236
+Competidor #	0	IND47533GEN.bin	  fitness: 3.5
+Competidor #	1	IND47059GEN.bin	  fitness: 3.5
+Competidor #	2	IND47362GEN.bin	  fitness: 3.5
+Competidor #	3	IND46990GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	237
+Competidor #	0	IND47106GEN.bin	  fitness: 7.5
+Competidor #	1	IND47825GEN.bin	  fitness: 3.5
+Competidor #	2	IND47793GEN.bin	  fitness: 3.5
+Competidor #	3	IND47029GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	238
+Competidor #	0	IND47888GEN.bin	  fitness: 3.5
+Competidor #	1	IND47559GEN.bin	  fitness: 3.5
+Competidor #	2	IND47720GEN.bin	  fitness: 3.5
+Competidor #	3	IND47618GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	239
+Competidor #	0	IND47499GEN.bin	  fitness: 3.5
+Competidor #	1	IND47256GEN.bin	  fitness: 3.5
+Competidor #	2	IND47724GEN.bin	  fitness: 3.5
+Competidor #	3	IND47630GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	240
+Competidor #	0	IND47060GEN.bin	  fitness: 8.5
+Competidor #	1	IND47518GEN.bin	  fitness: 3.5
+Competidor #	2	IND47320GEN.bin	  fitness: 3.5
+Competidor #	3	IND47288GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	241
+Competidor #	0	IND47433GEN.bin	  fitness: 3.5
+Competidor #	1	IND47327GEN.bin	  fitness: 3.5
+Competidor #	2	IND47544GEN.bin	  fitness: 6.5
+Competidor #	3	IND47156GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	242
+Competidor #	0	IND47705GEN.bin	  fitness: 3.5
+Competidor #	1	IND47360GEN.bin	  fitness: 13.5
+Competidor #	2	IND47524GEN.bin	  fitness: 3.5
+Competidor #	3	IND47198GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	243
+Competidor #	0	IND47879GEN.bin	  fitness: 3.5
+Competidor #	1	IND47381GEN.bin	  fitness: 3.5
+Competidor #	2	IND47599GEN.bin	  fitness: 8.5
+Competidor #	3	IND47021GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	244
+Competidor #	0	IND47403GEN.bin	  fitness: 3.5
+Competidor #	1	IND46984GEN.bin	  fitness: 3.5
+Competidor #	2	IND47641GEN.bin	  fitness: 3.5
+Competidor #	3	IND47273GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	245
+Competidor #	0	IND47622GEN.bin	  fitness: 3.5
+Competidor #	1	IND47130GEN.bin	  fitness: 3.5
+Competidor #	2	IND47788GEN.bin	  fitness: 3.5
+Competidor #	3	IND47513GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	246
+Competidor #	0	IND47590GEN.bin	  fitness: 10.5
+Competidor #	1	IND47637GEN.bin	  fitness: 7.5
+Competidor #	2	IND47534GEN.bin	  fitness: 3.5
+Competidor #	3	IND47792GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	247
+Competidor #	0	IND47285GEN.bin	  fitness: 3.5
+Competidor #	1	IND47148GEN.bin	  fitness: 3.5
+Competidor #	2	IND47568GEN.bin	  fitness: 3.5
+Competidor #	3	IND46988GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	248
+Competidor #	0	IND47557GEN.bin	  fitness: 3.5
+Competidor #	1	IND47776GEN.bin	  fitness: 3.5
+Competidor #	2	IND47951GEN.bin	  fitness: 8.5
+Competidor #	3	IND47135GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	249
+Competidor #	0	IND47699GEN.bin	  fitness: 3.5
+Competidor #	1	IND47876GEN.bin	  fitness: 3.5
+Competidor #	2	IND47824GEN.bin	  fitness: 3.5
+Competidor #	3	IND47887GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	250
+Competidor #	0	IND47560GEN.bin	  fitness: 8.0
+Competidor #	1	IND46984GEN.bin	  fitness: 3.5
+Competidor #	2	IND47734GEN.bin	  fitness: 3.5
+Competidor #	3	IND46993GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	251
+Competidor #	0	IND47529GEN.bin	  fitness: 11.5
+Competidor #	1	IND47829GEN.bin	  fitness: 3.5
+Competidor #	2	IND47362GEN.bin	  fitness: 3.5
+Competidor #	3	IND47216GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	252
+Competidor #	0	IND47071GEN.bin	  fitness: 3.5
+Competidor #	1	IND47652GEN.bin	  fitness: 3.5
+Competidor #	2	IND47375GEN.bin	  fitness: 3.5
+Competidor #	3	IND47351GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	253
+Competidor #	0	IND47866GEN.bin	  fitness: 3.5
+Competidor #	1	IND47754GEN.bin	  fitness: 3.5
+Competidor #	2	IND47237GEN.bin	  fitness: 3.5
+Competidor #	3	IND47111GEN.bin	  fitness: 6.5
+Ganador :	0
+
+Torneo número:	254
+Competidor #	0	IND47870GEN.bin	  fitness: 3.5
+Competidor #	1	IND47685GEN.bin	  fitness: 3.5
+Competidor #	2	IND47940GEN.bin	  fitness: 3.5
+Competidor #	3	IND47870GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	255
+Competidor #	0	IND47259GEN.bin	  fitness: 3.5
+Competidor #	1	IND47219GEN.bin	  fitness: 3.5
+Competidor #	2	IND47819GEN.bin	  fitness: 3.5
+Competidor #	3	IND47578GEN.bin	  fitness: 15.5
+Ganador :	0
+
+Torneo número:	256
+Competidor #	0	IND47811GEN.bin	  fitness: 3.5
+Competidor #	1	IND47061GEN.bin	  fitness: 3.5
+Competidor #	2	IND47919GEN.bin	  fitness: 3.5
+Competidor #	3	IND47253GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	257
+Competidor #	0	IND47181GEN.bin	  fitness: 3.5
+Competidor #	1	IND47456GEN.bin	  fitness: 3.5
+Competidor #	2	IND47817GEN.bin	  fitness: 3.5
+Competidor #	3	IND47023GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	258
+Competidor #	0	IND47486GEN.bin	  fitness: 3.5
+Competidor #	1	IND47796GEN.bin	  fitness: 3.5
+Competidor #	2	IND47670GEN.bin	  fitness: 3.5
+Competidor #	3	IND47012GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	259
+Competidor #	0	IND47831GEN.bin	  fitness: 3.5
+Competidor #	1	IND47576GEN.bin	  fitness: 3.5
+Competidor #	2	IND46969GEN.bin	  fitness: 3.5
+Competidor #	3	IND47484GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	260
+Competidor #	0	IND47181GEN.bin	  fitness: 3.5
+Competidor #	1	IND47293GEN.bin	  fitness: 3.5
+Competidor #	2	IND47911GEN.bin	  fitness: 3.5
+Competidor #	3	IND47835GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	261
+Competidor #	0	IND47100GEN.bin	  fitness: 3.5
+Competidor #	1	IND47855GEN.bin	  fitness: 3.5
+Competidor #	2	IND47500GEN.bin	  fitness: 3.5
+Competidor #	3	IND47516GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	262
+Competidor #	0	IND47044GEN.bin	  fitness: 3.5
+Competidor #	1	IND47270GEN.bin	  fitness: 3.5
+Competidor #	2	IND47471GEN.bin	  fitness: 3.5
+Competidor #	3	IND47594GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	263
+Competidor #	0	IND47018GEN.bin	  fitness: 3.5
+Competidor #	1	IND47001GEN.bin	  fitness: 3.5
+Competidor #	2	IND47170GEN.bin	  fitness: 3.5
+Competidor #	3	IND47670GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	264
+Competidor #	0	IND47724GEN.bin	  fitness: 3.5
+Competidor #	1	IND47860GEN.bin	  fitness: 3.5
+Competidor #	2	IND47827GEN.bin	  fitness: 3.5
+Competidor #	3	IND47538GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	265
+Competidor #	0	IND47028GEN.bin	  fitness: 3.5
+Competidor #	1	IND47070GEN.bin	  fitness: 3.5
+Competidor #	2	IND47897GEN.bin	  fitness: 10.5
+Competidor #	3	IND47019GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	266
+Competidor #	0	IND47671GEN.bin	  fitness: 3.5
+Competidor #	1	IND47176GEN.bin	  fitness: 3.5
+Competidor #	2	IND47046GEN.bin	  fitness: 3.5
+Competidor #	3	IND47494GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	267
+Competidor #	0	IND47382GEN.bin	  fitness: 8.5
+Competidor #	1	IND47524GEN.bin	  fitness: 3.5
+Competidor #	2	IND47401GEN.bin	  fitness: 3.5
+Competidor #	3	IND47239GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	268
+Competidor #	0	IND47692GEN.bin	  fitness: 3.5
+Competidor #	1	IND47674GEN.bin	  fitness: 3.5
+Competidor #	2	IND47567GEN.bin	  fitness: 3.5
+Competidor #	3	IND47042GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	269
+Competidor #	0	IND46991GEN.bin	  fitness: 3.5
+Competidor #	1	IND47090GEN.bin	  fitness: 3.5
+Competidor #	2	IND47851GEN.bin	  fitness: 8.0
+Competidor #	3	IND47755GEN.bin	  fitness: 9.0
+Ganador :	0
+
+Torneo número:	270
+Competidor #	0	IND47391GEN.bin	  fitness: 3.5
+Competidor #	1	IND47584GEN.bin	  fitness: 8.5
+Competidor #	2	IND47100GEN.bin	  fitness: 3.5
+Competidor #	3	IND47001GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	271
+Competidor #	0	IND46982GEN.bin	  fitness: 3.5
+Competidor #	1	IND47918GEN.bin	  fitness: 3.5
+Competidor #	2	IND47785GEN.bin	  fitness: 3.5
+Competidor #	3	IND47315GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	272
+Competidor #	0	IND47562GEN.bin	  fitness: 3.5
+Competidor #	1	IND47621GEN.bin	  fitness: 3.5
+Competidor #	2	IND46959GEN.bin	  fitness: 3.5
+Competidor #	3	IND47513GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	273
+Competidor #	0	IND47066GEN.bin	  fitness: 3.5
+Competidor #	1	IND47468GEN.bin	  fitness: 3.5
+Competidor #	2	IND47034GEN.bin	  fitness: 3.5
+Competidor #	3	IND47731GEN.bin	  fitness: 7.5
+Ganador :	0
+
+Torneo número:	274
+Competidor #	0	IND47791GEN.bin	  fitness: 3.5
+Competidor #	1	IND47252GEN.bin	  fitness: 3.5
+Competidor #	2	IND46997GEN.bin	  fitness: 12.0
+Competidor #	3	IND47133GEN.bin	  fitness: 9.0
+Ganador :	0
+
+Torneo número:	275
+Competidor #	0	IND47658GEN.bin	  fitness: 3.5
+Competidor #	1	IND47586GEN.bin	  fitness: 3.5
+Competidor #	2	IND47023GEN.bin	  fitness: 3.5
+Competidor #	3	IND47561GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	276
+Competidor #	0	IND47023GEN.bin	  fitness: 3.5
+Competidor #	1	IND47550GEN.bin	  fitness: 3.5
+Competidor #	2	IND47949GEN.bin	  fitness: 3.5
+Competidor #	3	IND47217GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	277
+Competidor #	0	IND47588GEN.bin	  fitness: 11.5
+Competidor #	1	IND47677GEN.bin	  fitness: 3.5
+Competidor #	2	IND47074GEN.bin	  fitness: 3.5
+Competidor #	3	IND47527GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	278
+Competidor #	0	IND47560GEN.bin	  fitness: 8.0
+Competidor #	1	IND47763GEN.bin	  fitness: 3.5
+Competidor #	2	IND47321GEN.bin	  fitness: 3.5
+Competidor #	3	IND47681GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	279
+Competidor #	0	IND47641GEN.bin	  fitness: 3.5
+Competidor #	1	IND47919GEN.bin	  fitness: 3.5
+Competidor #	2	IND46987GEN.bin	  fitness: 9.0
+Competidor #	3	IND46981GEN.bin	  fitness: 13.0
+Ganador :	0
+
+Torneo número:	280
+Competidor #	0	IND47032GEN.bin	  fitness: 12.5
+Competidor #	1	IND47238GEN.bin	  fitness: 3.5
+Competidor #	2	IND47779GEN.bin	  fitness: 3.5
+Competidor #	3	IND46960GEN.bin	  fitness: 5.5
+Ganador :	1
+
+Torneo número:	281
+Competidor #	0	IND47699GEN.bin	  fitness: 3.5
+Competidor #	1	IND47400GEN.bin	  fitness: 3.5
+Competidor #	2	IND47220GEN.bin	  fitness: 3.5
+Competidor #	3	IND47144GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	282
+Competidor #	0	IND47465GEN.bin	  fitness: 5.5
+Competidor #	1	IND47263GEN.bin	  fitness: 3.5
+Competidor #	2	IND47309GEN.bin	  fitness: 3.5
+Competidor #	3	IND47453GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	283
+Competidor #	0	IND47727GEN.bin	  fitness: 3.5
+Competidor #	1	IND47900GEN.bin	  fitness: 3.5
+Competidor #	2	IND47625GEN.bin	  fitness: 10.0
+Competidor #	3	IND47135GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	284
+Competidor #	0	IND47537GEN.bin	  fitness: 3.5
+Competidor #	1	IND47242GEN.bin	  fitness: 3.5
+Competidor #	2	IND47407GEN.bin	  fitness: 3.5
+Competidor #	3	IND47033GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	285
+Competidor #	0	IND47896GEN.bin	  fitness: 3.5
+Competidor #	1	IND47088GEN.bin	  fitness: 3.5
+Competidor #	2	IND47211GEN.bin	  fitness: 3.5
+Competidor #	3	IND46989GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	286
+Competidor #	0	IND47061GEN.bin	  fitness: 3.5
+Competidor #	1	IND47281GEN.bin	  fitness: 3.5
+Competidor #	2	IND47507GEN.bin	  fitness: 3.5
+Competidor #	3	IND47298GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	287
+Competidor #	0	IND47006GEN.bin	  fitness: 3.5
+Competidor #	1	IND47780GEN.bin	  fitness: 3.5
+Competidor #	2	IND47324GEN.bin	  fitness: 3.5
+Competidor #	3	IND47456GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	288
+Competidor #	0	IND47098GEN.bin	  fitness: 12.5
+Competidor #	1	IND47919GEN.bin	  fitness: 3.5
+Competidor #	2	IND47593GEN.bin	  fitness: 3.5
+Competidor #	3	IND47274GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	289
+Competidor #	0	IND47256GEN.bin	  fitness: 3.5
+Competidor #	1	IND47510GEN.bin	  fitness: 3.5
+Competidor #	2	IND47399GEN.bin	  fitness: 3.5
+Competidor #	3	IND47386GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	290
+Competidor #	0	IND47757GEN.bin	  fitness: 3.5
+Competidor #	1	IND47038GEN.bin	  fitness: 3.5
+Competidor #	2	IND47259GEN.bin	  fitness: 3.5
+Competidor #	3	IND47674GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	291
+Competidor #	0	IND46977GEN.bin	  fitness: 3.5
+Competidor #	1	IND47073GEN.bin	  fitness: 3.5
+Competidor #	2	IND47672GEN.bin	  fitness: 3.5
+Competidor #	3	IND47621GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	292
+Competidor #	0	IND47930GEN.bin	  fitness: 3.5
+Competidor #	1	IND47603GEN.bin	  fitness: 8.0
+Competidor #	2	IND47715GEN.bin	  fitness: 3.5
+Competidor #	3	IND47665GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	293
+Competidor #	0	IND47733GEN.bin	  fitness: 3.5
+Competidor #	1	IND47752GEN.bin	  fitness: 3.5
+Competidor #	2	IND47775GEN.bin	  fitness: 10.5
+Competidor #	3	IND47855GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	294
+Competidor #	0	IND47610GEN.bin	  fitness: 3.5
+Competidor #	1	IND47235GEN.bin	  fitness: 6.5
+Competidor #	2	IND47633GEN.bin	  fitness: 7.5
+Competidor #	3	IND47872GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	295
+Competidor #	0	IND47539GEN.bin	  fitness: 7.0
+Competidor #	1	IND46955GEN.bin	  fitness: 3.5
+Competidor #	2	IND47577GEN.bin	  fitness: 3.5
+Competidor #	3	IND47319GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	296
+Competidor #	0	IND47630GEN.bin	  fitness: 3.5
+Competidor #	1	IND47830GEN.bin	  fitness: 3.5
+Competidor #	2	IND47286GEN.bin	  fitness: 4.5
+Competidor #	3	IND47115GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	297
+Competidor #	0	IND47459GEN.bin	  fitness: 3.5
+Competidor #	1	IND47211GEN.bin	  fitness: 3.5
+Competidor #	2	IND47424GEN.bin	  fitness: 3.5
+Competidor #	3	IND47650GEN.bin	  fitness: 6.5
+Ganador :	0
+
+Torneo número:	298
+Competidor #	0	IND47843GEN.bin	  fitness: 3.5
+Competidor #	1	IND47258GEN.bin	  fitness: 3.5
+Competidor #	2	IND47430GEN.bin	  fitness: 8.5
+Competidor #	3	IND47003GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	299
+Competidor #	0	IND47741GEN.bin	  fitness: 3.5
+Competidor #	1	IND47295GEN.bin	  fitness: 3.5
+Competidor #	2	IND47413GEN.bin	  fitness: 3.5
+Competidor #	3	IND47672GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	300
+Competidor #	0	IND47533GEN.bin	  fitness: 3.5
+Competidor #	1	IND47832GEN.bin	  fitness: 3.5
+Competidor #	2	IND47944GEN.bin	  fitness: 3.5
+Competidor #	3	IND47783GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	301
+Competidor #	0	IND47138GEN.bin	  fitness: 3.5
+Competidor #	1	IND47748GEN.bin	  fitness: 3.5
+Competidor #	2	IND47545GEN.bin	  fitness: 11.5
+Competidor #	3	IND47069GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	302
+Competidor #	0	IND47577GEN.bin	  fitness: 3.5
+Competidor #	1	IND46981GEN.bin	  fitness: 13.0
+Competidor #	2	IND47004GEN.bin	  fitness: 3.5
+Competidor #	3	IND47062GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	303
+Competidor #	0	IND47085GEN.bin	  fitness: 3.5
+Competidor #	1	IND47357GEN.bin	  fitness: 10.0
+Competidor #	2	IND47446GEN.bin	  fitness: 10.5
+Competidor #	3	IND47243GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	304
+Competidor #	0	IND47824GEN.bin	  fitness: 3.5
+Competidor #	1	IND47605GEN.bin	  fitness: 3.5
+Competidor #	2	IND46977GEN.bin	  fitness: 3.5
+Competidor #	3	IND47140GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	305
+Competidor #	0	IND47605GEN.bin	  fitness: 3.5
+Competidor #	1	IND47482GEN.bin	  fitness: 3.5
+Competidor #	2	IND47880GEN.bin	  fitness: 3.5
+Competidor #	3	IND47163GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	306
+Competidor #	0	IND47932GEN.bin	  fitness: 3.5
+Competidor #	1	IND47315GEN.bin	  fitness: 3.5
+Competidor #	2	IND47289GEN.bin	  fitness: 3.5
+Competidor #	3	IND47346GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	307
+Competidor #	0	IND46973GEN.bin	  fitness: 3.5
+Competidor #	1	IND47047GEN.bin	  fitness: 3.5
+Competidor #	2	IND47169GEN.bin	  fitness: 3.5
+Competidor #	3	IND46998GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	308
+Competidor #	0	IND47497GEN.bin	  fitness: 3.5
+Competidor #	1	IND47721GEN.bin	  fitness: 7.5
+Competidor #	2	IND47786GEN.bin	  fitness: 3.5
+Competidor #	3	IND47791GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	309
+Competidor #	0	IND47399GEN.bin	  fitness: 3.5
+Competidor #	1	IND47590GEN.bin	  fitness: 10.5
+Competidor #	2	IND46957GEN.bin	  fitness: 3.5
+Competidor #	3	IND47534GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	310
+Competidor #	0	IND47474GEN.bin	  fitness: 3.5
+Competidor #	1	IND47515GEN.bin	  fitness: 3.5
+Competidor #	2	IND47812GEN.bin	  fitness: 3.5
+Competidor #	3	IND47259GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	311
+Competidor #	0	IND47638GEN.bin	  fitness: 3.5
+Competidor #	1	IND47822GEN.bin	  fitness: 3.5
+Competidor #	2	IND47815GEN.bin	  fitness: 3.5
+Competidor #	3	IND47611GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	312
+Competidor #	0	IND47293GEN.bin	  fitness: 3.5
+Competidor #	1	IND47107GEN.bin	  fitness: 3.5
+Competidor #	2	IND47870GEN.bin	  fitness: 3.5
+Competidor #	3	IND47442GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	313
+Competidor #	0	IND47299GEN.bin	  fitness: 3.5
+Competidor #	1	IND47953GEN.bin	  fitness: 7.0
+Competidor #	2	IND47539GEN.bin	  fitness: 7.0
+Competidor #	3	IND47261GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	314
+Competidor #	0	IND47017GEN.bin	  fitness: 3.5
+Competidor #	1	IND47581GEN.bin	  fitness: 3.5
+Competidor #	2	IND47673GEN.bin	  fitness: 8.5
+Competidor #	3	IND47895GEN.bin	  fitness: 11.0
+Ganador :	0
+
+Torneo número:	315
+Competidor #	0	IND47829GEN.bin	  fitness: 3.5
+Competidor #	1	IND46977GEN.bin	  fitness: 3.5
+Competidor #	2	IND46956GEN.bin	  fitness: 3.5
+Competidor #	3	IND47546GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	316
+Competidor #	0	IND47341GEN.bin	  fitness: 3.5
+Competidor #	1	IND47876GEN.bin	  fitness: 3.5
+Competidor #	2	IND47058GEN.bin	  fitness: 3.5
+Competidor #	3	IND47690GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	317
+Competidor #	0	IND47366GEN.bin	  fitness: 3.5
+Competidor #	1	IND47893GEN.bin	  fitness: 3.5
+Competidor #	2	IND47597GEN.bin	  fitness: 7.5
+Competidor #	3	IND47739GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	318
+Competidor #	0	IND47454GEN.bin	  fitness: 3.5
+Competidor #	1	IND47592GEN.bin	  fitness: 6.0
+Competidor #	2	IND47871GEN.bin	  fitness: 3.5
+Competidor #	3	IND47731GEN.bin	  fitness: 7.5
+Ganador :	0
+
+Torneo número:	319
+Competidor #	0	IND47017GEN.bin	  fitness: 3.5
+Competidor #	1	IND47389GEN.bin	  fitness: 3.5
+Competidor #	2	IND47599GEN.bin	  fitness: 8.5
+Competidor #	3	IND47240GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	320
+Competidor #	0	IND47662GEN.bin	  fitness: 3.5
+Competidor #	1	IND47345GEN.bin	  fitness: 3.5
+Competidor #	2	IND47277GEN.bin	  fitness: 3.5
+Competidor #	3	IND47952GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	321
+Competidor #	0	IND47325GEN.bin	  fitness: 3.5
+Competidor #	1	IND47211GEN.bin	  fitness: 3.5
+Competidor #	2	IND47847GEN.bin	  fitness: 3.5
+Competidor #	3	IND47227GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	322
+Competidor #	0	IND47443GEN.bin	  fitness: 3.5
+Competidor #	1	IND47237GEN.bin	  fitness: 3.5
+Competidor #	2	IND47709GEN.bin	  fitness: 3.5
+Competidor #	3	IND47273GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	323
+Competidor #	0	IND47312GEN.bin	  fitness: 3.5
+Competidor #	1	IND47745GEN.bin	  fitness: 3.5
+Competidor #	2	IND47141GEN.bin	  fitness: 10.5
+Competidor #	3	IND47542GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	324
+Competidor #	0	IND47356GEN.bin	  fitness: 11.0
+Competidor #	1	IND47127GEN.bin	  fitness: 3.5
+Competidor #	2	IND47201GEN.bin	  fitness: 3.5
+Competidor #	3	IND47716GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	325
+Competidor #	0	IND47069GEN.bin	  fitness: 3.5
+Competidor #	1	IND47823GEN.bin	  fitness: 7.0
+Competidor #	2	IND47720GEN.bin	  fitness: 3.5
+Competidor #	3	IND47690GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	326
+Competidor #	0	IND47300GEN.bin	  fitness: 3.5
+Competidor #	1	IND47361GEN.bin	  fitness: 3.5
+Competidor #	2	IND47869GEN.bin	  fitness: 3.5
+Competidor #	3	IND47553GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	327
+Competidor #	0	IND47912GEN.bin	  fitness: 3.5
+Competidor #	1	IND46966GEN.bin	  fitness: 13.5
+Competidor #	2	IND47842GEN.bin	  fitness: 5.5
+Competidor #	3	IND47003GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	328
+Competidor #	0	IND47188GEN.bin	  fitness: 3.5
+Competidor #	1	IND47131GEN.bin	  fitness: 11.5
+Competidor #	2	IND47443GEN.bin	  fitness: 3.5
+Competidor #	3	IND47352GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	329
+Competidor #	0	IND47756GEN.bin	  fitness: 3.5
+Competidor #	1	IND47505GEN.bin	  fitness: 3.5
+Competidor #	2	IND47711GEN.bin	  fitness: 3.5
+Competidor #	3	IND47725GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	330
+Competidor #	0	IND47224GEN.bin	  fitness: 5.5
+Competidor #	1	IND47068GEN.bin	  fitness: 3.5
+Competidor #	2	IND47422GEN.bin	  fitness: 3.5
+Competidor #	3	IND47790GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	331
+Competidor #	0	IND47544GEN.bin	  fitness: 6.5
+Competidor #	1	IND47165GEN.bin	  fitness: 3.5
+Competidor #	2	IND47121GEN.bin	  fitness: 3.5
+Competidor #	3	IND47203GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	332
+Competidor #	0	IND47399GEN.bin	  fitness: 3.5
+Competidor #	1	IND47342GEN.bin	  fitness: 3.5
+Competidor #	2	IND47157GEN.bin	  fitness: 3.5
+Competidor #	3	IND47365GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	333
+Competidor #	0	IND47680GEN.bin	  fitness: 13.0
+Competidor #	1	IND47547GEN.bin	  fitness: 3.5
+Competidor #	2	IND47455GEN.bin	  fitness: 3.5
+Competidor #	3	IND47071GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	334
+Competidor #	0	IND47891GEN.bin	  fitness: 3.5
+Competidor #	1	IND47123GEN.bin	  fitness: 3.5
+Competidor #	2	IND47012GEN.bin	  fitness: 3.5
+Competidor #	3	IND47901GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	335
+Competidor #	0	IND47462GEN.bin	  fitness: 3.5
+Competidor #	1	IND47871GEN.bin	  fitness: 3.5
+Competidor #	2	IND47831GEN.bin	  fitness: 3.5
+Competidor #	3	IND47595GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	336
+Competidor #	0	IND47483GEN.bin	  fitness: 3.5
+Competidor #	1	IND47097GEN.bin	  fitness: 3.5
+Competidor #	2	IND47224GEN.bin	  fitness: 5.5
+Competidor #	3	IND47857GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	337
+Competidor #	0	IND47922GEN.bin	  fitness: 3.5
+Competidor #	1	IND47056GEN.bin	  fitness: 3.5
+Competidor #	2	IND47139GEN.bin	  fitness: 3.5
+Competidor #	3	IND47276GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	338
+Competidor #	0	IND47679GEN.bin	  fitness: 3.5
+Competidor #	1	IND46999GEN.bin	  fitness: 3.5
+Competidor #	2	IND47294GEN.bin	  fitness: 3.5
+Competidor #	3	IND47174GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	339
+Competidor #	0	IND46983GEN.bin	  fitness: 3.5
+Competidor #	1	IND47391GEN.bin	  fitness: 3.5
+Competidor #	2	IND47251GEN.bin	  fitness: 3.5
+Competidor #	3	IND47796GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	340
+Competidor #	0	IND47819GEN.bin	  fitness: 3.5
+Competidor #	1	IND47461GEN.bin	  fitness: 3.5
+Competidor #	2	IND47557GEN.bin	  fitness: 3.5
+Competidor #	3	IND47147GEN.bin	  fitness: 7.5
+Ganador :	0
+
+Torneo número:	341
+Competidor #	0	IND47194GEN.bin	  fitness: 3.5
+Competidor #	1	IND47701GEN.bin	  fitness: 3.5
+Competidor #	2	IND47687GEN.bin	  fitness: 3.5
+Competidor #	3	IND47741GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	342
+Competidor #	0	IND47531GEN.bin	  fitness: 3.5
+Competidor #	1	IND47104GEN.bin	  fitness: 9.5
+Competidor #	2	IND47415GEN.bin	  fitness: 3.5
+Competidor #	3	IND47043GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	343
+Competidor #	0	IND47191GEN.bin	  fitness: 3.5
+Competidor #	1	IND47238GEN.bin	  fitness: 3.5
+Competidor #	2	IND47148GEN.bin	  fitness: 3.5
+Competidor #	3	IND47148GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	344
+Competidor #	0	IND47474GEN.bin	  fitness: 3.5
+Competidor #	1	IND47006GEN.bin	  fitness: 3.5
+Competidor #	2	IND46975GEN.bin	  fitness: 3.5
+Competidor #	3	IND47273GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	345
+Competidor #	0	IND47538GEN.bin	  fitness: 3.5
+Competidor #	1	IND46976GEN.bin	  fitness: 3.5
+Competidor #	2	IND47655GEN.bin	  fitness: 3.5
+Competidor #	3	IND47458GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	346
+Competidor #	0	IND47571GEN.bin	  fitness: 6.5
+Competidor #	1	IND47137GEN.bin	  fitness: 3.5
+Competidor #	2	IND47308GEN.bin	  fitness: 3.5
+Competidor #	3	IND47781GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	347
+Competidor #	0	IND47432GEN.bin	  fitness: 3.5
+Competidor #	1	IND47345GEN.bin	  fitness: 3.5
+Competidor #	2	IND47093GEN.bin	  fitness: 3.5
+Competidor #	3	IND47442GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	348
+Competidor #	0	IND47747GEN.bin	  fitness: 3.5
+Competidor #	1	IND47615GEN.bin	  fitness: 3.5
+Competidor #	2	IND47032GEN.bin	  fitness: 12.5
+Competidor #	3	IND47445GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	349
+Competidor #	0	IND47485GEN.bin	  fitness: 3.5
+Competidor #	1	IND47385GEN.bin	  fitness: 10.5
+Competidor #	2	IND47512GEN.bin	  fitness: 3.5
+Competidor #	3	IND47583GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	350
+Competidor #	0	IND47784GEN.bin	  fitness: 3.5
+Competidor #	1	IND47179GEN.bin	  fitness: 3.5
+Competidor #	2	IND47782GEN.bin	  fitness: 10.5
+Competidor #	3	IND47176GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	351
+Competidor #	0	IND47062GEN.bin	  fitness: 8.5
+Competidor #	1	IND47459GEN.bin	  fitness: 3.5
+Competidor #	2	IND47662GEN.bin	  fitness: 3.5
+Competidor #	3	IND47869GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	352
+Competidor #	0	IND47483GEN.bin	  fitness: 3.5
+Competidor #	1	IND47073GEN.bin	  fitness: 3.5
+Competidor #	2	IND47168GEN.bin	  fitness: 3.5
+Competidor #	3	IND47808GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	353
+Competidor #	0	IND47150GEN.bin	  fitness: 3.5
+Competidor #	1	IND47678GEN.bin	  fitness: 3.5
+Competidor #	2	IND47702GEN.bin	  fitness: 8.5
+Competidor #	3	IND47205GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	354
+Competidor #	0	IND47542GEN.bin	  fitness: 3.5
+Competidor #	1	IND47787GEN.bin	  fitness: 9.0
+Competidor #	2	IND47943GEN.bin	  fitness: 3.5
+Competidor #	3	IND47063GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	355
+Competidor #	0	IND47703GEN.bin	  fitness: 3.5
+Competidor #	1	IND47455GEN.bin	  fitness: 3.5
+Competidor #	2	IND47734GEN.bin	  fitness: 3.5
+Competidor #	3	IND47672GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	356
+Competidor #	0	IND47665GEN.bin	  fitness: 9.5
+Competidor #	1	IND47383GEN.bin	  fitness: 7.5
+Competidor #	2	IND47652GEN.bin	  fitness: 3.5
+Competidor #	3	IND47567GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	357
+Competidor #	0	IND47853GEN.bin	  fitness: 3.5
+Competidor #	1	IND47457GEN.bin	  fitness: 3.5
+Competidor #	2	IND47645GEN.bin	  fitness: 3.5
+Competidor #	3	IND47487GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	358
+Competidor #	0	IND47590GEN.bin	  fitness: 10.5
+Competidor #	1	IND47402GEN.bin	  fitness: 3.5
+Competidor #	2	IND47173GEN.bin	  fitness: 3.5
+Competidor #	3	IND47795GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	359
+Competidor #	0	IND47761GEN.bin	  fitness: 3.5
+Competidor #	1	IND47345GEN.bin	  fitness: 3.5
+Competidor #	2	IND47007GEN.bin	  fitness: 3.5
+Competidor #	3	IND47319GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	360
+Competidor #	0	IND47105GEN.bin	  fitness: 3.5
+Competidor #	1	IND47787GEN.bin	  fitness: 9.0
+Competidor #	2	IND47595GEN.bin	  fitness: 3.5
+Competidor #	3	IND47498GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	361
+Competidor #	0	IND46974GEN.bin	  fitness: 3.5
+Competidor #	1	IND47632GEN.bin	  fitness: 3.5
+Competidor #	2	IND47363GEN.bin	  fitness: 3.5
+Competidor #	3	IND47889GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	362
+Competidor #	0	IND47324GEN.bin	  fitness: 3.5
+Competidor #	1	IND47454GEN.bin	  fitness: 3.5
+Competidor #	2	IND47216GEN.bin	  fitness: 3.5
+Competidor #	3	IND47852GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	363
+Competidor #	0	IND47164GEN.bin	  fitness: 3.5
+Competidor #	1	IND47319GEN.bin	  fitness: 3.5
+Competidor #	2	IND47071GEN.bin	  fitness: 3.5
+Competidor #	3	IND47769GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	364
+Competidor #	0	IND47004GEN.bin	  fitness: 3.5
+Competidor #	1	IND47728GEN.bin	  fitness: 3.5
+Competidor #	2	IND47410GEN.bin	  fitness: 3.5
+Competidor #	3	IND47489GEN.bin	  fitness: 10.5
+Ganador :	0
+
+Torneo número:	365
+Competidor #	0	IND47683GEN.bin	  fitness: 3.5
+Competidor #	1	IND47115GEN.bin	  fitness: 3.5
+Competidor #	2	IND47564GEN.bin	  fitness: 6.5
+Competidor #	3	IND47666GEN.bin	  fitness: 12.5
+Ganador :	0
+
+Torneo número:	366
+Competidor #	0	IND46980GEN.bin	  fitness: 3.5
+Competidor #	1	IND47150GEN.bin	  fitness: 3.5
+Competidor #	2	IND47902GEN.bin	  fitness: 3.5
+Competidor #	3	IND47737GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	367
+Competidor #	0	IND47015GEN.bin	  fitness: 3.5
+Competidor #	1	IND47603GEN.bin	  fitness: 8.0
+Competidor #	2	IND47368GEN.bin	  fitness: 3.5
+Competidor #	3	IND47718GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	368
+Competidor #	0	IND47777GEN.bin	  fitness: 3.5
+Competidor #	1	IND47321GEN.bin	  fitness: 3.5
+Competidor #	2	IND47792GEN.bin	  fitness: 3.5
+Competidor #	3	IND47428GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	369
+Competidor #	0	IND46958GEN.bin	  fitness: 3.5
+Competidor #	1	IND47452GEN.bin	  fitness: 3.5
+Competidor #	2	IND47520GEN.bin	  fitness: 3.5
+Competidor #	3	IND47831GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	370
+Competidor #	0	IND47885GEN.bin	  fitness: 3.5
+Competidor #	1	IND47544GEN.bin	  fitness: 6.5
+Competidor #	2	IND47046GEN.bin	  fitness: 3.5
+Competidor #	3	IND47166GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	371
+Competidor #	0	IND47490GEN.bin	  fitness: 3.5
+Competidor #	1	IND47371GEN.bin	  fitness: 8.5
+Competidor #	2	IND47516GEN.bin	  fitness: 3.5
+Competidor #	3	IND47322GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	372
+Competidor #	0	IND47277GEN.bin	  fitness: 3.5
+Competidor #	1	IND47647GEN.bin	  fitness: 3.5
+Competidor #	2	IND47763GEN.bin	  fitness: 3.5
+Competidor #	3	IND47740GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	373
+Competidor #	0	IND47438GEN.bin	  fitness: 12.5
+Competidor #	1	IND47479GEN.bin	  fitness: 3.5
+Competidor #	2	IND47179GEN.bin	  fitness: 3.5
+Competidor #	3	IND47833GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	374
+Competidor #	0	IND47708GEN.bin	  fitness: 3.5
+Competidor #	1	IND47327GEN.bin	  fitness: 3.5
+Competidor #	2	IND47721GEN.bin	  fitness: 7.5
+Competidor #	3	IND47398GEN.bin	  fitness: 10.5
+Ganador :	0
+
+Torneo número:	375
+Competidor #	0	IND47769GEN.bin	  fitness: 3.5
+Competidor #	1	IND47608GEN.bin	  fitness: 3.5
+Competidor #	2	IND47922GEN.bin	  fitness: 3.5
+Competidor #	3	IND47605GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	376
+Competidor #	0	IND47333GEN.bin	  fitness: 3.5
+Competidor #	1	IND47074GEN.bin	  fitness: 3.5
+Competidor #	2	IND47248GEN.bin	  fitness: 3.5
+Competidor #	3	IND46991GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	377
+Competidor #	0	IND47016GEN.bin	  fitness: 3.5
+Competidor #	1	IND47884GEN.bin	  fitness: 3.5
+Competidor #	2	IND47385GEN.bin	  fitness: 10.5
+Competidor #	3	IND47152GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	378
+Competidor #	0	IND47352GEN.bin	  fitness: 9.5
+Competidor #	1	IND47015GEN.bin	  fitness: 3.5
+Competidor #	2	IND47532GEN.bin	  fitness: 3.5
+Competidor #	3	IND47105GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	379
+Competidor #	0	IND47088GEN.bin	  fitness: 3.5
+Competidor #	1	IND47640GEN.bin	  fitness: 3.5
+Competidor #	2	IND47333GEN.bin	  fitness: 3.5
+Competidor #	3	IND46990GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	380
+Competidor #	0	IND47059GEN.bin	  fitness: 3.5
+Competidor #	1	IND47629GEN.bin	  fitness: 3.5
+Competidor #	2	IND47294GEN.bin	  fitness: 3.5
+Competidor #	3	IND47374GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	381
+Competidor #	0	IND47183GEN.bin	  fitness: 3.5
+Competidor #	1	IND47760GEN.bin	  fitness: 3.5
+Competidor #	2	IND47195GEN.bin	  fitness: 3.5
+Competidor #	3	IND46989GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	382
+Competidor #	0	IND47939GEN.bin	  fitness: 3.5
+Competidor #	1	IND47788GEN.bin	  fitness: 3.5
+Competidor #	2	IND47576GEN.bin	  fitness: 3.5
+Competidor #	3	IND47211GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	383
+Competidor #	0	IND47950GEN.bin	  fitness: 3.5
+Competidor #	1	IND47551GEN.bin	  fitness: 3.5
+Competidor #	2	IND47813GEN.bin	  fitness: 3.5
+Competidor #	3	IND47094GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	384
+Competidor #	0	IND47686GEN.bin	  fitness: 3.5
+Competidor #	1	IND47762GEN.bin	  fitness: 3.5
+Competidor #	2	IND47265GEN.bin	  fitness: 3.5
+Competidor #	3	IND47533GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	385
+Competidor #	0	IND47141GEN.bin	  fitness: 10.5
+Competidor #	1	IND47707GEN.bin	  fitness: 3.5
+Competidor #	2	IND47144GEN.bin	  fitness: 3.5
+Competidor #	3	IND47501GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	386
+Competidor #	0	IND47925GEN.bin	  fitness: 10.5
+Competidor #	1	IND47934GEN.bin	  fitness: 7.5
+Competidor #	2	IND47504GEN.bin	  fitness: 3.5
+Competidor #	3	IND47164GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	387
+Competidor #	0	IND47170GEN.bin	  fitness: 3.5
+Competidor #	1	IND47592GEN.bin	  fitness: 6.0
+Competidor #	2	IND47464GEN.bin	  fitness: 3.5
+Competidor #	3	IND47602GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	388
+Competidor #	0	IND47642GEN.bin	  fitness: 3.5
+Competidor #	1	IND47806GEN.bin	  fitness: 3.5
+Competidor #	2	IND47005GEN.bin	  fitness: 3.5
+Competidor #	3	IND47896GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	389
+Competidor #	0	IND47194GEN.bin	  fitness: 3.5
+Competidor #	1	IND47511GEN.bin	  fitness: 4.5
+Competidor #	2	IND47695GEN.bin	  fitness: 3.5
+Competidor #	3	IND47733GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	390
+Competidor #	0	IND47345GEN.bin	  fitness: 3.5
+Competidor #	1	IND47082GEN.bin	  fitness: 3.5
+Competidor #	2	IND47116GEN.bin	  fitness: 3.5
+Competidor #	3	IND47616GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	391
+Competidor #	0	IND47885GEN.bin	  fitness: 3.5
+Competidor #	1	IND47504GEN.bin	  fitness: 3.5
+Competidor #	2	IND47898GEN.bin	  fitness: 3.5
+Competidor #	3	IND47201GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	392
+Competidor #	0	IND47483GEN.bin	  fitness: 3.5
+Competidor #	1	IND47279GEN.bin	  fitness: 3.5
+Competidor #	2	IND47684GEN.bin	  fitness: 3.5
+Competidor #	3	IND47837GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	393
+Competidor #	0	IND47280GEN.bin	  fitness: 3.5
+Competidor #	1	IND47258GEN.bin	  fitness: 3.5
+Competidor #	2	IND46999GEN.bin	  fitness: 3.5
+Competidor #	3	IND47337GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	394
+Competidor #	0	IND47216GEN.bin	  fitness: 3.5
+Competidor #	1	IND47198GEN.bin	  fitness: 3.5
+Competidor #	2	IND47144GEN.bin	  fitness: 3.5
+Competidor #	3	IND47874GEN.bin	  fitness: 4.5
+Ganador :	0
+
+Torneo número:	395
+Competidor #	0	IND47690GEN.bin	  fitness: 3.5
+Competidor #	1	IND47199GEN.bin	  fitness: 4.5
+Competidor #	2	IND47245GEN.bin	  fitness: 3.5
+Competidor #	3	IND47825GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	396
+Competidor #	0	IND47067GEN.bin	  fitness: 8.5
+Competidor #	1	IND47173GEN.bin	  fitness: 3.5
+Competidor #	2	IND47072GEN.bin	  fitness: 3.5
+Competidor #	3	IND47725GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	397
+Competidor #	0	IND47732GEN.bin	  fitness: 3.5
+Competidor #	1	IND46977GEN.bin	  fitness: 3.5
+Competidor #	2	IND47187GEN.bin	  fitness: 3.5
+Competidor #	3	IND47106GEN.bin	  fitness: 7.5
+Ganador :	0
+
+Torneo número:	398
+Competidor #	0	IND47346GEN.bin	  fitness: 3.5
+Competidor #	1	IND47386GEN.bin	  fitness: 3.5
+Competidor #	2	IND47422GEN.bin	  fitness: 3.5
+Competidor #	3	IND47637GEN.bin	  fitness: 7.5
+Ganador :	0
+
+Torneo número:	399
+Competidor #	0	IND47199GEN.bin	  fitness: 4.5
+Competidor #	1	IND47420GEN.bin	  fitness: 3.5
+Competidor #	2	IND47153GEN.bin	  fitness: 3.5
+Competidor #	3	IND47201GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	400
+Competidor #	0	IND47657GEN.bin	  fitness: 3.5
+Competidor #	1	IND47324GEN.bin	  fitness: 3.5
+Competidor #	2	IND47161GEN.bin	  fitness: 3.5
+Competidor #	3	IND47295GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	401
+Competidor #	0	IND47643GEN.bin	  fitness: 3.5
+Competidor #	1	IND47348GEN.bin	  fitness: 10.0
+Competidor #	2	IND47470GEN.bin	  fitness: 3.5
+Competidor #	3	IND47115GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	402
+Competidor #	0	IND47507GEN.bin	  fitness: 3.5
+Competidor #	1	IND47207GEN.bin	  fitness: 3.5
+Competidor #	2	IND47180GEN.bin	  fitness: 7.5
+Competidor #	3	IND47398GEN.bin	  fitness: 10.5
+Ganador :	0
+
+Torneo número:	403
+Competidor #	0	IND47220GEN.bin	  fitness: 3.5
+Competidor #	1	IND47114GEN.bin	  fitness: 3.5
+Competidor #	2	IND47675GEN.bin	  fitness: 8.5
+Competidor #	3	IND47815GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	404
+Competidor #	0	IND47658GEN.bin	  fitness: 3.5
+Competidor #	1	IND46974GEN.bin	  fitness: 3.5
+Competidor #	2	IND47722GEN.bin	  fitness: 3.5
+Competidor #	3	IND47002GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	405
+Competidor #	0	IND47540GEN.bin	  fitness: 3.5
+Competidor #	1	IND47735GEN.bin	  fitness: 3.5
+Competidor #	2	IND47332GEN.bin	  fitness: 3.5
+Competidor #	3	IND47299GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	406
+Competidor #	0	IND47488GEN.bin	  fitness: 3.5
+Competidor #	1	IND47905GEN.bin	  fitness: 3.5
+Competidor #	2	IND47282GEN.bin	  fitness: 3.5
+Competidor #	3	IND47417GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	407
+Competidor #	0	IND47397GEN.bin	  fitness: 3.5
+Competidor #	1	IND47238GEN.bin	  fitness: 3.5
+Competidor #	2	IND47417GEN.bin	  fitness: 3.5
+Competidor #	3	IND47163GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	408
+Competidor #	0	IND47924GEN.bin	  fitness: 3.5
+Competidor #	1	IND47845GEN.bin	  fitness: 9.5
+Competidor #	2	IND47732GEN.bin	  fitness: 3.5
+Competidor #	3	IND47734GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	409
+Competidor #	0	IND47147GEN.bin	  fitness: 7.5
+Competidor #	1	IND47565GEN.bin	  fitness: 3.5
+Competidor #	2	IND47527GEN.bin	  fitness: 3.5
+Competidor #	3	IND47196GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	410
+Competidor #	0	IND47903GEN.bin	  fitness: 9.5
+Competidor #	1	IND47510GEN.bin	  fitness: 3.5
+Competidor #	2	IND47831GEN.bin	  fitness: 3.5
+Competidor #	3	IND47183GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	411
+Competidor #	0	IND47327GEN.bin	  fitness: 3.5
+Competidor #	1	IND47674GEN.bin	  fitness: 3.5
+Competidor #	2	IND47422GEN.bin	  fitness: 3.5
+Competidor #	3	IND47592GEN.bin	  fitness: 6.0
+Ganador :	0
+
+Torneo número:	412
+Competidor #	0	IND47818GEN.bin	  fitness: 3.5
+Competidor #	1	IND47449GEN.bin	  fitness: 3.5
+Competidor #	2	IND47103GEN.bin	  fitness: 3.5
+Competidor #	3	IND47109GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	413
+Competidor #	0	IND47346GEN.bin	  fitness: 3.5
+Competidor #	1	IND47717GEN.bin	  fitness: 4.5
+Competidor #	2	IND47702GEN.bin	  fitness: 8.5
+Competidor #	3	IND47709GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	414
+Competidor #	0	IND47775GEN.bin	  fitness: 10.5
+Competidor #	1	IND47091GEN.bin	  fitness: 3.5
+Competidor #	2	IND47236GEN.bin	  fitness: 3.5
+Competidor #	3	IND47137GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	415
+Competidor #	0	IND47400GEN.bin	  fitness: 3.5
+Competidor #	1	IND47103GEN.bin	  fitness: 3.5
+Competidor #	2	IND47115GEN.bin	  fitness: 3.5
+Competidor #	3	IND46989GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	416
+Competidor #	0	IND47722GEN.bin	  fitness: 3.5
+Competidor #	1	IND47625GEN.bin	  fitness: 10.0
+Competidor #	2	IND47371GEN.bin	  fitness: 8.5
+Competidor #	3	IND47117GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	417
+Competidor #	0	IND47130GEN.bin	  fitness: 3.5
+Competidor #	1	IND47720GEN.bin	  fitness: 3.5
+Competidor #	2	IND47281GEN.bin	  fitness: 3.5
+Competidor #	3	IND47350GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	418
+Competidor #	0	IND47890GEN.bin	  fitness: 3.5
+Competidor #	1	IND47625GEN.bin	  fitness: 10.0
+Competidor #	2	IND47011GEN.bin	  fitness: 3.5
+Competidor #	3	IND47004GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	419
+Competidor #	0	IND47410GEN.bin	  fitness: 3.5
+Competidor #	1	IND47950GEN.bin	  fitness: 3.5
+Competidor #	2	IND47142GEN.bin	  fitness: 3.5
+Competidor #	3	IND47717GEN.bin	  fitness: 4.5
+Ganador :	0
+
+Torneo número:	420
+Competidor #	0	IND47362GEN.bin	  fitness: 3.5
+Competidor #	1	IND47930GEN.bin	  fitness: 3.5
+Competidor #	2	IND47457GEN.bin	  fitness: 3.5
+Competidor #	3	IND47413GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	421
+Competidor #	0	IND47711GEN.bin	  fitness: 3.5
+Competidor #	1	IND47317GEN.bin	  fitness: 3.5
+Competidor #	2	IND47211GEN.bin	  fitness: 3.5
+Competidor #	3	IND47453GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	422
+Competidor #	0	IND47330GEN.bin	  fitness: 3.5
+Competidor #	1	IND47717GEN.bin	  fitness: 4.5
+Competidor #	2	IND47327GEN.bin	  fitness: 3.5
+Competidor #	3	IND47068GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	423
+Competidor #	0	IND47855GEN.bin	  fitness: 3.5
+Competidor #	1	IND47384GEN.bin	  fitness: 9.5
+Competidor #	2	IND47307GEN.bin	  fitness: 7.5
+Competidor #	3	IND47131GEN.bin	  fitness: 11.5
+Ganador :	0
+
+Torneo número:	424
+Competidor #	0	IND47135GEN.bin	  fitness: 3.5
+Competidor #	1	IND47142GEN.bin	  fitness: 3.5
+Competidor #	2	IND47684GEN.bin	  fitness: 3.5
+Competidor #	3	IND46995GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	425
+Competidor #	0	IND47564GEN.bin	  fitness: 6.5
+Competidor #	1	IND47864GEN.bin	  fitness: 3.5
+Competidor #	2	IND47310GEN.bin	  fitness: 3.5
+Competidor #	3	IND47391GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	426
+Competidor #	0	IND47391GEN.bin	  fitness: 3.5
+Competidor #	1	IND47442GEN.bin	  fitness: 5.5
+Competidor #	2	IND47241GEN.bin	  fitness: 3.5
+Competidor #	3	IND47313GEN.bin	  fitness: 11.5
+Ganador :	0
+
+Torneo número:	427
+Competidor #	0	IND47471GEN.bin	  fitness: 3.5
+Competidor #	1	IND47156GEN.bin	  fitness: 3.5
+Competidor #	2	IND47397GEN.bin	  fitness: 3.5
+Competidor #	3	IND47722GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	428
+Competidor #	0	IND47056GEN.bin	  fitness: 3.5
+Competidor #	1	IND47176GEN.bin	  fitness: 3.5
+Competidor #	2	IND47146GEN.bin	  fitness: 3.5
+Competidor #	3	IND47917GEN.bin	  fitness: 7.5
+Ganador :	0
+
+Torneo número:	429
+Competidor #	0	IND47207GEN.bin	  fitness: 3.5
+Competidor #	1	IND46974GEN.bin	  fitness: 3.5
+Competidor #	2	IND47874GEN.bin	  fitness: 4.5
+Competidor #	3	IND47859GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	430
+Competidor #	0	IND47357GEN.bin	  fitness: 10.0
+Competidor #	1	IND47890GEN.bin	  fitness: 3.5
+Competidor #	2	IND47757GEN.bin	  fitness: 3.5
+Competidor #	3	IND47222GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	431
+Competidor #	0	IND47695GEN.bin	  fitness: 3.5
+Competidor #	1	IND47629GEN.bin	  fitness: 3.5
+Competidor #	2	IND47598GEN.bin	  fitness: 3.5
+Competidor #	3	IND47546GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	432
+Competidor #	0	IND47514GEN.bin	  fitness: 10.5
+Competidor #	1	IND47228GEN.bin	  fitness: 3.5
+Competidor #	2	IND47120GEN.bin	  fitness: 3.5
+Competidor #	3	IND47208GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	433
+Competidor #	0	IND47380GEN.bin	  fitness: 3.5
+Competidor #	1	IND47354GEN.bin	  fitness: 4.5
+Competidor #	2	IND47229GEN.bin	  fitness: 3.5
+Competidor #	3	IND47079GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	434
+Competidor #	0	IND47179GEN.bin	  fitness: 3.5
+Competidor #	1	IND47239GEN.bin	  fitness: 3.5
+Competidor #	2	IND47871GEN.bin	  fitness: 3.5
+Competidor #	3	IND47340GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	435
+Competidor #	0	IND47446GEN.bin	  fitness: 10.5
+Competidor #	1	IND47136GEN.bin	  fitness: 3.5
+Competidor #	2	IND47569GEN.bin	  fitness: 3.5
+Competidor #	3	IND47608GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	436
+Competidor #	0	IND47815GEN.bin	  fitness: 3.5
+Competidor #	1	IND47890GEN.bin	  fitness: 3.5
+Competidor #	2	IND47765GEN.bin	  fitness: 3.5
+Competidor #	3	IND47589GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	437
+Competidor #	0	IND47463GEN.bin	  fitness: 3.5
+Competidor #	1	IND47203GEN.bin	  fitness: 3.5
+Competidor #	2	IND47555GEN.bin	  fitness: 3.5
+Competidor #	3	IND47013GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	438
+Competidor #	0	IND47099GEN.bin	  fitness: 3.5
+Competidor #	1	IND47459GEN.bin	  fitness: 3.5
+Competidor #	2	IND47128GEN.bin	  fitness: 3.5
+Competidor #	3	IND47469GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	439
+Competidor #	0	IND47576GEN.bin	  fitness: 3.5
+Competidor #	1	IND47759GEN.bin	  fitness: 3.5
+Competidor #	2	IND47511GEN.bin	  fitness: 4.5
+Competidor #	3	IND47154GEN.bin	  fitness: 9.5
+Ganador :	0
+
+Torneo número:	440
+Competidor #	0	IND47945GEN.bin	  fitness: 3.5
+Competidor #	1	IND47244GEN.bin	  fitness: 5.5
+Competidor #	2	IND47692GEN.bin	  fitness: 3.5
+Competidor #	3	IND47168GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	441
+Competidor #	0	IND47308GEN.bin	  fitness: 3.5
+Competidor #	1	IND47749GEN.bin	  fitness: 3.5
+Competidor #	2	IND47917GEN.bin	  fitness: 7.5
+Competidor #	3	IND47463GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	442
+Competidor #	0	IND47947GEN.bin	  fitness: 3.5
+Competidor #	1	IND47937GEN.bin	  fitness: 3.5
+Competidor #	2	IND47915GEN.bin	  fitness: 3.5
+Competidor #	3	IND47241GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	443
+Competidor #	0	IND47779GEN.bin	  fitness: 3.5
+Competidor #	1	IND47589GEN.bin	  fitness: 3.5
+Competidor #	2	IND46971GEN.bin	  fitness: 3.5
+Competidor #	3	IND47371GEN.bin	  fitness: 8.5
+Ganador :	0
+
+Torneo número:	444
+Competidor #	0	IND47637GEN.bin	  fitness: 7.5
+Competidor #	1	IND47656GEN.bin	  fitness: 3.5
+Competidor #	2	IND47797GEN.bin	  fitness: 3.5
+Competidor #	3	IND47776GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	445
+Competidor #	0	IND47617GEN.bin	  fitness: 3.5
+Competidor #	1	IND47439GEN.bin	  fitness: 3.5
+Competidor #	2	IND46978GEN.bin	  fitness: 3.5
+Competidor #	3	IND47136GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	446
+Competidor #	0	IND47374GEN.bin	  fitness: 3.5
+Competidor #	1	IND47830GEN.bin	  fitness: 3.5
+Competidor #	2	IND47700GEN.bin	  fitness: 3.5
+Competidor #	3	IND47895GEN.bin	  fitness: 11.0
+Ganador :	0
+
+Torneo número:	447
+Competidor #	0	IND47338GEN.bin	  fitness: 8.0
+Competidor #	1	IND46964GEN.bin	  fitness: 3.5
+Competidor #	2	IND47587GEN.bin	  fitness: 6.5
+Competidor #	3	IND47227GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	448
+Competidor #	0	IND47396GEN.bin	  fitness: 3.5
+Competidor #	1	IND47935GEN.bin	  fitness: 3.5
+Competidor #	2	IND47409GEN.bin	  fitness: 3.5
+Competidor #	3	IND47708GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	449
+Competidor #	0	IND47952GEN.bin	  fitness: 8.5
+Competidor #	1	IND47099GEN.bin	  fitness: 3.5
+Competidor #	2	IND47726GEN.bin	  fitness: 3.5
+Competidor #	3	IND47188GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	450
+Competidor #	0	IND47382GEN.bin	  fitness: 8.5
+Competidor #	1	IND47138GEN.bin	  fitness: 3.5
+Competidor #	2	IND47344GEN.bin	  fitness: 3.5
+Competidor #	3	IND47102GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	451
+Competidor #	0	IND47608GEN.bin	  fitness: 3.5
+Competidor #	1	IND47674GEN.bin	  fitness: 3.5
+Competidor #	2	IND47411GEN.bin	  fitness: 7.5
+Competidor #	3	IND47350GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	452
+Competidor #	0	IND47023GEN.bin	  fitness: 3.5
+Competidor #	1	IND47644GEN.bin	  fitness: 3.5
+Competidor #	2	IND47123GEN.bin	  fitness: 3.5
+Competidor #	3	IND47576GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	453
+Competidor #	0	IND47307GEN.bin	  fitness: 7.5
+Competidor #	1	IND47302GEN.bin	  fitness: 8.5
+Competidor #	2	IND47923GEN.bin	  fitness: 3.5
+Competidor #	3	IND47748GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	454
+Competidor #	0	IND47679GEN.bin	  fitness: 3.5
+Competidor #	1	IND47147GEN.bin	  fitness: 7.5
+Competidor #	2	IND47393GEN.bin	  fitness: 3.5
+Competidor #	3	IND47229GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	455
+Competidor #	0	IND47414GEN.bin	  fitness: 3.5
+Competidor #	1	IND47694GEN.bin	  fitness: 3.5
+Competidor #	2	IND47639GEN.bin	  fitness: 3.5
+Competidor #	3	IND47238GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	456
+Competidor #	0	IND47638GEN.bin	  fitness: 3.5
+Competidor #	1	IND47899GEN.bin	  fitness: 3.5
+Competidor #	2	IND47857GEN.bin	  fitness: 3.5
+Competidor #	3	IND47777GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	457
+Competidor #	0	IND47661GEN.bin	  fitness: 3.5
+Competidor #	1	IND47875GEN.bin	  fitness: 3.5
+Competidor #	2	IND47041GEN.bin	  fitness: 3.5
+Competidor #	3	IND47661GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	458
+Competidor #	0	IND47674GEN.bin	  fitness: 3.5
+Competidor #	1	IND47169GEN.bin	  fitness: 3.5
+Competidor #	2	IND47805GEN.bin	  fitness: 13.0
+Competidor #	3	IND47039GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	459
+Competidor #	0	IND47507GEN.bin	  fitness: 3.5
+Competidor #	1	IND47810GEN.bin	  fitness: 3.5
+Competidor #	2	IND47398GEN.bin	  fitness: 10.5
+Competidor #	3	IND47030GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	460
+Competidor #	0	IND47717GEN.bin	  fitness: 4.5
+Competidor #	1	IND47687GEN.bin	  fitness: 3.5
+Competidor #	2	IND46966GEN.bin	  fitness: 13.5
+Competidor #	3	IND47494GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	461
+Competidor #	0	IND47943GEN.bin	  fitness: 3.5
+Competidor #	1	IND47230GEN.bin	  fitness: 3.5
+Competidor #	2	IND47111GEN.bin	  fitness: 6.5
+Competidor #	3	IND47196GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	462
+Competidor #	0	IND47383GEN.bin	  fitness: 7.5
+Competidor #	1	IND47841GEN.bin	  fitness: 10.5
+Competidor #	2	IND47289GEN.bin	  fitness: 3.5
+Competidor #	3	IND47884GEN.bin	  fitness: 3.5
+Ganador :	2
+
+Torneo número:	463
+Competidor #	0	IND47189GEN.bin	  fitness: 3.5
+Competidor #	1	IND47375GEN.bin	  fitness: 3.5
+Competidor #	2	IND47193GEN.bin	  fitness: 3.5
+Competidor #	3	IND47938GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	464
+Competidor #	0	IND47433GEN.bin	  fitness: 3.5
+Competidor #	1	IND47110GEN.bin	  fitness: 3.5
+Competidor #	2	IND47459GEN.bin	  fitness: 3.5
+Competidor #	3	IND47709GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	465
+Competidor #	0	IND47231GEN.bin	  fitness: 3.5
+Competidor #	1	IND47261GEN.bin	  fitness: 3.5
+Competidor #	2	IND47439GEN.bin	  fitness: 3.5
+Competidor #	3	IND47479GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	466
+Competidor #	0	IND47217GEN.bin	  fitness: 3.5
+Competidor #	1	IND47432GEN.bin	  fitness: 3.5
+Competidor #	2	IND47549GEN.bin	  fitness: 3.5
+Competidor #	3	IND47218GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	467
+Competidor #	0	IND47258GEN.bin	  fitness: 3.5
+Competidor #	1	IND47692GEN.bin	  fitness: 3.5
+Competidor #	2	IND47687GEN.bin	  fitness: 3.5
+Competidor #	3	IND47308GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	468
+Competidor #	0	IND47730GEN.bin	  fitness: 3.5
+Competidor #	1	IND47885GEN.bin	  fitness: 3.5
+Competidor #	2	IND47638GEN.bin	  fitness: 3.5
+Competidor #	3	IND47407GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	469
+Competidor #	0	IND47330GEN.bin	  fitness: 3.5
+Competidor #	1	IND47198GEN.bin	  fitness: 3.5
+Competidor #	2	IND47625GEN.bin	  fitness: 10.0
+Competidor #	3	IND47005GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	470
+Competidor #	0	IND47209GEN.bin	  fitness: 3.5
+Competidor #	1	IND47426GEN.bin	  fitness: 3.5
+Competidor #	2	IND47074GEN.bin	  fitness: 3.5
+Competidor #	3	IND47058GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	471
+Competidor #	0	IND47124GEN.bin	  fitness: 3.5
+Competidor #	1	IND47217GEN.bin	  fitness: 3.5
+Competidor #	2	IND47534GEN.bin	  fitness: 3.5
+Competidor #	3	IND47280GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	472
+Competidor #	0	IND47753GEN.bin	  fitness: 3.5
+Competidor #	1	IND47131GEN.bin	  fitness: 11.5
+Competidor #	2	IND47088GEN.bin	  fitness: 3.5
+Competidor #	3	IND47515GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	473
+Competidor #	0	IND47662GEN.bin	  fitness: 3.5
+Competidor #	1	IND47382GEN.bin	  fitness: 8.5
+Competidor #	2	IND47373GEN.bin	  fitness: 3.5
+Competidor #	3	IND47475GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	474
+Competidor #	0	IND47719GEN.bin	  fitness: 3.5
+Competidor #	1	IND47596GEN.bin	  fitness: 3.5
+Competidor #	2	IND47496GEN.bin	  fitness: 3.5
+Competidor #	3	IND47844GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	475
+Competidor #	0	IND47603GEN.bin	  fitness: 8.0
+Competidor #	1	IND46994GEN.bin	  fitness: 8.5
+Competidor #	2	IND47178GEN.bin	  fitness: 3.5
+Competidor #	3	IND47951GEN.bin	  fitness: 8.5
+Ganador :	2
+
+Torneo número:	476
+Competidor #	0	IND47230GEN.bin	  fitness: 3.5
+Competidor #	1	IND47414GEN.bin	  fitness: 3.5
+Competidor #	2	IND47920GEN.bin	  fitness: 3.5
+Competidor #	3	IND47494GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	477
+Competidor #	0	IND47539GEN.bin	  fitness: 7.0
+Competidor #	1	IND47048GEN.bin	  fitness: 3.5
+Competidor #	2	IND47048GEN.bin	  fitness: 3.5
+Competidor #	3	IND47837GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	478
+Competidor #	0	IND47158GEN.bin	  fitness: 8.5
+Competidor #	1	IND47926GEN.bin	  fitness: 3.5
+Competidor #	2	IND47911GEN.bin	  fitness: 3.5
+Competidor #	3	IND47306GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	479
+Competidor #	0	IND47487GEN.bin	  fitness: 3.5
+Competidor #	1	IND47851GEN.bin	  fitness: 8.0
+Competidor #	2	IND47086GEN.bin	  fitness: 3.5
+Competidor #	3	IND47605GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	480
+Competidor #	0	IND47707GEN.bin	  fitness: 3.5
+Competidor #	1	IND47860GEN.bin	  fitness: 3.5
+Competidor #	2	IND47358GEN.bin	  fitness: 3.5
+Competidor #	3	IND47640GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	481
+Competidor #	0	IND47001GEN.bin	  fitness: 3.5
+Competidor #	1	IND47758GEN.bin	  fitness: 3.5
+Competidor #	2	IND47532GEN.bin	  fitness: 3.5
+Competidor #	3	IND47591GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	482
+Competidor #	0	IND47621GEN.bin	  fitness: 3.5
+Competidor #	1	IND47023GEN.bin	  fitness: 3.5
+Competidor #	2	IND47364GEN.bin	  fitness: 3.5
+Competidor #	3	IND47213GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	483
+Competidor #	0	IND47916GEN.bin	  fitness: 3.5
+Competidor #	1	IND46989GEN.bin	  fitness: 5.5
+Competidor #	2	IND47070GEN.bin	  fitness: 3.5
+Competidor #	3	IND47103GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	484
+Competidor #	0	IND47416GEN.bin	  fitness: 3.5
+Competidor #	1	IND47567GEN.bin	  fitness: 3.5
+Competidor #	2	IND47686GEN.bin	  fitness: 3.5
+Competidor #	3	IND47501GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	485
+Competidor #	0	IND47233GEN.bin	  fitness: 11.5
+Competidor #	1	IND47581GEN.bin	  fitness: 3.5
+Competidor #	2	IND47521GEN.bin	  fitness: 8.5
+Competidor #	3	IND47424GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	486
+Competidor #	0	IND47446GEN.bin	  fitness: 10.5
+Competidor #	1	IND47391GEN.bin	  fitness: 3.5
+Competidor #	2	IND47781GEN.bin	  fitness: 3.5
+Competidor #	3	IND47034GEN.bin	  fitness: 3.5
+Ganador :	1
+
+Torneo número:	487
+Competidor #	0	IND47608GEN.bin	  fitness: 3.5
+Competidor #	1	IND47161GEN.bin	  fitness: 3.5
+Competidor #	2	IND47777GEN.bin	  fitness: 3.5
+Competidor #	3	IND47625GEN.bin	  fitness: 10.0
+Ganador :	0
+
+Torneo número:	488
+Competidor #	0	IND47652GEN.bin	  fitness: 3.5
+Competidor #	1	IND47338GEN.bin	  fitness: 8.0
+Competidor #	2	IND47326GEN.bin	  fitness: 3.5
+Competidor #	3	IND47612GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	489
+Competidor #	0	IND47267GEN.bin	  fitness: 3.5
+Competidor #	1	IND46960GEN.bin	  fitness: 5.5
+Competidor #	2	IND47321GEN.bin	  fitness: 3.5
+Competidor #	3	IND47244GEN.bin	  fitness: 5.5
+Ganador :	0
+
+Torneo número:	490
+Competidor #	0	IND47477GEN.bin	  fitness: 3.5
+Competidor #	1	IND47750GEN.bin	  fitness: 3.5
+Competidor #	2	IND47918GEN.bin	  fitness: 3.5
+Competidor #	3	IND47866GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	491
+Competidor #	0	IND47885GEN.bin	  fitness: 3.5
+Competidor #	1	IND47392GEN.bin	  fitness: 3.5
+Competidor #	2	IND47566GEN.bin	  fitness: 3.5
+Competidor #	3	IND47498GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	492
+Competidor #	0	IND46965GEN.bin	  fitness: 3.5
+Competidor #	1	IND47751GEN.bin	  fitness: 4.5
+Competidor #	2	IND47497GEN.bin	  fitness: 3.5
+Competidor #	3	IND47907GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	493
+Competidor #	0	IND47053GEN.bin	  fitness: 3.5
+Competidor #	1	IND47826GEN.bin	  fitness: 3.5
+Competidor #	2	IND47777GEN.bin	  fitness: 3.5
+Competidor #	3	IND47413GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	494
+Competidor #	0	IND47390GEN.bin	  fitness: 9.5
+Competidor #	1	IND47768GEN.bin	  fitness: 3.5
+Competidor #	2	IND47816GEN.bin	  fitness: 3.5
+Competidor #	3	IND47371GEN.bin	  fitness: 8.5
+Ganador :	1
+
+Torneo número:	495
+Competidor #	0	IND47649GEN.bin	  fitness: 3.5
+Competidor #	1	IND47102GEN.bin	  fitness: 3.5
+Competidor #	2	IND47504GEN.bin	  fitness: 3.5
+Competidor #	3	IND47366GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	496
+Competidor #	0	IND47445GEN.bin	  fitness: 3.5
+Competidor #	1	IND47330GEN.bin	  fitness: 3.5
+Competidor #	2	IND47074GEN.bin	  fitness: 3.5
+Competidor #	3	IND47867GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	497
+Competidor #	0	IND47086GEN.bin	  fitness: 3.5
+Competidor #	1	IND47719GEN.bin	  fitness: 3.5
+Competidor #	2	IND47265GEN.bin	  fitness: 3.5
+Competidor #	3	IND47216GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	498
+Competidor #	0	IND47778GEN.bin	  fitness: 3.5
+Competidor #	1	IND47246GEN.bin	  fitness: 3.5
+Competidor #	2	IND47455GEN.bin	  fitness: 3.5
+Competidor #	3	IND47754GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	499
+Competidor #	0	IND47532GEN.bin	  fitness: 3.5
+Competidor #	1	IND47939GEN.bin	  fitness: 3.5
+Competidor #	2	IND47386GEN.bin	  fitness: 3.5
+Competidor #	3	IND47099GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	500
+Competidor #	0	IND47152GEN.bin	  fitness: 3.5
+Competidor #	1	IND47289GEN.bin	  fitness: 3.5
+Competidor #	2	IND47594GEN.bin	  fitness: 3.5
+Competidor #	3	IND47076GEN.bin	  fitness: 3.5
+Ganador :	0
+
+Torneo número:	501
+Competidor #	0	IND47851GEN.bin	  fitness: 8.0
+Competidor #	1	IND47259GEN.bin	  fitness: 3.5
+Competidor #	2	IND47514GEN.bin	  fitness: 10.5
+Competidor #	3	IND47198GEN.bin	  fitness: 3.5
+Ganador :	1
+

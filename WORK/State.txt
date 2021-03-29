@@ -1,0 +1,384 @@
+====================Generación:1====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		1
+
+Adaptación máxima:31.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_1_\FA\IND156GEN.bin
+Adaptación promedio:17.3065
+Adaptación mínima:7.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_1_\FA\IND447GEN.bin
+
+====================Generación:2====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		2
+
+Adaptación máxima:29.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_2_\FA\IND1515GEN.bin
+Adaptación promedio:13.718
+Adaptación mínima:5.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_2_\FA\IND1544GEN.bin
+
+====================Generación:3====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		3
+
+Adaptación máxima:22.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_3_\FA\IND2107GEN.bin
+Adaptación promedio:11.7055
+Adaptación mínima:5.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_3_\FA\IND1544GEN.bin
+
+====================Generación:4====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		4
+
+Adaptación máxima:24.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_4_\FA\IND3452GEN.bin
+Adaptación promedio:10.132
+Adaptación mínima:5.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_4_\FA\IND2993GEN.bin
+
+====================Generación:5====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		5
+
+Adaptación máxima:19.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_5_\FA\IND4760GEN.bin
+Adaptación promedio:8.806
+Adaptación mínima:5.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_5_\FA\IND3934GEN.bin
+
+====================Generación:6====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		6
+
+Adaptación máxima:23.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_6_\FA\IND5612GEN.bin
+Adaptación promedio:7.8025
+Adaptación mínima:5.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_6_\FA\IND4959GEN.bin
+
+====================Generación:7====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		7
+
+Adaptación máxima:20.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_7_\FA\IND6289GEN.bin
+Adaptación promedio:6.7245
+Adaptación mínima:4.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_7_\FA\IND6100GEN.bin
+
+====================Generación:8====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		8
+
+Adaptación máxima:19.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_8_\FA\IND7147GEN.bin
+Adaptación promedio:6.2385
+Adaptación mínima:4.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_8_\FA\IND6714GEN.bin
+
+====================Generación:9====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		9
+
+Adaptación máxima:14.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_9_\FA\IND8770GEN.bin
+Adaptación promedio:6.2005
+Adaptación mínima:4.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_9_\FA\IND7950GEN.bin
+
+====================Generación:10====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		10
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_10_\FA\IND9987GEN.bin
+Adaptación promedio:5.941
+Adaptación mínima:4.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_10_\FA\IND8883GEN.bin
+
+====================Generación:11====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		11
+
+Adaptación máxima:17.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_11_\FA\IND10327GEN.bin
+Adaptación promedio:5.59
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_11_\FA\IND10739GEN.bin
+
+====================Generación:12====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		12
+
+Adaptación máxima:15.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_12_\FA\IND11057GEN.bin
+Adaptación promedio:5.222
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_12_\FA\IND10739GEN.bin
+
+====================Generación:13====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		13
+
+Adaptación máxima:21.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_13_\FA\IND12412GEN.bin
+Adaptación promedio:5.2445
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_13_\FA\IND11761GEN.bin
+
+====================Generación:14====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		14
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_14_\FA\IND13499GEN.bin
+Adaptación promedio:5.313
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_14_\FA\IND12915GEN.bin
+
+====================Generación:15====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		15
+
+Adaptación máxima:17.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_15_\FA\IND14916GEN.bin
+Adaptación promedio:5.152
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_15_\FA\IND13978GEN.bin
+
+====================Generación:16====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		16
+
+Adaptación máxima:21.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_16_\FA\IND15528GEN.bin
+Adaptación promedio:4.81
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_16_\FA\IND14972GEN.bin
+
+====================Generación:17====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		17
+
+Adaptación máxima:17.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_17_\FA\IND16311GEN.bin
+Adaptación promedio:4.409
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_17_\FA\IND15984GEN.bin
+
+====================Generación:18====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		18
+
+Adaptación máxima:18.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_18_\FA\IND17572GEN.bin
+Adaptación promedio:4.4015
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_18_\FA\IND16984GEN.bin
+
+====================Generación:19====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		19
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_19_\FA\IND18613GEN.bin
+Adaptación promedio:4.498
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_19_\FA\IND17983GEN.bin
+
+====================Generación:20====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		20
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_20_\FA\IND19812GEN.bin
+Adaptación promedio:4.3745
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_20_\FA\IND18982GEN.bin
+
+====================Generación:21====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		21
+
+Adaptación máxima:15.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_21_\FA\IND20408GEN.bin
+Adaptación promedio:4.379
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_21_\FA\IND19981GEN.bin
+
+====================Generación:22====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		22
+
+Adaptación máxima:18.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_22_\FA\IND21435GEN.bin
+Adaptación promedio:4.289
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_22_\FA\IND20979GEN.bin
+
+====================Generación:23====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		23
+
+Adaptación máxima:20.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_23_\FA\IND22915GEN.bin
+Adaptación promedio:4.4515
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_23_\FA\IND21979GEN.bin
+
+====================Generación:24====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		24
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_24_\FA\IND23515GEN.bin
+Adaptación promedio:4.411
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_24_\FA\IND22978GEN.bin
+
+====================Generación:25====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		25
+
+Adaptación máxima:16.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_25_\FA\IND23995GEN.bin
+Adaptación promedio:4.222
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_25_\FA\IND23976GEN.bin
+
+====================Generación:26====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		26
+
+Adaptación máxima:17.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_26_\FA\IND25911GEN.bin
+Adaptación promedio:4.3505
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_26_\FA\IND24976GEN.bin
+
+====================Generación:27====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		27
+
+Adaptación máxima:18.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_27_\FA\IND26157GEN.bin
+Adaptación promedio:4.417
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_27_\FA\IND25975GEN.bin
+
+====================Generación:28====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		28
+
+Adaptación máxima:17.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_28_\FA\IND27289GEN.bin
+Adaptación promedio:4.5485
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_28_\FA\IND26974GEN.bin
+
+====================Generación:29====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		29
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_29_\FA\IND27983GEN.bin
+Adaptación promedio:4.5
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_29_\FA\IND27973GEN.bin
+
+====================Generación:30====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		30
+
+Adaptación máxima:17.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_30_\FA\IND28993GEN.bin
+Adaptación promedio:4.2775
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_30_\FA\IND28971GEN.bin
+
+====================Generación:31====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		31
+
+Adaptación máxima:17.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_31_\FA\IND30237GEN.bin
+Adaptación promedio:4.3295
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_31_\FA\IND29971GEN.bin
+
+====================Generación:32====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		32
+
+Adaptación máxima:18.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_32_\FA\IND31056GEN.bin
+Adaptación promedio:4.2695
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_32_\FA\IND30970GEN.bin
+
+====================Generación:33====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		33
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_33_\FA\IND31996GEN.bin
+Adaptación promedio:4.4285
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_33_\FA\IND31968GEN.bin
+
+====================Generación:34====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		34
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_34_\FA\IND33806GEN.bin
+Adaptación promedio:4.5395
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_34_\FA\IND32968GEN.bin
+
+====================Generación:35====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		35
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_35_\FA\IND34439GEN.bin
+Adaptación promedio:4.5145
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_35_\FA\IND33966GEN.bin
+
+====================Generación:36====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		36
+
+Adaptación máxima:15.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_36_\FA\IND35016GEN.bin
+Adaptación promedio:4.2585
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_36_\FA\IND34966GEN.bin
+
+====================Generación:37====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		37
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_37_\FA\IND36057GEN.bin
+Adaptación promedio:4.531
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_37_\FA\IND35965GEN.bin
+
+====================Generación:38====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		38
+
+Adaptación máxima:14.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_38_\FA\IND37229GEN.bin
+Adaptación promedio:4.372
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_38_\FA\IND36964GEN.bin
+
+====================Generación:39====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		39
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_39_\FA\IND38183GEN.bin
+Adaptación promedio:4.536
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_39_\FA\IND37963GEN.bin
+
+====================Generación:40====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		40
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_40_\FA\IND39471GEN.bin
+Adaptación promedio:4.3705
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_40_\FA\IND38962GEN.bin
+
+====================Generación:41====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		41
+
+Adaptación máxima:15.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_41_\FA\IND40196GEN.bin
+Adaptación promedio:4.467
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_41_\FA\IND39961GEN.bin
+
+====================Generación:42====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		42
+
+Adaptación máxima:16.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_42_\FA\IND40971GEN.bin
+Adaptación promedio:4.4805
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_42_\FA\IND40960GEN.bin
+
+====================Generación:43====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		43
+
+Adaptación máxima:20.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_43_\FA\IND42885GEN.bin
+Adaptación promedio:4.3435
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_43_\FA\IND41959GEN.bin
+
+====================Generación:44====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		44
+
+Adaptación máxima:16.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_44_\FA\IND43320GEN.bin
+Adaptación promedio:4.524
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_44_\FA\IND42958GEN.bin
+
+====================Generación:45====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		45
+
+Adaptación máxima:16.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_45_\FA\IND44186GEN.bin
+Adaptación promedio:4.3465
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_45_\FA\IND43957GEN.bin
+
+====================Generación:46====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		46
+
+Adaptación máxima:19.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_46_\FA\IND45950GEN.bin
+Adaptación promedio:4.4145
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_46_\FA\IND44955GEN.bin
+
+====================Generación:47====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		47
+
+Adaptación máxima:16.0 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_47_\FA\IND46171GEN.bin
+Adaptación promedio:4.4035
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_47_\FA\IND45955GEN.bin
+
+====================Generación:48====================
+Reporte	OK	Umbral		Valor obtenido
+-MAXGEN	FALSE	50		48
+
+Adaptación máxima:15.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\FA\IND47167GEN.bin
+Adaptación promedio:4.411
+Adaptación mínima:3.5 -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\FA\IND46954GEN.bin
+

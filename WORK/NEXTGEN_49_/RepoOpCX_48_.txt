@@ -1,0 +1,3440 @@
+*****************************  REPORTE  **********************************
+Ruta de trabajo (-FWORK): C:\Users\Alfre\Desktop\ag-reinas\WORK
+Numero de individuos generados (-NI: 1000) - (-NELITE: 1) = 999
+DETALLE
+Operador CX
+Generación -> 48
+-XPROB: 85
+Poblacion de padres: C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION
+Prefijo (-PRE) -> IND
+Infijo (-INF) -> 47953
+Posfijo (-POS) -> GEN
+Indices de padres -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\PARENTS.TXT
+Validacion de padres
+Suma de valores -> 378.0
+Todos los padres fueron validados
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47482GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47482GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND47954GEN.bin
+DB -> IND47955GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47454GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47454GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND47956GEN.bin
+DB -> IND47957GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47691GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47691GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND47958GEN.bin
+DB -> IND47959GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47683GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47683GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND47960GEN.bin
+DB -> IND47961GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47043GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47043GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND47962GEN.bin
+DB -> IND47963GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47853GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47853GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND47964GEN.bin
+DB -> IND47965GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47040GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47040GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND47966GEN.bin
+DB -> IND47967GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47366GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47366GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND47968GEN.bin
+DB -> IND47969GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47644GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47644GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND47970GEN.bin
+DB -> IND47971GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47505GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47505GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND47972GEN.bin
+DB -> IND47973GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47320GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47320GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND47974GEN.bin
+DB -> IND47975GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47341GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47341GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND47976GEN.bin
+DB -> IND47977GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47856GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47856GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND47978GEN.bin
+DB -> IND47979GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47812GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47812GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND47980GEN.bin
+DB -> IND47981GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47317GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47317GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND47982GEN.bin
+DB -> IND47983GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47525GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47525GEN.bin
+PA -> PB Punto de inicio del ciclo -> 15
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND47984GEN.bin
+DB -> IND47985GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47409GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47409GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND47986GEN.bin
+DB -> IND47987GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47492GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47492GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND47988GEN.bin
+DB -> IND47989GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47531GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47531GEN.bin
+PA -> PB Punto de inicio del ciclo -> 8
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND47990GEN.bin
+DB -> IND47991GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47850GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47850GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND47992GEN.bin
+DB -> IND47993GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47684GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47684GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND47994GEN.bin
+DB -> IND47995GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47255GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47255GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND47996GEN.bin
+DB -> IND47997GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47300GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47300GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND47998GEN.bin
+DB -> IND47999GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47877GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47877GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48000GEN.bin
+DB -> IND48001GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47621GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47621GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48002GEN.bin
+DB -> IND48003GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47426GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47426GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48004GEN.bin
+DB -> IND48005GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47626GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47626GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48006GEN.bin
+DB -> IND48007GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47938GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47938GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48008GEN.bin
+DB -> IND48009GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47174GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47174GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48010GEN.bin
+DB -> IND48011GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47528GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47528GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48012GEN.bin
+DB -> IND48013GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47220GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47220GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48014GEN.bin
+DB -> IND48015GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47877GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47877GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND48016GEN.bin
+DB -> IND48017GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47572GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47572GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48018GEN.bin
+DB -> IND48019GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47148GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47148GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48020GEN.bin
+DB -> IND48021GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47426GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47426GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48022GEN.bin
+DB -> IND48023GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47694GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47694GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48024GEN.bin
+DB -> IND48025GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47919GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47919GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48026GEN.bin
+DB -> IND48027GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47684GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47684GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48028GEN.bin
+DB -> IND48029GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46956GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46956GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48030GEN.bin
+DB -> IND48031GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47802GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47802GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48032GEN.bin
+DB -> IND48033GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47200GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47200GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48034GEN.bin
+DB -> IND48035GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47736GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47736GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48036GEN.bin
+DB -> IND48037GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47701GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47701GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48038GEN.bin
+DB -> IND48039GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47822GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47822GEN.bin
+PA -> PB Punto de inicio del ciclo -> 8
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48040GEN.bin
+DB -> IND48041GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47246GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47246GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48042GEN.bin
+DB -> IND48043GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47389GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47389GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48044GEN.bin
+DB -> IND48045GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47624GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47624GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48046GEN.bin
+DB -> IND48047GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47449GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47449GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48048GEN.bin
+DB -> IND48049GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47615GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47615GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48050GEN.bin
+DB -> IND48051GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47870GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47870GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48052GEN.bin
+DB -> IND48053GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47660GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47660GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48054GEN.bin
+DB -> IND48055GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47459GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47459GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48056GEN.bin
+DB -> IND48057GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47798GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47798GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48058GEN.bin
+DB -> IND48059GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47078GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47078GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48060GEN.bin
+DB -> IND48061GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47776GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47776GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48062GEN.bin
+DB -> IND48063GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47477GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47477GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48064GEN.bin
+DB -> IND48065GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47090GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47090GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND48066GEN.bin
+DB -> IND48067GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47762GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47762GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48068GEN.bin
+DB -> IND48069GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47872GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47872GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48070GEN.bin
+DB -> IND48071GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47337GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47337GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48072GEN.bin
+DB -> IND48073GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46996GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46996GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48074GEN.bin
+DB -> IND48075GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47780GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47780GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48076GEN.bin
+DB -> IND48077GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47362GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47362GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48078GEN.bin
+DB -> IND48079GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47160GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47160GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48080GEN.bin
+DB -> IND48081GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47246GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47246GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48082GEN.bin
+DB -> IND48083GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47504GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47504GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48084GEN.bin
+DB -> IND48085GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47312GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47312GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48086GEN.bin
+DB -> IND48087GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47586GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47586GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48088GEN.bin
+DB -> IND48089GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46974GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46974GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48090GEN.bin
+DB -> IND48091GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47846GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47846GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48092GEN.bin
+DB -> IND48093GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47605GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47605GEN.bin
+PA -> PB Punto de inicio del ciclo -> 15
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48094GEN.bin
+DB -> IND48095GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47716GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47716GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND48096GEN.bin
+DB -> IND48097GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47875GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47875GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48098GEN.bin
+DB -> IND48099GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47026GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47026GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48100GEN.bin
+DB -> IND48101GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47189GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47189GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48102GEN.bin
+DB -> IND48103GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46974GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46974GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48104GEN.bin
+DB -> IND48105GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47073GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47073GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48106GEN.bin
+DB -> IND48107GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47490GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47490GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48108GEN.bin
+DB -> IND48109GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47801GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47801GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48110GEN.bin
+DB -> IND48111GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47615GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47615GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48112GEN.bin
+DB -> IND48113GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47740GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47740GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48114GEN.bin
+DB -> IND48115GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47033GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47033GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND48116GEN.bin
+DB -> IND48117GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47877GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47877GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48118GEN.bin
+DB -> IND48119GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47166GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47166GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48120GEN.bin
+DB -> IND48121GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47325GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47325GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48122GEN.bin
+DB -> IND48123GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46967GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46967GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48124GEN.bin
+DB -> IND48125GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47084GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47084GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48126GEN.bin
+DB -> IND48127GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47902GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47902GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48128GEN.bin
+DB -> IND48129GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47240GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47240GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48130GEN.bin
+DB -> IND48131GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47312GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47312GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48132GEN.bin
+DB -> IND48133GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47526GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47526GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48134GEN.bin
+DB -> IND48135GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47012GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47012GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48136GEN.bin
+DB -> IND48137GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47858GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47858GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48138GEN.bin
+DB -> IND48139GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47820GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47820GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48140GEN.bin
+DB -> IND48141GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47832GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47832GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48142GEN.bin
+DB -> IND48143GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47577GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47577GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48144GEN.bin
+DB -> IND48145GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47473GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47473GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48146GEN.bin
+DB -> IND48147GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47640GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47640GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48148GEN.bin
+DB -> IND48149GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47530GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47530GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48150GEN.bin
+DB -> IND48151GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47548GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47548GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48152GEN.bin
+DB -> IND48153GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47228GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47228GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48154GEN.bin
+DB -> IND48155GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47747GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47747GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48156GEN.bin
+DB -> IND48157GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46961GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46961GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48158GEN.bin
+DB -> IND48159GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47184GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47184GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND48160GEN.bin
+DB -> IND48161GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47216GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47216GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48162GEN.bin
+DB -> IND48163GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47081GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47081GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48164GEN.bin
+DB -> IND48165GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47496GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47496GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48166GEN.bin
+DB -> IND48167GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47014GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47014GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND48168GEN.bin
+DB -> IND48169GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47339GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47339GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48170GEN.bin
+DB -> IND48171GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47033GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47033GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48172GEN.bin
+DB -> IND48173GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47891GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47891GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48174GEN.bin
+DB -> IND48175GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47676GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47676GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48176GEN.bin
+DB -> IND48177GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47203GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47203GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48178GEN.bin
+DB -> IND48179GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47873GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47873GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48180GEN.bin
+DB -> IND48181GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47728GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47728GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48182GEN.bin
+DB -> IND48183GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47485GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47485GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48184GEN.bin
+DB -> IND48185GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47486GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47486GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48186GEN.bin
+DB -> IND48187GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47163GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47163GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48188GEN.bin
+DB -> IND48189GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46965GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46965GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48190GEN.bin
+DB -> IND48191GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47535GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47535GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48192GEN.bin
+DB -> IND48193GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47730GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47730GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48194GEN.bin
+DB -> IND48195GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47537GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47537GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48196GEN.bin
+DB -> IND48197GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47273GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47273GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48198GEN.bin
+DB -> IND48199GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47773GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47773GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48200GEN.bin
+DB -> IND48201GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47135GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47135GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48202GEN.bin
+DB -> IND48203GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47195GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47195GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48204GEN.bin
+DB -> IND48205GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47741GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47741GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48206GEN.bin
+DB -> IND48207GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47796GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47796GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48208GEN.bin
+DB -> IND48209GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47707GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47707GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48210GEN.bin
+DB -> IND48211GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46974GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46974GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48212GEN.bin
+DB -> IND48213GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47311GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47311GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48214GEN.bin
+DB -> IND48215GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47283GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47283GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48216GEN.bin
+DB -> IND48217GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47229GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47229GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48218GEN.bin
+DB -> IND48219GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47409GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47409GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48220GEN.bin
+DB -> IND48221GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47572GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47572GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48222GEN.bin
+DB -> IND48223GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47462GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47462GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48224GEN.bin
+DB -> IND48225GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47353GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47353GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 11
+DA -> IND48226GEN.bin
+DB -> IND48227GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47439GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47439GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48228GEN.bin
+DB -> IND48229GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47626GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47626GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND48230GEN.bin
+DB -> IND48231GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47706GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47706GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48232GEN.bin
+DB -> IND48233GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47760GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47760GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48234GEN.bin
+DB -> IND48235GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47468GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47468GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48236GEN.bin
+DB -> IND48237GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47225GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47225GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48238GEN.bin
+DB -> IND48239GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47924GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47924GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND48240GEN.bin
+DB -> IND48241GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47536GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47536GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48242GEN.bin
+DB -> IND48243GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47899GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47899GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48244GEN.bin
+DB -> IND48245GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47466GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47466GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48246GEN.bin
+DB -> IND48247GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47655GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47655GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48248GEN.bin
+DB -> IND48249GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47407GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47407GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48250GEN.bin
+DB -> IND48251GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47461GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47461GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48252GEN.bin
+DB -> IND48253GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47061GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47061GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48254GEN.bin
+DB -> IND48255GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47533GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47533GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48256GEN.bin
+DB -> IND48257GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47623GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47623GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48258GEN.bin
+DB -> IND48259GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47863GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47863GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48260GEN.bin
+DB -> IND48261GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47432GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47432GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48262GEN.bin
+DB -> IND48263GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47635GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47635GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48264GEN.bin
+DB -> IND48265GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47601GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47601GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48266GEN.bin
+DB -> IND48267GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47094GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47094GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48268GEN.bin
+DB -> IND48269GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47462GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47462GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48270GEN.bin
+DB -> IND48271GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47252GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47252GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48272GEN.bin
+DB -> IND48273GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47181GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47181GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48274GEN.bin
+DB -> IND48275GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47607GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47607GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48276GEN.bin
+DB -> IND48277GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47466GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47466GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48278GEN.bin
+DB -> IND48279GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47668GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47668GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48280GEN.bin
+DB -> IND48281GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47711GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47711GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48282GEN.bin
+DB -> IND48283GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47720GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47720GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48284GEN.bin
+DB -> IND48285GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47268GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47268GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48286GEN.bin
+DB -> IND48287GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47561GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47561GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48288GEN.bin
+DB -> IND48289GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47639GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47639GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48290GEN.bin
+DB -> IND48291GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47091GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47091GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48292GEN.bin
+DB -> IND48293GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47575GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47575GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48294GEN.bin
+DB -> IND48295GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47632GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47632GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48296GEN.bin
+DB -> IND48297GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47374GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47374GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48298GEN.bin
+DB -> IND48299GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47333GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47333GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48300GEN.bin
+DB -> IND48301GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47801GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47801GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48302GEN.bin
+DB -> IND48303GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46973GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46973GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48304GEN.bin
+DB -> IND48305GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47475GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47475GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48306GEN.bin
+DB -> IND48307GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47674GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47674GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48308GEN.bin
+DB -> IND48309GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47122GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47122GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48310GEN.bin
+DB -> IND48311GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47923GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47923GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48312GEN.bin
+DB -> IND48313GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47449GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47449GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48314GEN.bin
+DB -> IND48315GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47361GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47361GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48316GEN.bin
+DB -> IND48317GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47559GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47559GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48318GEN.bin
+DB -> IND48319GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47171GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47171GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48320GEN.bin
+DB -> IND48321GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47139GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47139GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48322GEN.bin
+DB -> IND48323GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47804GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47804GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48324GEN.bin
+DB -> IND48325GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47506GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47506GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48326GEN.bin
+DB -> IND48327GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47074GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47074GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48328GEN.bin
+DB -> IND48329GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47628GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47628GEN.bin
+PA -> PB Punto de inicio del ciclo -> 15
+PB -> PA Punto de inicio del ciclo -> 11
+DA -> IND48330GEN.bin
+DB -> IND48331GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46984GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46984GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48332GEN.bin
+DB -> IND48333GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47502GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47502GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48334GEN.bin
+DB -> IND48335GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47711GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47711GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48336GEN.bin
+DB -> IND48337GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47664GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47664GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND48338GEN.bin
+DB -> IND48339GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47004GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47004GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48340GEN.bin
+DB -> IND48341GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47358GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47358GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48342GEN.bin
+DB -> IND48343GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47834GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47834GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48344GEN.bin
+DB -> IND48345GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47804GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47804GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48346GEN.bin
+DB -> IND48347GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47149GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47149GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48348GEN.bin
+DB -> IND48349GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47860GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47860GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48350GEN.bin
+DB -> IND48351GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47683GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47683GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48352GEN.bin
+DB -> IND48353GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47284GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47284GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND48354GEN.bin
+DB -> IND48355GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47783GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47783GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48356GEN.bin
+DB -> IND48357GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47808GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47808GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48358GEN.bin
+DB -> IND48359GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47629GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47629GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48360GEN.bin
+DB -> IND48361GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46985GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46985GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48362GEN.bin
+DB -> IND48363GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47477GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47477GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48364GEN.bin
+DB -> IND48365GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47174GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47174GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48366GEN.bin
+DB -> IND48367GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47866GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47866GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48368GEN.bin
+DB -> IND48369GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47947GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47947GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND48370GEN.bin
+DB -> IND48371GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47739GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47739GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48372GEN.bin
+DB -> IND48373GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47019GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47019GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48374GEN.bin
+DB -> IND48375GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47931GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47931GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48376GEN.bin
+DB -> IND48377GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46995GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46995GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48378GEN.bin
+DB -> IND48379GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47839GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47839GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48380GEN.bin
+DB -> IND48381GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47626GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47626GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48382GEN.bin
+DB -> IND48383GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47848GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47848GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48384GEN.bin
+DB -> IND48385GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47135GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47135GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48386GEN.bin
+DB -> IND48387GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47914GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47914GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48388GEN.bin
+DB -> IND48389GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46975GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46975GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48390GEN.bin
+DB -> IND48391GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47769GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47769GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48392GEN.bin
+DB -> IND48393GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47445GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47445GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48394GEN.bin
+DB -> IND48395GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47344GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47344GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48396GEN.bin
+DB -> IND48397GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47243GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47243GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 11
+DA -> IND48398GEN.bin
+DB -> IND48399GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47742GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47742GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48400GEN.bin
+DB -> IND48401GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47174GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47174GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48402GEN.bin
+DB -> IND48403GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47082GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47082GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48404GEN.bin
+DB -> IND48405GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47366GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47366GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48406GEN.bin
+DB -> IND48407GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47871GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47871GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48408GEN.bin
+DB -> IND48409GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47170GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47170GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48410GEN.bin
+DB -> IND48411GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47912GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47912GEN.bin
+PA -> PB Punto de inicio del ciclo -> 15
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48412GEN.bin
+DB -> IND48413GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47251GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47251GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48414GEN.bin
+DB -> IND48415GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47071GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47071GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48416GEN.bin
+DB -> IND48417GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47017GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47017GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48418GEN.bin
+DB -> IND48419GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47185GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47185GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48420GEN.bin
+DB -> IND48421GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47778GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47778GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48422GEN.bin
+DB -> IND48423GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47533GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47533GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48424GEN.bin
+DB -> IND48425GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47825GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47825GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48426GEN.bin
+DB -> IND48427GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47888GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47888GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48428GEN.bin
+DB -> IND48429GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47499GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47499GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48430GEN.bin
+DB -> IND48431GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47518GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47518GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48432GEN.bin
+DB -> IND48433GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47433GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47433GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48434GEN.bin
+DB -> IND48435GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47705GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47705GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48436GEN.bin
+DB -> IND48437GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47879GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47879GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48438GEN.bin
+DB -> IND48439GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47403GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47403GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48440GEN.bin
+DB -> IND48441GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47622GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47622GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48442GEN.bin
+DB -> IND48443GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47534GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47534GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48444GEN.bin
+DB -> IND48445GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47285GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47285GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48446GEN.bin
+DB -> IND48447GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47557GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47557GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48448GEN.bin
+DB -> IND48449GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47699GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47699GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND48450GEN.bin
+DB -> IND48451GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46984GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46984GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48452GEN.bin
+DB -> IND48453GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47829GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47829GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48454GEN.bin
+DB -> IND48455GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47071GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47071GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48456GEN.bin
+DB -> IND48457GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47866GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47866GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND48458GEN.bin
+DB -> IND48459GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47870GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47870GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48460GEN.bin
+DB -> IND48461GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47259GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47259GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND48462GEN.bin
+DB -> IND48463GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47811GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47811GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48464GEN.bin
+DB -> IND48465GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47181GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47181GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48466GEN.bin
+DB -> IND48467GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47486GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47486GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48468GEN.bin
+DB -> IND48469GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47831GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47831GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48470GEN.bin
+DB -> IND48471GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47181GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47181GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48472GEN.bin
+DB -> IND48473GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47100GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47100GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48474GEN.bin
+DB -> IND48475GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47044GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47044GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48476GEN.bin
+DB -> IND48477GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47018GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47018GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND48478GEN.bin
+DB -> IND48479GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47724GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47724GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48480GEN.bin
+DB -> IND48481GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47028GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47028GEN.bin
+PA -> PB Punto de inicio del ciclo -> 8
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48482GEN.bin
+DB -> IND48483GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47671GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47671GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48484GEN.bin
+DB -> IND48485GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47524GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47524GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48486GEN.bin
+DB -> IND48487GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47692GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47692GEN.bin
+PA -> PB Punto de inicio del ciclo -> 8
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48488GEN.bin
+DB -> IND48489GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46991GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46991GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48490GEN.bin
+DB -> IND48491GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47391GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47391GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48492GEN.bin
+DB -> IND48493GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46982GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46982GEN.bin
+PA -> PB Punto de inicio del ciclo -> 15
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48494GEN.bin
+DB -> IND48495GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47562GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47562GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48496GEN.bin
+DB -> IND48497GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47066GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47066GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48498GEN.bin
+DB -> IND48499GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47791GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47791GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48500GEN.bin
+DB -> IND48501GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47658GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47658GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48502GEN.bin
+DB -> IND48503GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47023GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47023GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48504GEN.bin
+DB -> IND48505GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47677GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47677GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48506GEN.bin
+DB -> IND48507GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47763GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47763GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48508GEN.bin
+DB -> IND48509GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47641GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47641GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48510GEN.bin
+DB -> IND48511GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47238GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47238GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48512GEN.bin
+DB -> IND48513GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47699GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47699GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48514GEN.bin
+DB -> IND48515GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47263GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47263GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48516GEN.bin
+DB -> IND48517GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47727GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47727GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48518GEN.bin
+DB -> IND48519GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47537GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47537GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND48520GEN.bin
+DB -> IND48521GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47896GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47896GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48522GEN.bin
+DB -> IND48523GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47061GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47061GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48524GEN.bin
+DB -> IND48525GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47006GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47006GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48526GEN.bin
+DB -> IND48527GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47919GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47919GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48528GEN.bin
+DB -> IND48529GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47256GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47256GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND48530GEN.bin
+DB -> IND48531GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47757GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47757GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48532GEN.bin
+DB -> IND48533GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46977GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46977GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48534GEN.bin
+DB -> IND48535GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47930GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47930GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48536GEN.bin
+DB -> IND48537GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47733GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47733GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48538GEN.bin
+DB -> IND48539GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47610GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47610GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48540GEN.bin
+DB -> IND48541GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46955GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46955GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48542GEN.bin
+DB -> IND48543GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47630GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47630GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48544GEN.bin
+DB -> IND48545GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47459GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47459GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48546GEN.bin
+DB -> IND48547GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47843GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47843GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48548GEN.bin
+DB -> IND48549GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47741GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47741GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48550GEN.bin
+DB -> IND48551GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47533GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47533GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48552GEN.bin
+DB -> IND48553GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47138GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47138GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48554GEN.bin
+DB -> IND48555GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47577GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47577GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48556GEN.bin
+DB -> IND48557GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47085GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47085GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48558GEN.bin
+DB -> IND48559GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47824GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47824GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48560GEN.bin
+DB -> IND48561GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47605GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47605GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48562GEN.bin
+DB -> IND48563GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47932GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47932GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48564GEN.bin
+DB -> IND48565GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46973GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46973GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48566GEN.bin
+DB -> IND48567GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47497GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47497GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48568GEN.bin
+DB -> IND48569GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47399GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47399GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48570GEN.bin
+DB -> IND48571GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47474GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47474GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48572GEN.bin
+DB -> IND48573GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47638GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47638GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48574GEN.bin
+DB -> IND48575GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47293GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47293GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48576GEN.bin
+DB -> IND48577GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47299GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47299GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48578GEN.bin
+DB -> IND48579GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47017GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47017GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48580GEN.bin
+DB -> IND48581GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47829GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47829GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48582GEN.bin
+DB -> IND48583GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47341GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47341GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48584GEN.bin
+DB -> IND48585GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47366GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47366GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48586GEN.bin
+DB -> IND48587GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47454GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47454GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48588GEN.bin
+DB -> IND48589GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47017GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47017GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48590GEN.bin
+DB -> IND48591GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47662GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47662GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48592GEN.bin
+DB -> IND48593GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47325GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47325GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48594GEN.bin
+DB -> IND48595GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47443GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47443GEN.bin
+PA -> PB Punto de inicio del ciclo -> 8
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48596GEN.bin
+DB -> IND48597GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47312GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47312GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48598GEN.bin
+DB -> IND48599GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47127GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47127GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48600GEN.bin
+DB -> IND48601GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47069GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47069GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48602GEN.bin
+DB -> IND48603GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47300GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47300GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48604GEN.bin
+DB -> IND48605GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47912GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47912GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48606GEN.bin
+DB -> IND48607GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47188GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47188GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48608GEN.bin
+DB -> IND48609GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47756GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47756GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48610GEN.bin
+DB -> IND48611GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47068GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47068GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48612GEN.bin
+DB -> IND48613GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47165GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47165GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48614GEN.bin
+DB -> IND48615GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47399GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47399GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48616GEN.bin
+DB -> IND48617GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47547GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47547GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48618GEN.bin
+DB -> IND48619GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47891GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47891GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48620GEN.bin
+DB -> IND48621GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47462GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47462GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48622GEN.bin
+DB -> IND48623GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47483GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47483GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48624GEN.bin
+DB -> IND48625GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47922GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47922GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48626GEN.bin
+DB -> IND48627GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47679GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47679GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND48628GEN.bin
+DB -> IND48629GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46983GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46983GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48630GEN.bin
+DB -> IND48631GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47819GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47819GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48632GEN.bin
+DB -> IND48633GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47194GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47194GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48634GEN.bin
+DB -> IND48635GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47531GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47531GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48636GEN.bin
+DB -> IND48637GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47191GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47191GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48638GEN.bin
+DB -> IND48639GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47474GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47474GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48640GEN.bin
+DB -> IND48641GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47538GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47538GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48642GEN.bin
+DB -> IND48643GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47137GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47137GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48644GEN.bin
+DB -> IND48645GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47432GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47432GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48646GEN.bin
+DB -> IND48647GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47747GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47747GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48648GEN.bin
+DB -> IND48649GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47485GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47485GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48650GEN.bin
+DB -> IND48651GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47784GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47784GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48652GEN.bin
+DB -> IND48653GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47459GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47459GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48654GEN.bin
+DB -> IND48655GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47483GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47483GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48656GEN.bin
+DB -> IND48657GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47150GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47150GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48658GEN.bin
+DB -> IND48659GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47542GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47542GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48660GEN.bin
+DB -> IND48661GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47703GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47703GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48662GEN.bin
+DB -> IND48663GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47652GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47652GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND48664GEN.bin
+DB -> IND48665GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47853GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47853GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48666GEN.bin
+DB -> IND48667GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47402GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47402GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48668GEN.bin
+DB -> IND48669GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47761GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47761GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48670GEN.bin
+DB -> IND48671GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47105GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47105GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48672GEN.bin
+DB -> IND48673GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46974GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46974GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48674GEN.bin
+DB -> IND48675GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47324GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47324GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48676GEN.bin
+DB -> IND48677GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47164GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47164GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48678GEN.bin
+DB -> IND48679GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47004GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47004GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48680GEN.bin
+DB -> IND48681GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47683GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47683GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48682GEN.bin
+DB -> IND48683GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46980GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46980GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48684GEN.bin
+DB -> IND48685GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47015GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47015GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48686GEN.bin
+DB -> IND48687GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47777GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47777GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 26
+DA -> IND48688GEN.bin
+DB -> IND48689GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46958GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46958GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48690GEN.bin
+DB -> IND48691GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47885GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47885GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48692GEN.bin
+DB -> IND48693GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47490GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47490GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND48694GEN.bin
+DB -> IND48695GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47277GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47277GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48696GEN.bin
+DB -> IND48697GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47479GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47479GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND48698GEN.bin
+DB -> IND48699GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47708GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47708GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND48700GEN.bin
+DB -> IND48701GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47769GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47769GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48702GEN.bin
+DB -> IND48703GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47333GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47333GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48704GEN.bin
+DB -> IND48705GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47016GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47016GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48706GEN.bin
+DB -> IND48707GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47015GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47015GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48708GEN.bin
+DB -> IND48709GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47088GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47088GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48710GEN.bin
+DB -> IND48711GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47059GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47059GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48712GEN.bin
+DB -> IND48713GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47183GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47183GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48714GEN.bin
+DB -> IND48715GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47939GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47939GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48716GEN.bin
+DB -> IND48717GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47950GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47950GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48718GEN.bin
+DB -> IND48719GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47686GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47686GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND48720GEN.bin
+DB -> IND48721GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47707GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47707GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48722GEN.bin
+DB -> IND48723GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47504GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47504GEN.bin
+PA -> PB Punto de inicio del ciclo -> 8
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48724GEN.bin
+DB -> IND48725GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47170GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47170GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48726GEN.bin
+DB -> IND48727GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47642GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47642GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48728GEN.bin
+DB -> IND48729GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47194GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47194GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48730GEN.bin
+DB -> IND48731GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47345GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47345GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48732GEN.bin
+DB -> IND48733GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47885GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47885GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48734GEN.bin
+DB -> IND48735GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47483GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47483GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND48736GEN.bin
+DB -> IND48737GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47280GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47280GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48738GEN.bin
+DB -> IND48739GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47216GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47216GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48740GEN.bin
+DB -> IND48741GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47690GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47690GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48742GEN.bin
+DB -> IND48743GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47173GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47173GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48744GEN.bin
+DB -> IND48745GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47732GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47732GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48746GEN.bin
+DB -> IND48747GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47346GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47346GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48748GEN.bin
+DB -> IND48749GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47420GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47420GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48750GEN.bin
+DB -> IND48751GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47657GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47657GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48752GEN.bin
+DB -> IND48753GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47643GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47643GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48754GEN.bin
+DB -> IND48755GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47507GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47507GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48756GEN.bin
+DB -> IND48757GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47220GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47220GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48758GEN.bin
+DB -> IND48759GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47658GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47658GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48760GEN.bin
+DB -> IND48761GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47540GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47540GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48762GEN.bin
+DB -> IND48763GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47488GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47488GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 25
+DA -> IND48764GEN.bin
+DB -> IND48765GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47397GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47397GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48766GEN.bin
+DB -> IND48767GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47924GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47924GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48768GEN.bin
+DB -> IND48769GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47565GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47565GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48770GEN.bin
+DB -> IND48771GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47510GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47510GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48772GEN.bin
+DB -> IND48773GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47327GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47327GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48774GEN.bin
+DB -> IND48775GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47818GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47818GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48776GEN.bin
+DB -> IND48777GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47346GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47346GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48778GEN.bin
+DB -> IND48779GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47091GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47091GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48780GEN.bin
+DB -> IND48781GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47400GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47400GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48782GEN.bin
+DB -> IND48783GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47722GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47722GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48784GEN.bin
+DB -> IND48785GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47130GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47130GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48786GEN.bin
+DB -> IND48787GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47890GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47890GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48788GEN.bin
+DB -> IND48789GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47410GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47410GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48790GEN.bin
+DB -> IND48791GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47362GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47362GEN.bin
+PA -> PB Punto de inicio del ciclo -> 15
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48792GEN.bin
+DB -> IND48793GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47711GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47711GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48794GEN.bin
+DB -> IND48795GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47330GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47330GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48796GEN.bin
+DB -> IND48797GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47855GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47855GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48798GEN.bin
+DB -> IND48799GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47135GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47135GEN.bin
+PA -> PB Punto de inicio del ciclo -> 15
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48800GEN.bin
+DB -> IND48801GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47864GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47864GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48802GEN.bin
+DB -> IND48803GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47391GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47391GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 21
+DA -> IND48804GEN.bin
+DB -> IND48805GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47471GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47471GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48806GEN.bin
+DB -> IND48807GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47056GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47056GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48808GEN.bin
+DB -> IND48809GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47207GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47207GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48810GEN.bin
+DB -> IND48811GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47890GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47890GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48812GEN.bin
+DB -> IND48813GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47695GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47695GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48814GEN.bin
+DB -> IND48815GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47228GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47228GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48816GEN.bin
+DB -> IND48817GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47380GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47380GEN.bin
+PA -> PB Punto de inicio del ciclo -> 17
+PB -> PA Punto de inicio del ciclo -> 9
+DA -> IND48818GEN.bin
+DB -> IND48819GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47179GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47179GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48820GEN.bin
+DB -> IND48821GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47136GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47136GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 15
+DA -> IND48822GEN.bin
+DB -> IND48823GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47815GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47815GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48824GEN.bin
+DB -> IND48825GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47463GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47463GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48826GEN.bin
+DB -> IND48827GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47099GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47099GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48828GEN.bin
+DB -> IND48829GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47576GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47576GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48830GEN.bin
+DB -> IND48831GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47945GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47945GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48832GEN.bin
+DB -> IND48833GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47308GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47308GEN.bin
+PA -> PB Punto de inicio del ciclo -> 8
+PB -> PA Punto de inicio del ciclo -> 11
+DA -> IND48834GEN.bin
+DB -> IND48835GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47947GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47947GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48836GEN.bin
+DB -> IND48837GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47779GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47779GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48838GEN.bin
+DB -> IND48839GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47656GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47656GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48840GEN.bin
+DB -> IND48841GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47617GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47617GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48842GEN.bin
+DB -> IND48843GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47374GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47374GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48844GEN.bin
+DB -> IND48845GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46964GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46964GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48846GEN.bin
+DB -> IND48847GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47396GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47396GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48848GEN.bin
+DB -> IND48849GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47099GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47099GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48850GEN.bin
+DB -> IND48851GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47138GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47138GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48852GEN.bin
+DB -> IND48853GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47608GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47608GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 11
+DA -> IND48854GEN.bin
+DB -> IND48855GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47023GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47023GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48856GEN.bin
+DB -> IND48857GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47923GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47923GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48858GEN.bin
+DB -> IND48859GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47679GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47679GEN.bin
+PA -> PB Punto de inicio del ciclo -> 18
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48860GEN.bin
+DB -> IND48861GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47414GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47414GEN.bin
+PA -> PB Punto de inicio del ciclo -> 16
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48862GEN.bin
+DB -> IND48863GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47638GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47638GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48864GEN.bin
+DB -> IND48865GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47661GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47661GEN.bin
+PA -> PB Punto de inicio del ciclo -> 14
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48866GEN.bin
+DB -> IND48867GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47674GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47674GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48868GEN.bin
+DB -> IND48869GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47507GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47507GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48870GEN.bin
+DB -> IND48871GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47687GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47687GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48872GEN.bin
+DB -> IND48873GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47943GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47943GEN.bin
+PA -> PB Punto de inicio del ciclo -> 15
+PB -> PA Punto de inicio del ciclo -> 19
+DA -> IND48874GEN.bin
+DB -> IND48875GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47289GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47289GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48876GEN.bin
+DB -> IND48877GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47189GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47189GEN.bin
+PA -> PB Punto de inicio del ciclo -> 13
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48878GEN.bin
+DB -> IND48879GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47433GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47433GEN.bin
+PA -> PB Punto de inicio del ciclo -> 12
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48880GEN.bin
+DB -> IND48881GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47231GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47231GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48882GEN.bin
+DB -> IND48883GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47217GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47217GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND48884GEN.bin
+DB -> IND48885GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47258GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47258GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 16
+DA -> IND48886GEN.bin
+DB -> IND48887GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47730GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47730GEN.bin
+PA -> PB Punto de inicio del ciclo -> 20
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48888GEN.bin
+DB -> IND48889GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47330GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47330GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 13
+DA -> IND48890GEN.bin
+DB -> IND48891GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47209GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47209GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 24
+DA -> IND48892GEN.bin
+DB -> IND48893GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47124GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47124GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 6
+DA -> IND48894GEN.bin
+DB -> IND48895GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47753GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47753GEN.bin
+PA -> PB Punto de inicio del ciclo -> 23
+PB -> PA Punto de inicio del ciclo -> 8
+DA -> IND48896GEN.bin
+DB -> IND48897GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47662GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47662GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48898GEN.bin
+DB -> IND48899GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47719GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47719GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48900GEN.bin
+DB -> IND48901GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47178GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47178GEN.bin
+PA -> PB Punto de inicio del ciclo -> 24
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48902GEN.bin
+DB -> IND48903GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47230GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47230GEN.bin
+PA -> PB Punto de inicio del ciclo -> 8
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48904GEN.bin
+DB -> IND48905GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47048GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47048GEN.bin
+PA -> PB Punto de inicio del ciclo -> 21
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48906GEN.bin
+DB -> IND48907GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47926GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47926GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 2
+DA -> IND48908GEN.bin
+DB -> IND48909GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47487GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47487GEN.bin
+PA -> PB Punto de inicio del ciclo -> 9
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48910GEN.bin
+DB -> IND48911GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47707GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47707GEN.bin
+PA -> PB Punto de inicio del ciclo -> 4
+PB -> PA Punto de inicio del ciclo -> 5
+DA -> IND48912GEN.bin
+DB -> IND48913GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47001GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47001GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48914GEN.bin
+DB -> IND48915GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47621GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47621GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 4
+DA -> IND48916GEN.bin
+DB -> IND48917GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47916GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47916GEN.bin
+No se cruzaron, pasan a la sig generacion 
+DA -> IND48918GEN.bin
+DB -> IND48919GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47416GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47416GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 1
+DA -> IND48920GEN.bin
+DB -> IND48921GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47581GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47581GEN.bin
+PA -> PB Punto de inicio del ciclo -> 5
+PB -> PA Punto de inicio del ciclo -> 22
+DA -> IND48922GEN.bin
+DB -> IND48923GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47391GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47391GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48924GEN.bin
+DB -> IND48925GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47608GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47608GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 10
+DA -> IND48926GEN.bin
+DB -> IND48927GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47652GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47652GEN.bin
+PA -> PB Punto de inicio del ciclo -> 22
+PB -> PA Punto de inicio del ciclo -> 11
+DA -> IND48928GEN.bin
+DB -> IND48929GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47267GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47267GEN.bin
+PA -> PB Punto de inicio del ciclo -> 26
+PB -> PA Punto de inicio del ciclo -> 14
+DA -> IND48930GEN.bin
+DB -> IND48931GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47477GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47477GEN.bin
+PA -> PB Punto de inicio del ciclo -> 1
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48932GEN.bin
+DB -> IND48933GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47885GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47885GEN.bin
+PA -> PB Punto de inicio del ciclo -> 3
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48934GEN.bin
+DB -> IND48935GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46965GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND46965GEN.bin
+PA -> PB Punto de inicio del ciclo -> 2
+PB -> PA Punto de inicio del ciclo -> 18
+DA -> IND48936GEN.bin
+DB -> IND48937GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47053GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47053GEN.bin
+PA -> PB Punto de inicio del ciclo -> 11
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48938GEN.bin
+DB -> IND48939GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47768GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47768GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 20
+DA -> IND48940GEN.bin
+DB -> IND48941GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47649GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47649GEN.bin
+PA -> PB Punto de inicio del ciclo -> 0
+PB -> PA Punto de inicio del ciclo -> 3
+DA -> IND48942GEN.bin
+DB -> IND48943GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47445GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47445GEN.bin
+PA -> PB Punto de inicio del ciclo -> 10
+PB -> PA Punto de inicio del ciclo -> 7
+DA -> IND48944GEN.bin
+DB -> IND48945GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47086GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47086GEN.bin
+PA -> PB Punto de inicio del ciclo -> 7
+PB -> PA Punto de inicio del ciclo -> 23
+DA -> IND48946GEN.bin
+DB -> IND48947GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47778GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47778GEN.bin
+PA -> PB Punto de inicio del ciclo -> 19
+PB -> PA Punto de inicio del ciclo -> 17
+DA -> IND48948GEN.bin
+DB -> IND48949GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47532GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47532GEN.bin
+PA -> PB Punto de inicio del ciclo -> 6
+PB -> PA Punto de inicio del ciclo -> 0
+DA -> IND48950GEN.bin
+DB -> IND48951GEN.bin
+------------------------------------------------------------
+PA -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47152GEN.bin
+PB -> C:\Users\Alfre\Desktop\ag-reinas\WORK\ACTGEN_48_\POPULATION\IND47152GEN.bin
+PA -> PB Punto de inicio del ciclo -> 25
+PB -> PA Punto de inicio del ciclo -> 12
+DA -> IND48952GEN.bin
+------------------------------------------------------------
+
+***************************************************************************

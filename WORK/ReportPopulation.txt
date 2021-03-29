@@ -1,0 +1,12 @@
+*****************************  REPORTE  **********************************
+Ruta de trabajo (-FWORK): C:\Users\Alfre\Desktop\ag-reinas\WORK
+Path de individuos: 
+-FWORK + -FNEXT + -FPOP: C:\Users\Alfre\Desktop\ag-reinas\WORK\NEXTGEN\POPULATION
+Numero de individuos generados (-NI): 1000
+Nombres de individuos generados: 
+(-PRE + -INF + -POS): IND(1-1000)GEN
+Representación (-REPEAT): false -> Permutaciones 
+Valor mínimo permitido en los genes (-VMININT): 1
+Valor máximo permitido en los genes (-VMAXINT): 26
+Número de genes (-NGEN): 27
+***************************************************************************

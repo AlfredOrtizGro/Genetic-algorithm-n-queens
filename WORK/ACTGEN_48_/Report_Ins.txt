@@ -1,0 +1,3214 @@
+*****************************  REPORTE  **********************************
+-FWORK C:/Users/Alfre/Desktop/ag-reinas/WORK
+-NEXTG NEXTGEN
+-FPOP POPULATION
+-PMUT 0.6
+
+**************** DETALLE ****************
+
+Validación de padres
+Suma de valores -> 378.0
+------------------------------------------
+Individuo IND46955GEN.bin no mutó 
+------------------------------------------
+Individuo IND46956GEN.bin no mutó 
+------------------------------------------
+Individuo IND46957GEN.bin no mutó 
+------------------------------------------
+Individuo IND46958GEN.bin no mutó 
+------------------------------------------
+Individuo IND46959GEN.bin no mutó 
+------------------------------------------
+Individuo IND46960GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 5
+ Gen a insertar 18
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 19
+ Gen a insertar 4
+------------------------------------------
+Individuo IND46961GEN.bin no mutó 
+------------------------------------------
+Individuo IND46962GEN.bin no mutó 
+------------------------------------------
+Individuo IND46963GEN.bin no mutó 
+------------------------------------------
+Individuo IND46964GEN.bin no mutó 
+------------------------------------------
+Individuo IND46965GEN.bin no mutó 
+------------------------------------------
+Individuo IND46966GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 19
+ Gen a insertar 11
+------------------------------------------
+Individuo IND46967GEN.bin no mutó 
+------------------------------------------
+Individuo IND46968GEN.bin no mutó 
+------------------------------------------
+Individuo IND46969GEN.bin no mutó 
+------------------------------------------
+Individuo IND46970GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 14
+ Gen a insertar 9
+------------------------------------------
+Individuo IND46971GEN.bin no mutó 
+------------------------------------------
+Individuo IND46972GEN.bin no mutó 
+------------------------------------------
+Individuo IND46973GEN.bin no mutó 
+------------------------------------------
+Individuo IND46974GEN.bin no mutó 
+------------------------------------------
+Individuo IND46975GEN.bin no mutó 
+------------------------------------------
+Individuo IND46976GEN.bin no mutó 
+------------------------------------------
+Individuo IND46977GEN.bin no mutó 
+------------------------------------------
+Individuo IND46978GEN.bin no mutó 
+------------------------------------------
+Individuo IND46979GEN.bin no mutó 
+------------------------------------------
+Individuo IND46980GEN.bin no mutó 
+------------------------------------------
+Individuo IND46981GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 6
+ Gen a insertar 22
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 24
+ Gen a insertar 17
+------------------------------------------
+Individuo IND46982GEN.bin no mutó 
+------------------------------------------
+Individuo IND46983GEN.bin no mutó 
+------------------------------------------
+Individuo IND46984GEN.bin no mutó 
+------------------------------------------
+Individuo IND46985GEN.bin no mutó 
+------------------------------------------
+Individuo IND46986GEN.bin no mutó 
+------------------------------------------
+Individuo IND46987GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 25
+ Gen a insertar 9
+------------------------------------------
+Individuo IND46988GEN.bin no mutó 
+------------------------------------------
+Individuo IND46989GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 2
+ Gen a insertar 1
+------------------------------------------
+Individuo IND46990GEN.bin no mutó 
+------------------------------------------
+Individuo IND46991GEN.bin no mutó 
+------------------------------------------
+Individuo IND46992GEN.bin no mutó 
+------------------------------------------
+Individuo IND46993GEN.bin no mutó 
+------------------------------------------
+Individuo IND46994GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 16
+ Gen a insertar 4
+------------------------------------------
+Individuo IND46995GEN.bin no mutó 
+------------------------------------------
+Individuo IND46996GEN.bin no mutó 
+------------------------------------------
+Individuo IND46997GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 18
+ Gen a insertar 6
+------------------------------------------
+Individuo IND46998GEN.bin no mutó 
+------------------------------------------
+Individuo IND46999GEN.bin no mutó 
+------------------------------------------
+Individuo IND47000GEN.bin no mutó 
+------------------------------------------
+Individuo IND47001GEN.bin no mutó 
+------------------------------------------
+Individuo IND47002GEN.bin no mutó 
+------------------------------------------
+Individuo IND47003GEN.bin no mutó 
+------------------------------------------
+Individuo IND47004GEN.bin no mutó 
+------------------------------------------
+Individuo IND47005GEN.bin no mutó 
+------------------------------------------
+Individuo IND47006GEN.bin no mutó 
+------------------------------------------
+Individuo IND47007GEN.bin no mutó 
+------------------------------------------
+Individuo IND47008GEN.bin no mutó 
+------------------------------------------
+Individuo IND47009GEN.bin no mutó 
+------------------------------------------
+Individuo IND47010GEN.bin no mutó 
+------------------------------------------
+Individuo IND47011GEN.bin no mutó 
+------------------------------------------
+Individuo IND47012GEN.bin no mutó 
+------------------------------------------
+Individuo IND47013GEN.bin no mutó 
+------------------------------------------
+Individuo IND47014GEN.bin no mutó 
+------------------------------------------
+Individuo IND47015GEN.bin no mutó 
+------------------------------------------
+Individuo IND47016GEN.bin no mutó 
+------------------------------------------
+Individuo IND47017GEN.bin no mutó 
+------------------------------------------
+Individuo IND47018GEN.bin no mutó 
+------------------------------------------
+Individuo IND47019GEN.bin no mutó 
+------------------------------------------
+Individuo IND47020GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 19
+ Gen a insertar 4
+------------------------------------------
+Individuo IND47021GEN.bin no mutó 
+------------------------------------------
+Individuo IND47022GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 15
+ Gen a insertar 23
+------------------------------------------
+Individuo IND47023GEN.bin no mutó 
+------------------------------------------
+Individuo IND47024GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 20
+ Gen a insertar 14
+------------------------------------------
+Individuo IND47025GEN.bin no mutó 
+------------------------------------------
+Individuo IND47026GEN.bin no mutó 
+------------------------------------------
+Individuo IND47027GEN.bin no mutó 
+------------------------------------------
+Individuo IND47028GEN.bin no mutó 
+------------------------------------------
+Individuo IND47029GEN.bin no mutó 
+------------------------------------------
+Individuo IND47030GEN.bin no mutó 
+------------------------------------------
+Individuo IND47031GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 23
+ Gen a insertar 20
+------------------------------------------
+Individuo IND47032GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 18
+ Gen a insertar 24
+------------------------------------------
+Individuo IND47033GEN.bin no mutó 
+------------------------------------------
+Individuo IND47034GEN.bin no mutó 
+------------------------------------------
+Individuo IND47035GEN.bin no mutó 
+------------------------------------------
+Individuo IND47036GEN.bin no mutó 
+------------------------------------------
+Individuo IND47037GEN.bin no mutó 
+------------------------------------------
+Individuo IND47038GEN.bin no mutó 
+------------------------------------------
+Individuo IND47039GEN.bin no mutó 
+------------------------------------------
+Individuo IND47040GEN.bin no mutó 
+------------------------------------------
+Individuo IND47041GEN.bin no mutó 
+------------------------------------------
+Individuo IND47042GEN.bin no mutó 
+------------------------------------------
+Individuo IND47043GEN.bin no mutó 
+------------------------------------------
+Individuo IND47044GEN.bin no mutó 
+------------------------------------------
+Individuo IND47045GEN.bin no mutó 
+------------------------------------------
+Individuo IND47046GEN.bin no mutó 
+------------------------------------------
+Individuo IND47047GEN.bin no mutó 
+------------------------------------------
+Individuo IND47048GEN.bin no mutó 
+------------------------------------------
+Individuo IND47049GEN.bin no mutó 
+------------------------------------------
+Individuo IND47050GEN.bin no mutó 
+------------------------------------------
+Individuo IND47051GEN.bin no mutó 
+------------------------------------------
+Individuo IND47052GEN.bin no mutó 
+------------------------------------------
+Individuo IND47053GEN.bin no mutó 
+------------------------------------------
+Individuo IND47054GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 17
+ Gen a insertar 5
+------------------------------------------
+Individuo IND47055GEN.bin no mutó 
+------------------------------------------
+Individuo IND47056GEN.bin no mutó 
+------------------------------------------
+Individuo IND47057GEN.bin no mutó 
+------------------------------------------
+Individuo IND47058GEN.bin no mutó 
+------------------------------------------
+Individuo IND47059GEN.bin no mutó 
+------------------------------------------
+Individuo IND47060GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 24
+ Gen a insertar 2
+------------------------------------------
+Individuo IND47061GEN.bin no mutó 
+------------------------------------------
+Individuo IND47062GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 23
+ Gen a insertar 1
+------------------------------------------
+Individuo IND47063GEN.bin no mutó 
+------------------------------------------
+Individuo IND47064GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 22
+ Gen a insertar 15
+------------------------------------------
+Individuo IND47065GEN.bin no mutó 
+------------------------------------------
+Individuo IND47066GEN.bin no mutó 
+------------------------------------------
+Individuo IND47067GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 17
+ Gen a insertar 12
+------------------------------------------
+Individuo IND47068GEN.bin no mutó 
+------------------------------------------
+Individuo IND47069GEN.bin no mutó 
+------------------------------------------
+Individuo IND47070GEN.bin no mutó 
+------------------------------------------
+Individuo IND47071GEN.bin no mutó 
+------------------------------------------
+Individuo IND47072GEN.bin no mutó 
+------------------------------------------
+Individuo IND47073GEN.bin no mutó 
+------------------------------------------
+Individuo IND47074GEN.bin no mutó 
+------------------------------------------
+Individuo IND47075GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 18
+ Gen a insertar 1
+------------------------------------------
+Individuo IND47076GEN.bin no mutó 
+------------------------------------------
+Individuo IND47077GEN.bin no mutó 
+------------------------------------------
+Individuo IND47078GEN.bin no mutó 
+------------------------------------------
+Individuo IND47079GEN.bin no mutó 
+------------------------------------------
+Individuo IND47080GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 7
+ Gen a insertar 21
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 13
+ Gen a insertar 14
+------------------------------------------
+Individuo IND47081GEN.bin no mutó 
+------------------------------------------
+Individuo IND47082GEN.bin no mutó 
+------------------------------------------
+Individuo IND47083GEN.bin no mutó 
+------------------------------------------
+Individuo IND47084GEN.bin no mutó 
+------------------------------------------
+Individuo IND47085GEN.bin no mutó 
+------------------------------------------
+Individuo IND47086GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 19
+ Gen a insertar 19
+------------------------------------------
+Individuo IND47087GEN.bin no mutó 
+------------------------------------------
+Individuo IND47088GEN.bin no mutó 
+------------------------------------------
+Individuo IND47089GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 5
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47090GEN.bin no mutó 
+------------------------------------------
+Individuo IND47091GEN.bin no mutó 
+------------------------------------------
+Individuo IND47092GEN.bin no mutó 
+------------------------------------------
+Individuo IND47093GEN.bin no mutó 
+------------------------------------------
+Individuo IND47094GEN.bin no mutó 
+------------------------------------------
+Individuo IND47095GEN.bin no mutó 
+------------------------------------------
+Individuo IND47096GEN.bin no mutó 
+------------------------------------------
+Individuo IND47097GEN.bin no mutó 
+------------------------------------------
+Individuo IND47098GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 21
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47099GEN.bin no mutó 
+------------------------------------------
+Individuo IND47100GEN.bin no mutó 
+------------------------------------------
+Individuo IND47101GEN.bin no mutó 
+------------------------------------------
+Individuo IND47102GEN.bin no mutó 
+------------------------------------------
+Individuo IND47103GEN.bin no mutó 
+------------------------------------------
+Individuo IND47104GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 18
+ Gen a insertar 1
+------------------------------------------
+Individuo IND47105GEN.bin no mutó 
+------------------------------------------
+Individuo IND47106GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 25
+ Gen a insertar 18
+------------------------------------------
+Individuo IND47107GEN.bin no mutó 
+------------------------------------------
+Individuo IND47108GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 21
+ Gen a insertar 7
+------------------------------------------
+Individuo IND47109GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 13
+ Gen a insertar 23
+------------------------------------------
+Individuo IND47110GEN.bin no mutó 
+------------------------------------------
+Individuo IND47111GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 21
+ Gen a insertar 18
+------------------------------------------
+Individuo IND47112GEN.bin no mutó 
+------------------------------------------
+Individuo IND47113GEN.bin no mutó 
+------------------------------------------
+Individuo IND47114GEN.bin no mutó 
+------------------------------------------
+Individuo IND47115GEN.bin no mutó 
+------------------------------------------
+Individuo IND47116GEN.bin no mutó 
+------------------------------------------
+Individuo IND47117GEN.bin no mutó 
+------------------------------------------
+Individuo IND47118GEN.bin no mutó 
+------------------------------------------
+Individuo IND47119GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 24
+ Gen a insertar 19
+------------------------------------------
+Individuo IND47120GEN.bin no mutó 
+------------------------------------------
+Individuo IND47121GEN.bin no mutó 
+------------------------------------------
+Individuo IND47122GEN.bin no mutó 
+------------------------------------------
+Individuo IND47123GEN.bin no mutó 
+------------------------------------------
+Individuo IND47124GEN.bin no mutó 
+------------------------------------------
+Individuo IND47125GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 19
+ Gen a insertar 26
+------------------------------------------
+Individuo IND47126GEN.bin no mutó 
+------------------------------------------
+Individuo IND47127GEN.bin no mutó 
+------------------------------------------
+Individuo IND47128GEN.bin no mutó 
+------------------------------------------
+Individuo IND47129GEN.bin no mutó 
+------------------------------------------
+Individuo IND47130GEN.bin no mutó 
+------------------------------------------
+Individuo IND47131GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 15
+ Gen a insertar 25
+------------------------------------------
+Individuo IND47132GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 7
+ Gen a insertar 11
+------------------------------------------
+Individuo IND47133GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 16
+ Gen a insertar 10
+------------------------------------------
+Individuo IND47134GEN.bin no mutó 
+------------------------------------------
+Individuo IND47135GEN.bin no mutó 
+------------------------------------------
+Individuo IND47136GEN.bin no mutó 
+------------------------------------------
+Individuo IND47137GEN.bin no mutó 
+------------------------------------------
+Individuo IND47138GEN.bin no mutó 
+------------------------------------------
+Individuo IND47139GEN.bin no mutó 
+------------------------------------------
+Individuo IND47140GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 15
+ Gen a insertar 18
+------------------------------------------
+Individuo IND47141GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 19
+ Gen a insertar 2
+------------------------------------------
+Individuo IND47142GEN.bin no mutó 
+------------------------------------------
+Individuo IND47143GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 2
+ Gen a insertar 24
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 11
+ Gen a insertar 7
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 16
+ Gen a insertar 6
+------------------------------------------
+Individuo IND47144GEN.bin no mutó 
+------------------------------------------
+Individuo IND47145GEN.bin no mutó 
+------------------------------------------
+Individuo IND47146GEN.bin no mutó 
+------------------------------------------
+Individuo IND47147GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 12
+ Gen a insertar 18
+------------------------------------------
+Individuo IND47148GEN.bin no mutó 
+------------------------------------------
+Individuo IND47149GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 5
+ Gen a insertar 5
+------------------------------------------
+Individuo IND47150GEN.bin no mutó 
+------------------------------------------
+Individuo IND47151GEN.bin no mutó 
+------------------------------------------
+Individuo IND47152GEN.bin no mutó 
+------------------------------------------
+Individuo IND47153GEN.bin no mutó 
+------------------------------------------
+Individuo IND47154GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 8
+ Gen a insertar 24
+------------------------------------------
+Individuo IND47155GEN.bin no mutó 
+------------------------------------------
+Individuo IND47156GEN.bin no mutó 
+------------------------------------------
+Individuo IND47157GEN.bin no mutó 
+------------------------------------------
+Individuo IND47158GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 26
+ Gen a insertar 20
+------------------------------------------
+Individuo IND47159GEN.bin no mutó 
+------------------------------------------
+Individuo IND47160GEN.bin no mutó 
+------------------------------------------
+Individuo IND47161GEN.bin no mutó 
+------------------------------------------
+Individuo IND47162GEN.bin no mutó 
+------------------------------------------
+Individuo IND47163GEN.bin no mutó 
+------------------------------------------
+Individuo IND47164GEN.bin no mutó 
+------------------------------------------
+Individuo IND47165GEN.bin no mutó 
+------------------------------------------
+Individuo IND47166GEN.bin no mutó 
+------------------------------------------
+Individuo IND47167GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 19
+ Gen a insertar 7
+------------------------------------------
+Individuo IND47168GEN.bin no mutó 
+------------------------------------------
+Individuo IND47169GEN.bin no mutó 
+------------------------------------------
+Individuo IND47170GEN.bin no mutó 
+------------------------------------------
+Individuo IND47171GEN.bin no mutó 
+------------------------------------------
+Individuo IND47172GEN.bin no mutó 
+------------------------------------------
+Individuo IND47173GEN.bin no mutó 
+------------------------------------------
+Individuo IND47174GEN.bin no mutó 
+------------------------------------------
+Individuo IND47175GEN.bin no mutó 
+------------------------------------------
+Individuo IND47176GEN.bin no mutó 
+------------------------------------------
+Individuo IND47177GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 16
+ Gen a insertar 21
+------------------------------------------
+Individuo IND47178GEN.bin no mutó 
+------------------------------------------
+Individuo IND47179GEN.bin no mutó 
+------------------------------------------
+Individuo IND47180GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 3
+ Gen a insertar 24
+------------------------------------------
+Individuo IND47181GEN.bin no mutó 
+------------------------------------------
+Individuo IND47182GEN.bin no mutó 
+------------------------------------------
+Individuo IND47183GEN.bin no mutó 
+------------------------------------------
+Individuo IND47184GEN.bin no mutó 
+------------------------------------------
+Individuo IND47185GEN.bin no mutó 
+------------------------------------------
+Individuo IND47186GEN.bin no mutó 
+------------------------------------------
+Individuo IND47187GEN.bin no mutó 
+------------------------------------------
+Individuo IND47188GEN.bin no mutó 
+------------------------------------------
+Individuo IND47189GEN.bin no mutó 
+------------------------------------------
+Individuo IND47190GEN.bin no mutó 
+------------------------------------------
+Individuo IND47191GEN.bin no mutó 
+------------------------------------------
+Individuo IND47192GEN.bin no mutó 
+------------------------------------------
+Individuo IND47193GEN.bin no mutó 
+------------------------------------------
+Individuo IND47194GEN.bin no mutó 
+------------------------------------------
+Individuo IND47195GEN.bin no mutó 
+------------------------------------------
+Individuo IND47196GEN.bin no mutó 
+------------------------------------------
+Individuo IND47197GEN.bin no mutó 
+------------------------------------------
+Individuo IND47198GEN.bin no mutó 
+------------------------------------------
+Individuo IND47199GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 10
+ Gen a insertar 13
+------------------------------------------
+Individuo IND47200GEN.bin no mutó 
+------------------------------------------
+Individuo IND47201GEN.bin no mutó 
+------------------------------------------
+Individuo IND47202GEN.bin no mutó 
+------------------------------------------
+Individuo IND47203GEN.bin no mutó 
+------------------------------------------
+Individuo IND47204GEN.bin no mutó 
+------------------------------------------
+Individuo IND47205GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 16
+ Gen a insertar 15
+------------------------------------------
+Individuo IND47206GEN.bin no mutó 
+------------------------------------------
+Individuo IND47207GEN.bin no mutó 
+------------------------------------------
+Individuo IND47208GEN.bin no mutó 
+------------------------------------------
+Individuo IND47209GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 2
+ Gen a insertar 2
+------------------------------------------
+Individuo IND47210GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 22
+ Gen a insertar 18
+------------------------------------------
+Individuo IND47211GEN.bin no mutó 
+------------------------------------------
+Individuo IND47212GEN.bin no mutó 
+------------------------------------------
+Individuo IND47213GEN.bin no mutó 
+------------------------------------------
+Individuo IND47214GEN.bin no mutó 
+------------------------------------------
+Individuo IND47215GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 6
+ Gen a insertar 4
+------------------------------------------
+Individuo IND47216GEN.bin no mutó 
+------------------------------------------
+Individuo IND47217GEN.bin no mutó 
+------------------------------------------
+Individuo IND47218GEN.bin no mutó 
+------------------------------------------
+Individuo IND47219GEN.bin no mutó 
+------------------------------------------
+Individuo IND47220GEN.bin no mutó 
+------------------------------------------
+Individuo IND47221GEN.bin no mutó 
+------------------------------------------
+Individuo IND47222GEN.bin no mutó 
+------------------------------------------
+Individuo IND47223GEN.bin no mutó 
+------------------------------------------
+Individuo IND47224GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 6
+ Gen a insertar 5
+------------------------------------------
+Individuo IND47225GEN.bin no mutó 
+------------------------------------------
+Individuo IND47226GEN.bin no mutó 
+------------------------------------------
+Individuo IND47227GEN.bin no mutó 
+------------------------------------------
+Individuo IND47228GEN.bin no mutó 
+------------------------------------------
+Individuo IND47229GEN.bin no mutó 
+------------------------------------------
+Individuo IND47230GEN.bin no mutó 
+------------------------------------------
+Individuo IND47231GEN.bin no mutó 
+------------------------------------------
+Individuo IND47232GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 11
+ Gen a insertar 6
+------------------------------------------
+Individuo IND47233GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 8
+ Gen a insertar 20
+------------------------------------------
+Individuo IND47234GEN.bin no mutó 
+------------------------------------------
+Individuo IND47235GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 3
+ Gen a insertar 24
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 25
+ Gen a insertar 26
+------------------------------------------
+Individuo IND47236GEN.bin no mutó 
+------------------------------------------
+Individuo IND47237GEN.bin no mutó 
+------------------------------------------
+Individuo IND47238GEN.bin no mutó 
+------------------------------------------
+Individuo IND47239GEN.bin no mutó 
+------------------------------------------
+Individuo IND47240GEN.bin no mutó 
+------------------------------------------
+Individuo IND47241GEN.bin no mutó 
+------------------------------------------
+Individuo IND47242GEN.bin no mutó 
+------------------------------------------
+Individuo IND47243GEN.bin no mutó 
+------------------------------------------
+Individuo IND47244GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 23
+ Gen a insertar 25
+------------------------------------------
+Individuo IND47245GEN.bin no mutó 
+------------------------------------------
+Individuo IND47246GEN.bin no mutó 
+------------------------------------------
+Individuo IND47247GEN.bin no mutó 
+------------------------------------------
+Individuo IND47248GEN.bin no mutó 
+------------------------------------------
+Individuo IND47249GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 17
+ Gen a insertar 2
+------------------------------------------
+Individuo IND47250GEN.bin no mutó 
+------------------------------------------
+Individuo IND47251GEN.bin no mutó 
+------------------------------------------
+Individuo IND47252GEN.bin no mutó 
+------------------------------------------
+Individuo IND47253GEN.bin no mutó 
+------------------------------------------
+Individuo IND47254GEN.bin no mutó 
+------------------------------------------
+Individuo IND47255GEN.bin no mutó 
+------------------------------------------
+Individuo IND47256GEN.bin no mutó 
+------------------------------------------
+Individuo IND47257GEN.bin no mutó 
+------------------------------------------
+Individuo IND47258GEN.bin no mutó 
+------------------------------------------
+Individuo IND47259GEN.bin no mutó 
+------------------------------------------
+Individuo IND47260GEN.bin no mutó 
+------------------------------------------
+Individuo IND47261GEN.bin no mutó 
+------------------------------------------
+Individuo IND47262GEN.bin no mutó 
+------------------------------------------
+Individuo IND47263GEN.bin no mutó 
+------------------------------------------
+Individuo IND47264GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 15
+ Gen a insertar 18
+------------------------------------------
+Individuo IND47265GEN.bin no mutó 
+------------------------------------------
+Individuo IND47266GEN.bin no mutó 
+------------------------------------------
+Individuo IND47267GEN.bin no mutó 
+------------------------------------------
+Individuo IND47268GEN.bin no mutó 
+------------------------------------------
+Individuo IND47269GEN.bin no mutó 
+------------------------------------------
+Individuo IND47270GEN.bin no mutó 
+------------------------------------------
+Individuo IND47271GEN.bin no mutó 
+------------------------------------------
+Individuo IND47272GEN.bin no mutó 
+------------------------------------------
+Individuo IND47273GEN.bin no mutó 
+------------------------------------------
+Individuo IND47274GEN.bin no mutó 
+------------------------------------------
+Individuo IND47275GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 2
+ Gen a insertar 9
+------------------------------------------
+Individuo IND47276GEN.bin no mutó 
+------------------------------------------
+Individuo IND47277GEN.bin no mutó 
+------------------------------------------
+Individuo IND47278GEN.bin no mutó 
+------------------------------------------
+Individuo IND47279GEN.bin no mutó 
+------------------------------------------
+Individuo IND47280GEN.bin no mutó 
+------------------------------------------
+Individuo IND47281GEN.bin no mutó 
+------------------------------------------
+Individuo IND47282GEN.bin no mutó 
+------------------------------------------
+Individuo IND47283GEN.bin no mutó 
+------------------------------------------
+Individuo IND47284GEN.bin no mutó 
+------------------------------------------
+Individuo IND47285GEN.bin no mutó 
+------------------------------------------
+Individuo IND47286GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 11
+ Gen a insertar 10
+------------------------------------------
+Individuo IND47287GEN.bin no mutó 
+------------------------------------------
+Individuo IND47288GEN.bin no mutó 
+------------------------------------------
+Individuo IND47289GEN.bin no mutó 
+------------------------------------------
+Individuo IND47290GEN.bin no mutó 
+------------------------------------------
+Individuo IND47291GEN.bin no mutó 
+------------------------------------------
+Individuo IND47292GEN.bin no mutó 
+------------------------------------------
+Individuo IND47293GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 3
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47294GEN.bin no mutó 
+------------------------------------------
+Individuo IND47295GEN.bin no mutó 
+------------------------------------------
+Individuo IND47296GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 8
+ Gen a insertar 24
+------------------------------------------
+Individuo IND47297GEN.bin no mutó 
+------------------------------------------
+Individuo IND47298GEN.bin no mutó 
+------------------------------------------
+Individuo IND47299GEN.bin no mutó 
+------------------------------------------
+Individuo IND47300GEN.bin no mutó 
+------------------------------------------
+Individuo IND47301GEN.bin no mutó 
+------------------------------------------
+Individuo IND47302GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 9
+ Gen a insertar 25
+------------------------------------------
+Individuo IND47303GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 19
+ Gen a insertar 9
+------------------------------------------
+Individuo IND47304GEN.bin no mutó 
+------------------------------------------
+Individuo IND47305GEN.bin no mutó 
+------------------------------------------
+Individuo IND47306GEN.bin no mutó 
+------------------------------------------
+Individuo IND47307GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 11
+ Gen a insertar 5
+------------------------------------------
+Individuo IND47308GEN.bin no mutó 
+------------------------------------------
+Individuo IND47309GEN.bin no mutó 
+------------------------------------------
+Individuo IND47310GEN.bin no mutó 
+------------------------------------------
+Individuo IND47311GEN.bin no mutó 
+------------------------------------------
+Individuo IND47312GEN.bin no mutó 
+------------------------------------------
+Individuo IND47313GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 20
+ Gen a insertar 14
+------------------------------------------
+Individuo IND47314GEN.bin no mutó 
+------------------------------------------
+Individuo IND47315GEN.bin no mutó 
+------------------------------------------
+Individuo IND47316GEN.bin no mutó 
+------------------------------------------
+Individuo IND47317GEN.bin no mutó 
+------------------------------------------
+Individuo IND47318GEN.bin no mutó 
+------------------------------------------
+Individuo IND47319GEN.bin no mutó 
+------------------------------------------
+Individuo IND47320GEN.bin no mutó 
+------------------------------------------
+Individuo IND47321GEN.bin no mutó 
+------------------------------------------
+Individuo IND47322GEN.bin no mutó 
+------------------------------------------
+Individuo IND47323GEN.bin no mutó 
+------------------------------------------
+Individuo IND47324GEN.bin no mutó 
+------------------------------------------
+Individuo IND47325GEN.bin no mutó 
+------------------------------------------
+Individuo IND47326GEN.bin no mutó 
+------------------------------------------
+Individuo IND47327GEN.bin no mutó 
+------------------------------------------
+Individuo IND47328GEN.bin no mutó 
+------------------------------------------
+Individuo IND47329GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 5
+ Gen a insertar 26
+------------------------------------------
+Individuo IND47330GEN.bin no mutó 
+------------------------------------------
+Individuo IND47331GEN.bin no mutó 
+------------------------------------------
+Individuo IND47332GEN.bin no mutó 
+------------------------------------------
+Individuo IND47333GEN.bin no mutó 
+------------------------------------------
+Individuo IND47334GEN.bin no mutó 
+------------------------------------------
+Individuo IND47335GEN.bin no mutó 
+------------------------------------------
+Individuo IND47336GEN.bin no mutó 
+------------------------------------------
+Individuo IND47337GEN.bin no mutó 
+------------------------------------------
+Individuo IND47338GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 0
+ Gen a insertar 10
+------------------------------------------
+Individuo IND47339GEN.bin no mutó 
+------------------------------------------
+Individuo IND47340GEN.bin no mutó 
+------------------------------------------
+Individuo IND47341GEN.bin no mutó 
+------------------------------------------
+Individuo IND47342GEN.bin no mutó 
+------------------------------------------
+Individuo IND47343GEN.bin no mutó 
+------------------------------------------
+Individuo IND47344GEN.bin no mutó 
+------------------------------------------
+Individuo IND47345GEN.bin no mutó 
+------------------------------------------
+Individuo IND47346GEN.bin no mutó 
+------------------------------------------
+Individuo IND47347GEN.bin no mutó 
+------------------------------------------
+Individuo IND47348GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 24
+ Gen a insertar 9
+------------------------------------------
+Individuo IND47349GEN.bin no mutó 
+------------------------------------------
+Individuo IND47350GEN.bin no mutó 
+------------------------------------------
+Individuo IND47351GEN.bin no mutó 
+------------------------------------------
+Individuo IND47352GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 3
+ Gen a insertar 23
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 19
+ Gen a insertar 17
+------------------------------------------
+Individuo IND47353GEN.bin no mutó 
+------------------------------------------
+Individuo IND47354GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 2
+ Gen a insertar 0
+------------------------------------------
+Individuo IND47355GEN.bin no mutó 
+------------------------------------------
+Individuo IND47356GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 0
+ Gen a insertar 19
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 6
+ Gen a insertar 25
+------------------------------------------
+Individuo IND47357GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 7
+ Gen a insertar 21
+------------------------------------------
+Individuo IND47358GEN.bin no mutó 
+------------------------------------------
+Individuo IND47359GEN.bin no mutó 
+------------------------------------------
+Individuo IND47360GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 4
+ Gen a insertar 19
+------------------------------------------
+Individuo IND47361GEN.bin no mutó 
+------------------------------------------
+Individuo IND47362GEN.bin no mutó 
+------------------------------------------
+Individuo IND47363GEN.bin no mutó 
+------------------------------------------
+Individuo IND47364GEN.bin no mutó 
+------------------------------------------
+Individuo IND47365GEN.bin no mutó 
+------------------------------------------
+Individuo IND47366GEN.bin no mutó 
+------------------------------------------
+Individuo IND47367GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 6
+ Gen a insertar 25
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 7
+ Gen a insertar 4
+------------------------------------------
+Individuo IND47368GEN.bin no mutó 
+------------------------------------------
+Individuo IND47369GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 10
+ Gen a insertar 3
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 12
+ Gen a insertar 9
+------------------------------------------
+Individuo IND47370GEN.bin no mutó 
+------------------------------------------
+Individuo IND47371GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 10
+ Gen a insertar 7
+------------------------------------------
+Individuo IND47372GEN.bin no mutó 
+------------------------------------------
+Individuo IND47373GEN.bin no mutó 
+------------------------------------------
+Individuo IND47374GEN.bin no mutó 
+------------------------------------------
+Individuo IND47375GEN.bin no mutó 
+------------------------------------------
+Individuo IND47376GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 12
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47377GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 16
+ Gen a insertar 6
+------------------------------------------
+Individuo IND47378GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 3
+ Gen a insertar 5
+------------------------------------------
+Individuo IND47379GEN.bin no mutó 
+------------------------------------------
+Individuo IND47380GEN.bin no mutó 
+------------------------------------------
+Individuo IND47381GEN.bin no mutó 
+------------------------------------------
+Individuo IND47382GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 9
+ Gen a insertar 4
+------------------------------------------
+Individuo IND47383GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 5
+ Gen a insertar 13
+------------------------------------------
+Individuo IND47384GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 21
+ Gen a insertar 16
+------------------------------------------
+Individuo IND47385GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 20
+ Gen a insertar 1
+------------------------------------------
+Individuo IND47386GEN.bin no mutó 
+------------------------------------------
+Individuo IND47387GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 23
+ Gen a insertar 19
+------------------------------------------
+Individuo IND47388GEN.bin no mutó 
+------------------------------------------
+Individuo IND47389GEN.bin no mutó 
+------------------------------------------
+Individuo IND47390GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 26
+ Gen a insertar 17
+------------------------------------------
+Individuo IND47391GEN.bin no mutó 
+------------------------------------------
+Individuo IND47392GEN.bin no mutó 
+------------------------------------------
+Individuo IND47393GEN.bin no mutó 
+------------------------------------------
+Individuo IND47394GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 13
+ Gen a insertar 18
+------------------------------------------
+Individuo IND47395GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 14
+ Gen a insertar 2
+------------------------------------------
+Individuo IND47396GEN.bin no mutó 
+------------------------------------------
+Individuo IND47397GEN.bin no mutó 
+------------------------------------------
+Individuo IND47398GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 24
+ Gen a insertar 16
+------------------------------------------
+Individuo IND47399GEN.bin no mutó 
+------------------------------------------
+Individuo IND47400GEN.bin no mutó 
+------------------------------------------
+Individuo IND47401GEN.bin no mutó 
+------------------------------------------
+Individuo IND47402GEN.bin no mutó 
+------------------------------------------
+Individuo IND47403GEN.bin no mutó 
+------------------------------------------
+Individuo IND47404GEN.bin no mutó 
+------------------------------------------
+Individuo IND47405GEN.bin no mutó 
+------------------------------------------
+Individuo IND47406GEN.bin no mutó 
+------------------------------------------
+Individuo IND47407GEN.bin no mutó 
+------------------------------------------
+Individuo IND47408GEN.bin no mutó 
+------------------------------------------
+Individuo IND47409GEN.bin no mutó 
+------------------------------------------
+Individuo IND47410GEN.bin no mutó 
+------------------------------------------
+Individuo IND47411GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 16
+ Gen a insertar 0
+------------------------------------------
+Individuo IND47412GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 19
+ Gen a insertar 4
+------------------------------------------
+Individuo IND47413GEN.bin no mutó 
+------------------------------------------
+Individuo IND47414GEN.bin no mutó 
+------------------------------------------
+Individuo IND47415GEN.bin no mutó 
+------------------------------------------
+Individuo IND47416GEN.bin no mutó 
+------------------------------------------
+Individuo IND47417GEN.bin no mutó 
+------------------------------------------
+Individuo IND47418GEN.bin no mutó 
+------------------------------------------
+Individuo IND47419GEN.bin no mutó 
+------------------------------------------
+Individuo IND47420GEN.bin no mutó 
+------------------------------------------
+Individuo IND47421GEN.bin no mutó 
+------------------------------------------
+Individuo IND47422GEN.bin no mutó 
+------------------------------------------
+Individuo IND47423GEN.bin no mutó 
+------------------------------------------
+Individuo IND47424GEN.bin no mutó 
+------------------------------------------
+Individuo IND47425GEN.bin no mutó 
+------------------------------------------
+Individuo IND47426GEN.bin no mutó 
+------------------------------------------
+Individuo IND47427GEN.bin no mutó 
+------------------------------------------
+Individuo IND47428GEN.bin no mutó 
+------------------------------------------
+Individuo IND47429GEN.bin no mutó 
+------------------------------------------
+Individuo IND47430GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 0
+ Gen a insertar 12
+------------------------------------------
+Individuo IND47431GEN.bin no mutó 
+------------------------------------------
+Individuo IND47432GEN.bin no mutó 
+------------------------------------------
+Individuo IND47433GEN.bin no mutó 
+------------------------------------------
+Individuo IND47434GEN.bin no mutó 
+------------------------------------------
+Individuo IND47435GEN.bin no mutó 
+------------------------------------------
+Individuo IND47436GEN.bin no mutó 
+------------------------------------------
+Individuo IND47437GEN.bin no mutó 
+------------------------------------------
+Individuo IND47438GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 21
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47439GEN.bin no mutó 
+------------------------------------------
+Individuo IND47440GEN.bin no mutó 
+------------------------------------------
+Individuo IND47441GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 23
+ Gen a insertar 14
+------------------------------------------
+Individuo IND47442GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 13
+ Gen a insertar 14
+------------------------------------------
+Individuo IND47443GEN.bin no mutó 
+------------------------------------------
+Individuo IND47444GEN.bin no mutó 
+------------------------------------------
+Individuo IND47445GEN.bin no mutó 
+------------------------------------------
+Individuo IND47446GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 1
+ Gen a insertar 21
+------------------------------------------
+Individuo IND47447GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 13
+ Gen a insertar 16
+------------------------------------------
+Individuo IND47448GEN.bin no mutó 
+------------------------------------------
+Individuo IND47449GEN.bin no mutó 
+------------------------------------------
+Individuo IND47450GEN.bin no mutó 
+------------------------------------------
+Individuo IND47451GEN.bin no mutó 
+------------------------------------------
+Individuo IND47452GEN.bin no mutó 
+------------------------------------------
+Individuo IND47453GEN.bin no mutó 
+------------------------------------------
+Individuo IND47454GEN.bin no mutó 
+------------------------------------------
+Individuo IND47455GEN.bin no mutó 
+------------------------------------------
+Individuo IND47456GEN.bin no mutó 
+------------------------------------------
+Individuo IND47457GEN.bin no mutó 
+------------------------------------------
+Individuo IND47458GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 11
+ Gen a insertar 21
+------------------------------------------
+Individuo IND47459GEN.bin no mutó 
+------------------------------------------
+Individuo IND47460GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 6
+ Gen a insertar 13
+------------------------------------------
+Individuo IND47461GEN.bin no mutó 
+------------------------------------------
+Individuo IND47462GEN.bin no mutó 
+------------------------------------------
+Individuo IND47463GEN.bin no mutó 
+------------------------------------------
+Individuo IND47464GEN.bin no mutó 
+------------------------------------------
+Individuo IND47465GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 5
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47466GEN.bin no mutó 
+------------------------------------------
+Individuo IND47467GEN.bin no mutó 
+------------------------------------------
+Individuo IND47468GEN.bin no mutó 
+------------------------------------------
+Individuo IND47469GEN.bin no mutó 
+------------------------------------------
+Individuo IND47470GEN.bin no mutó 
+------------------------------------------
+Individuo IND47471GEN.bin no mutó 
+------------------------------------------
+Individuo IND47472GEN.bin no mutó 
+------------------------------------------
+Individuo IND47473GEN.bin no mutó 
+------------------------------------------
+Individuo IND47474GEN.bin no mutó 
+------------------------------------------
+Individuo IND47475GEN.bin no mutó 
+------------------------------------------
+Individuo IND47476GEN.bin no mutó 
+------------------------------------------
+Individuo IND47477GEN.bin no mutó 
+------------------------------------------
+Individuo IND47478GEN.bin no mutó 
+------------------------------------------
+Individuo IND47479GEN.bin no mutó 
+------------------------------------------
+Individuo IND47480GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 6
+ Gen a insertar 0
+------------------------------------------
+Individuo IND47481GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 0
+ Gen a insertar 23
+------------------------------------------
+Individuo IND47482GEN.bin no mutó 
+------------------------------------------
+Individuo IND47483GEN.bin no mutó 
+------------------------------------------
+Individuo IND47484GEN.bin no mutó 
+------------------------------------------
+Individuo IND47485GEN.bin no mutó 
+------------------------------------------
+Individuo IND47486GEN.bin no mutó 
+------------------------------------------
+Individuo IND47487GEN.bin no mutó 
+------------------------------------------
+Individuo IND47488GEN.bin no mutó 
+------------------------------------------
+Individuo IND47489GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 21
+ Gen a insertar 14
+------------------------------------------
+Individuo IND47490GEN.bin no mutó 
+------------------------------------------
+Individuo IND47491GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 16
+ Gen a insertar 1
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 26
+ Gen a insertar 10
+------------------------------------------
+Individuo IND47492GEN.bin no mutó 
+------------------------------------------
+Individuo IND47493GEN.bin no mutó 
+------------------------------------------
+Individuo IND47494GEN.bin no mutó 
+------------------------------------------
+Individuo IND47495GEN.bin no mutó 
+------------------------------------------
+Individuo IND47496GEN.bin no mutó 
+------------------------------------------
+Individuo IND47497GEN.bin no mutó 
+------------------------------------------
+Individuo IND47498GEN.bin no mutó 
+------------------------------------------
+Individuo IND47499GEN.bin no mutó 
+------------------------------------------
+Individuo IND47500GEN.bin no mutó 
+------------------------------------------
+Individuo IND47501GEN.bin no mutó 
+------------------------------------------
+Individuo IND47502GEN.bin no mutó 
+------------------------------------------
+Individuo IND47503GEN.bin no mutó 
+------------------------------------------
+Individuo IND47504GEN.bin no mutó 
+------------------------------------------
+Individuo IND47505GEN.bin no mutó 
+------------------------------------------
+Individuo IND47506GEN.bin no mutó 
+------------------------------------------
+Individuo IND47507GEN.bin no mutó 
+------------------------------------------
+Individuo IND47508GEN.bin no mutó 
+------------------------------------------
+Individuo IND47509GEN.bin no mutó 
+------------------------------------------
+Individuo IND47510GEN.bin no mutó 
+------------------------------------------
+Individuo IND47511GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 3
+ Gen a insertar 2
+------------------------------------------
+Individuo IND47512GEN.bin no mutó 
+------------------------------------------
+Individuo IND47513GEN.bin no mutó 
+------------------------------------------
+Individuo IND47514GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 0
+ Gen a insertar 5
+------------------------------------------
+Individuo IND47515GEN.bin no mutó 
+------------------------------------------
+Individuo IND47516GEN.bin no mutó 
+------------------------------------------
+Individuo IND47517GEN.bin no mutó 
+------------------------------------------
+Individuo IND47518GEN.bin no mutó 
+------------------------------------------
+Individuo IND47519GEN.bin no mutó 
+------------------------------------------
+Individuo IND47520GEN.bin no mutó 
+------------------------------------------
+Individuo IND47521GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 16
+ Gen a insertar 19
+------------------------------------------
+Individuo IND47522GEN.bin no mutó 
+------------------------------------------
+Individuo IND47523GEN.bin no mutó 
+------------------------------------------
+Individuo IND47524GEN.bin no mutó 
+------------------------------------------
+Individuo IND47525GEN.bin no mutó 
+------------------------------------------
+Individuo IND47526GEN.bin no mutó 
+------------------------------------------
+Individuo IND47527GEN.bin no mutó 
+------------------------------------------
+Individuo IND47528GEN.bin no mutó 
+------------------------------------------
+Individuo IND47529GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 12
+ Gen a insertar 17
+------------------------------------------
+Individuo IND47530GEN.bin no mutó 
+------------------------------------------
+Individuo IND47531GEN.bin no mutó 
+------------------------------------------
+Individuo IND47532GEN.bin no mutó 
+------------------------------------------
+Individuo IND47533GEN.bin no mutó 
+------------------------------------------
+Individuo IND47534GEN.bin no mutó 
+------------------------------------------
+Individuo IND47535GEN.bin no mutó 
+------------------------------------------
+Individuo IND47536GEN.bin no mutó 
+------------------------------------------
+Individuo IND47537GEN.bin no mutó 
+------------------------------------------
+Individuo IND47538GEN.bin no mutó 
+------------------------------------------
+Individuo IND47539GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 15
+ Gen a insertar 9
+------------------------------------------
+Individuo IND47540GEN.bin no mutó 
+------------------------------------------
+Individuo IND47541GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 21
+ Gen a insertar 0
+------------------------------------------
+Individuo IND47542GEN.bin no mutó 
+------------------------------------------
+Individuo IND47543GEN.bin no mutó 
+------------------------------------------
+Individuo IND47544GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 25
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47545GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 17
+ Gen a insertar 13
+------------------------------------------
+Individuo IND47546GEN.bin no mutó 
+------------------------------------------
+Individuo IND47547GEN.bin no mutó 
+------------------------------------------
+Individuo IND47548GEN.bin no mutó 
+------------------------------------------
+Individuo IND47549GEN.bin no mutó 
+------------------------------------------
+Individuo IND47550GEN.bin no mutó 
+------------------------------------------
+Individuo IND47551GEN.bin no mutó 
+------------------------------------------
+Individuo IND47552GEN.bin no mutó 
+------------------------------------------
+Individuo IND47553GEN.bin no mutó 
+------------------------------------------
+Individuo IND47554GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 13
+ Gen a insertar 6
+------------------------------------------
+Individuo IND47555GEN.bin no mutó 
+------------------------------------------
+Individuo IND47556GEN.bin no mutó 
+------------------------------------------
+Individuo IND47557GEN.bin no mutó 
+------------------------------------------
+Individuo IND47558GEN.bin no mutó 
+------------------------------------------
+Individuo IND47559GEN.bin no mutó 
+------------------------------------------
+Individuo IND47560GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 0
+ Gen a insertar 10
+------------------------------------------
+Individuo IND47561GEN.bin no mutó 
+------------------------------------------
+Individuo IND47562GEN.bin no mutó 
+------------------------------------------
+Individuo IND47563GEN.bin no mutó 
+------------------------------------------
+Individuo IND47564GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 24
+ Gen a insertar 21
+------------------------------------------
+Individuo IND47565GEN.bin no mutó 
+------------------------------------------
+Individuo IND47566GEN.bin no mutó 
+------------------------------------------
+Individuo IND47567GEN.bin no mutó 
+------------------------------------------
+Individuo IND47568GEN.bin no mutó 
+------------------------------------------
+Individuo IND47569GEN.bin no mutó 
+------------------------------------------
+Individuo IND47570GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 10
+ Gen a insertar 15
+------------------------------------------
+Individuo IND47571GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 0
+ Gen a insertar 23
+------------------------------------------
+Individuo IND47572GEN.bin no mutó 
+------------------------------------------
+Individuo IND47573GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 4
+ Gen a insertar 18
+------------------------------------------
+Individuo IND47574GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 16
+ Gen a insertar 2
+------------------------------------------
+Individuo IND47575GEN.bin no mutó 
+------------------------------------------
+Individuo IND47576GEN.bin no mutó 
+------------------------------------------
+Individuo IND47577GEN.bin no mutó 
+------------------------------------------
+Individuo IND47578GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 21
+ Gen a insertar 7
+------------------------------------------
+Individuo IND47579GEN.bin no mutó 
+------------------------------------------
+Individuo IND47580GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 24
+ Gen a insertar 25
+------------------------------------------
+Individuo IND47581GEN.bin no mutó 
+------------------------------------------
+Individuo IND47582GEN.bin no mutó 
+------------------------------------------
+Individuo IND47583GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 1
+ Gen a insertar 24
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 14
+ Gen a insertar 20
+------------------------------------------
+Individuo IND47584GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 25
+ Gen a insertar 21
+------------------------------------------
+Individuo IND47585GEN.bin no mutó 
+------------------------------------------
+Individuo IND47586GEN.bin no mutó 
+------------------------------------------
+Individuo IND47587GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 22
+ Gen a insertar 0
+------------------------------------------
+Individuo IND47588GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 23
+ Gen a insertar 4
+------------------------------------------
+Individuo IND47589GEN.bin no mutó 
+------------------------------------------
+Individuo IND47590GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 9
+ Gen a insertar 21
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 24
+ Gen a insertar 10
+------------------------------------------
+Individuo IND47591GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 13
+ Gen a insertar 2
+------------------------------------------
+Individuo IND47592GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 7
+ Gen a insertar 4
+------------------------------------------
+Individuo IND47593GEN.bin no mutó 
+------------------------------------------
+Individuo IND47594GEN.bin no mutó 
+------------------------------------------
+Individuo IND47595GEN.bin no mutó 
+------------------------------------------
+Individuo IND47596GEN.bin no mutó 
+------------------------------------------
+Individuo IND47597GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 4
+ Gen a insertar 13
+------------------------------------------
+Individuo IND47598GEN.bin no mutó 
+------------------------------------------
+Individuo IND47599GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 2
+ Gen a insertar 22
+------------------------------------------
+Individuo IND47600GEN.bin no mutó 
+------------------------------------------
+Individuo IND47601GEN.bin no mutó 
+------------------------------------------
+Individuo IND47602GEN.bin no mutó 
+------------------------------------------
+Individuo IND47603GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 26
+ Gen a insertar 12
+------------------------------------------
+Individuo IND47604GEN.bin no mutó 
+------------------------------------------
+Individuo IND47605GEN.bin no mutó 
+------------------------------------------
+Individuo IND47606GEN.bin no mutó 
+------------------------------------------
+Individuo IND47607GEN.bin no mutó 
+------------------------------------------
+Individuo IND47608GEN.bin no mutó 
+------------------------------------------
+Individuo IND47609GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 3
+ Gen a insertar 9
+------------------------------------------
+Individuo IND47610GEN.bin no mutó 
+------------------------------------------
+Individuo IND47611GEN.bin no mutó 
+------------------------------------------
+Individuo IND47612GEN.bin no mutó 
+------------------------------------------
+Individuo IND47613GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 1
+ Gen a insertar 22
+------------------------------------------
+Individuo IND47614GEN.bin no mutó 
+------------------------------------------
+Individuo IND47615GEN.bin no mutó 
+------------------------------------------
+Individuo IND47616GEN.bin no mutó 
+------------------------------------------
+Individuo IND47617GEN.bin no mutó 
+------------------------------------------
+Individuo IND47618GEN.bin no mutó 
+------------------------------------------
+Individuo IND47619GEN.bin no mutó 
+------------------------------------------
+Individuo IND47620GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 8
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47621GEN.bin no mutó 
+------------------------------------------
+Individuo IND47622GEN.bin no mutó 
+------------------------------------------
+Individuo IND47623GEN.bin no mutó 
+------------------------------------------
+Individuo IND47624GEN.bin no mutó 
+------------------------------------------
+Individuo IND47625GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 25
+ Gen a insertar 12
+------------------------------------------
+Individuo IND47626GEN.bin no mutó 
+------------------------------------------
+Individuo IND47627GEN.bin no mutó 
+------------------------------------------
+Individuo IND47628GEN.bin no mutó 
+------------------------------------------
+Individuo IND47629GEN.bin no mutó 
+------------------------------------------
+Individuo IND47630GEN.bin no mutó 
+------------------------------------------
+Individuo IND47631GEN.bin no mutó 
+------------------------------------------
+Individuo IND47632GEN.bin no mutó 
+------------------------------------------
+Individuo IND47633GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 3
+ Gen a insertar 25
+------------------------------------------
+Individuo IND47634GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 0
+ Gen a insertar 16
+------------------------------------------
+Individuo IND47635GEN.bin no mutó 
+------------------------------------------
+Individuo IND47636GEN.bin no mutó 
+------------------------------------------
+Individuo IND47637GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 12
+ Gen a insertar 19
+------------------------------------------
+Individuo IND47638GEN.bin no mutó 
+------------------------------------------
+Individuo IND47639GEN.bin no mutó 
+------------------------------------------
+Individuo IND47640GEN.bin no mutó 
+------------------------------------------
+Individuo IND47641GEN.bin no mutó 
+------------------------------------------
+Individuo IND47642GEN.bin no mutó 
+------------------------------------------
+Individuo IND47643GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 19
+ Gen a insertar 19
+------------------------------------------
+Individuo IND47644GEN.bin no mutó 
+------------------------------------------
+Individuo IND47645GEN.bin no mutó 
+------------------------------------------
+Individuo IND47646GEN.bin no mutó 
+------------------------------------------
+Individuo IND47647GEN.bin no mutó 
+------------------------------------------
+Individuo IND47648GEN.bin no mutó 
+------------------------------------------
+Individuo IND47649GEN.bin no mutó 
+------------------------------------------
+Individuo IND47650GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 7
+ Gen a insertar 10
+------------------------------------------
+Individuo IND47651GEN.bin no mutó 
+------------------------------------------
+Individuo IND47652GEN.bin no mutó 
+------------------------------------------
+Individuo IND47653GEN.bin no mutó 
+------------------------------------------
+Individuo IND47654GEN.bin no mutó 
+------------------------------------------
+Individuo IND47655GEN.bin no mutó 
+------------------------------------------
+Individuo IND47656GEN.bin no mutó 
+------------------------------------------
+Individuo IND47657GEN.bin no mutó 
+------------------------------------------
+Individuo IND47658GEN.bin no mutó 
+------------------------------------------
+Individuo IND47659GEN.bin no mutó 
+------------------------------------------
+Individuo IND47660GEN.bin no mutó 
+------------------------------------------
+Individuo IND47661GEN.bin no mutó 
+------------------------------------------
+Individuo IND47662GEN.bin no mutó 
+------------------------------------------
+Individuo IND47663GEN.bin no mutó 
+------------------------------------------
+Individuo IND47664GEN.bin no mutó 
+------------------------------------------
+Individuo IND47665GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 24
+ Gen a insertar 19
+------------------------------------------
+Individuo IND47666GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 10
+ Gen a insertar 20
+------------------------------------------
+Individuo IND47667GEN.bin no mutó 
+------------------------------------------
+Individuo IND47668GEN.bin no mutó 
+------------------------------------------
+Individuo IND47669GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 23
+ Gen a insertar 26
+------------------------------------------
+Individuo IND47670GEN.bin no mutó 
+------------------------------------------
+Individuo IND47671GEN.bin no mutó 
+------------------------------------------
+Individuo IND47672GEN.bin no mutó 
+------------------------------------------
+Individuo IND47673GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 18
+ Gen a insertar 22
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 23
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47674GEN.bin no mutó 
+------------------------------------------
+Individuo IND47675GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 13
+ Gen a insertar 23
+------------------------------------------
+Individuo IND47676GEN.bin no mutó 
+------------------------------------------
+Individuo IND47677GEN.bin no mutó 
+------------------------------------------
+Individuo IND47678GEN.bin no mutó 
+------------------------------------------
+Individuo IND47679GEN.bin no mutó 
+------------------------------------------
+Individuo IND47680GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 6
+ Gen a insertar 5
+
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 7
+ Gen a insertar 23
+------------------------------------------
+Individuo IND47681GEN.bin no mutó 
+------------------------------------------
+Individuo IND47682GEN.bin no mutó 
+------------------------------------------
+Individuo IND47683GEN.bin no mutó 
+------------------------------------------
+Individuo IND47684GEN.bin no mutó 
+------------------------------------------
+Individuo IND47685GEN.bin no mutó 
+------------------------------------------
+Individuo IND47686GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 3
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47687GEN.bin no mutó 
+------------------------------------------
+Individuo IND47688GEN.bin no mutó 
+------------------------------------------
+Individuo IND47689GEN.bin no mutó 
+------------------------------------------
+Individuo IND47690GEN.bin no mutó 
+------------------------------------------
+Individuo IND47691GEN.bin no mutó 
+------------------------------------------
+Individuo IND47692GEN.bin no mutó 
+------------------------------------------
+Individuo IND47693GEN.bin no mutó 
+------------------------------------------
+Individuo IND47694GEN.bin no mutó 
+------------------------------------------
+Individuo IND47695GEN.bin no mutó 
+------------------------------------------
+Individuo IND47696GEN.bin no mutó 
+------------------------------------------
+Individuo IND47697GEN.bin no mutó 
+------------------------------------------
+Individuo IND47698GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 6
+ Gen a insertar 22
+------------------------------------------
+Individuo IND47699GEN.bin no mutó 
+------------------------------------------
+Individuo IND47700GEN.bin no mutó 
+------------------------------------------
+Individuo IND47701GEN.bin no mutó 
+------------------------------------------
+Individuo IND47702GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 4
+ Gen a insertar 20
+------------------------------------------
+Individuo IND47703GEN.bin no mutó 
+------------------------------------------
+Individuo IND47704GEN.bin no mutó 
+------------------------------------------
+Individuo IND47705GEN.bin no mutó 
+------------------------------------------
+Individuo IND47706GEN.bin no mutó 
+------------------------------------------
+Individuo IND47707GEN.bin no mutó 
+------------------------------------------
+Individuo IND47708GEN.bin no mutó 
+------------------------------------------
+Individuo IND47709GEN.bin no mutó 
+------------------------------------------
+Individuo IND47710GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 22
+ Gen a insertar 24
+------------------------------------------
+Individuo IND47711GEN.bin no mutó 
+------------------------------------------
+Individuo IND47712GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 19
+ Gen a insertar 1
+------------------------------------------
+Individuo IND47713GEN.bin no mutó 
+------------------------------------------
+Individuo IND47714GEN.bin no mutó 
+------------------------------------------
+Individuo IND47715GEN.bin no mutó 
+------------------------------------------
+Individuo IND47716GEN.bin no mutó 
+------------------------------------------
+Individuo IND47717GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 10
+ Gen a insertar 13
+------------------------------------------
+Individuo IND47718GEN.bin no mutó 
+------------------------------------------
+Individuo IND47719GEN.bin no mutó 
+------------------------------------------
+Individuo IND47720GEN.bin no mutó 
+------------------------------------------
+Individuo IND47721GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 13
+ Gen a insertar 0
+------------------------------------------
+Individuo IND47722GEN.bin no mutó 
+------------------------------------------
+Individuo IND47723GEN.bin no mutó 
+------------------------------------------
+Individuo IND47724GEN.bin no mutó 
+------------------------------------------
+Individuo IND47725GEN.bin no mutó 
+------------------------------------------
+Individuo IND47726GEN.bin no mutó 
+------------------------------------------
+Individuo IND47727GEN.bin no mutó 
+------------------------------------------
+Individuo IND47728GEN.bin no mutó 
+------------------------------------------
+Individuo IND47729GEN.bin no mutó 
+------------------------------------------
+Individuo IND47730GEN.bin no mutó 
+------------------------------------------
+Individuo IND47731GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 4
+ Gen a insertar 25
+------------------------------------------
+Individuo IND47732GEN.bin no mutó 
+------------------------------------------
+Individuo IND47733GEN.bin no mutó 
+------------------------------------------
+Individuo IND47734GEN.bin no mutó 
+------------------------------------------
+Individuo IND47735GEN.bin no mutó 
+------------------------------------------
+Individuo IND47736GEN.bin no mutó 
+------------------------------------------
+Individuo IND47737GEN.bin no mutó 
+------------------------------------------
+Individuo IND47738GEN.bin no mutó 
+------------------------------------------
+Individuo IND47739GEN.bin no mutó 
+------------------------------------------
+Individuo IND47740GEN.bin no mutó 
+------------------------------------------
+Individuo IND47741GEN.bin no mutó 
+------------------------------------------
+Individuo IND47742GEN.bin no mutó 
+------------------------------------------
+Individuo IND47743GEN.bin no mutó 
+------------------------------------------
+Individuo IND47744GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 18
+ Gen a insertar 6
+------------------------------------------
+Individuo IND47745GEN.bin no mutó 
+------------------------------------------
+Individuo IND47746GEN.bin no mutó 
+------------------------------------------
+Individuo IND47747GEN.bin no mutó 
+------------------------------------------
+Individuo IND47748GEN.bin no mutó 
+------------------------------------------
+Individuo IND47749GEN.bin no mutó 
+------------------------------------------
+Individuo IND47750GEN.bin no mutó 
+------------------------------------------
+Individuo IND47751GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 11
+ Gen a insertar 5
+------------------------------------------
+Individuo IND47752GEN.bin no mutó 
+------------------------------------------
+Individuo IND47753GEN.bin no mutó 
+------------------------------------------
+Individuo IND47754GEN.bin no mutó 
+------------------------------------------
+Individuo IND47755GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 2
+ Gen a insertar 9
+------------------------------------------
+Individuo IND47756GEN.bin no mutó 
+------------------------------------------
+Individuo IND47757GEN.bin no mutó 
+------------------------------------------
+Individuo IND47758GEN.bin no mutó 
+------------------------------------------
+Individuo IND47759GEN.bin no mutó 
+------------------------------------------
+Individuo IND47760GEN.bin no mutó 
+------------------------------------------
+Individuo IND47761GEN.bin no mutó 
+------------------------------------------
+Individuo IND47762GEN.bin no mutó 
+------------------------------------------
+Individuo IND47763GEN.bin no mutó 
+------------------------------------------
+Individuo IND47764GEN.bin no mutó 
+------------------------------------------
+Individuo IND47765GEN.bin no mutó 
+------------------------------------------
+Individuo IND47766GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 15
+ Gen a insertar 20
+------------------------------------------
+Individuo IND47767GEN.bin no mutó 
+------------------------------------------
+Individuo IND47768GEN.bin no mutó 
+------------------------------------------
+Individuo IND47769GEN.bin no mutó 
+------------------------------------------
+Individuo IND47770GEN.bin no mutó 
+------------------------------------------
+Individuo IND47771GEN.bin no mutó 
+------------------------------------------
+Individuo IND47772GEN.bin no mutó 
+------------------------------------------
+Individuo IND47773GEN.bin no mutó 
+------------------------------------------
+Individuo IND47774GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 19
+ Gen a insertar 19
+------------------------------------------
+Individuo IND47775GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 20
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47776GEN.bin no mutó 
+------------------------------------------
+Individuo IND47777GEN.bin no mutó 
+------------------------------------------
+Individuo IND47778GEN.bin no mutó 
+------------------------------------------
+Individuo IND47779GEN.bin no mutó 
+------------------------------------------
+Individuo IND47780GEN.bin no mutó 
+------------------------------------------
+Individuo IND47781GEN.bin no mutó 
+------------------------------------------
+Individuo IND47782GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 1
+ Gen a insertar 16
+------------------------------------------
+Individuo IND47783GEN.bin no mutó 
+------------------------------------------
+Individuo IND47784GEN.bin no mutó 
+------------------------------------------
+Individuo IND47785GEN.bin no mutó 
+------------------------------------------
+Individuo IND47786GEN.bin no mutó 
+------------------------------------------
+Individuo IND47787GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 6
+ Gen a insertar 18
+------------------------------------------
+Individuo IND47788GEN.bin no mutó 
+------------------------------------------
+Individuo IND47789GEN.bin no mutó 
+------------------------------------------
+Individuo IND47790GEN.bin no mutó 
+------------------------------------------
+Individuo IND47791GEN.bin no mutó 
+------------------------------------------
+Individuo IND47792GEN.bin no mutó 
+------------------------------------------
+Individuo IND47793GEN.bin no mutó 
+------------------------------------------
+Individuo IND47794GEN.bin no mutó 
+------------------------------------------
+Individuo IND47795GEN.bin no mutó 
+------------------------------------------
+Individuo IND47796GEN.bin no mutó 
+------------------------------------------
+Individuo IND47797GEN.bin no mutó 
+------------------------------------------
+Individuo IND47798GEN.bin no mutó 
+------------------------------------------
+Individuo IND47799GEN.bin no mutó 
+------------------------------------------
+Individuo IND47800GEN.bin no mutó 
+------------------------------------------
+Individuo IND47801GEN.bin no mutó 
+------------------------------------------
+Individuo IND47802GEN.bin no mutó 
+------------------------------------------
+Individuo IND47803GEN.bin no mutó 
+------------------------------------------
+Individuo IND47804GEN.bin no mutó 
+------------------------------------------
+Individuo IND47805GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 18
+ Gen a insertar 10
+------------------------------------------
+Individuo IND47806GEN.bin no mutó 
+------------------------------------------
+Individuo IND47807GEN.bin no mutó 
+------------------------------------------
+Individuo IND47808GEN.bin no mutó 
+------------------------------------------
+Individuo IND47809GEN.bin no mutó 
+------------------------------------------
+Individuo IND47810GEN.bin no mutó 
+------------------------------------------
+Individuo IND47811GEN.bin no mutó 
+------------------------------------------
+Individuo IND47812GEN.bin no mutó 
+------------------------------------------
+Individuo IND47813GEN.bin no mutó 
+------------------------------------------
+Individuo IND47814GEN.bin no mutó 
+------------------------------------------
+Individuo IND47815GEN.bin no mutó 
+------------------------------------------
+Individuo IND47816GEN.bin no mutó 
+------------------------------------------
+Individuo IND47817GEN.bin no mutó 
+------------------------------------------
+Individuo IND47818GEN.bin no mutó 
+------------------------------------------
+Individuo IND47819GEN.bin no mutó 
+------------------------------------------
+Individuo IND47820GEN.bin no mutó 
+------------------------------------------
+Individuo IND47821GEN.bin no mutó 
+------------------------------------------
+Individuo IND47822GEN.bin no mutó 
+------------------------------------------
+Individuo IND47823GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 6
+ Gen a insertar 10
+------------------------------------------
+Individuo IND47824GEN.bin no mutó 
+------------------------------------------
+Individuo IND47825GEN.bin no mutó 
+------------------------------------------
+Individuo IND47826GEN.bin no mutó 
+------------------------------------------
+Individuo IND47827GEN.bin no mutó 
+------------------------------------------
+Individuo IND47828GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 12
+ Gen a insertar 21
+------------------------------------------
+Individuo IND47829GEN.bin no mutó 
+------------------------------------------
+Individuo IND47830GEN.bin no mutó 
+------------------------------------------
+Individuo IND47831GEN.bin no mutó 
+------------------------------------------
+Individuo IND47832GEN.bin no mutó 
+------------------------------------------
+Individuo IND47833GEN.bin no mutó 
+------------------------------------------
+Individuo IND47834GEN.bin no mutó 
+------------------------------------------
+Individuo IND47835GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 3
+ Gen a insertar 3
+------------------------------------------
+Individuo IND47836GEN.bin no mutó 
+------------------------------------------
+Individuo IND47837GEN.bin no mutó 
+------------------------------------------
+Individuo IND47838GEN.bin no mutó 
+------------------------------------------
+Individuo IND47839GEN.bin no mutó 
+------------------------------------------
+Individuo IND47840GEN.bin no mutó 
+------------------------------------------
+Individuo IND47841GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 0
+ Gen a insertar 6
+------------------------------------------
+Individuo IND47842GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 11
+ Gen a insertar 15
+------------------------------------------
+Individuo IND47843GEN.bin no mutó 
+------------------------------------------
+Individuo IND47844GEN.bin no mutó 
+------------------------------------------
+Individuo IND47845GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 26
+ Gen a insertar 16
+------------------------------------------
+Individuo IND47846GEN.bin no mutó 
+------------------------------------------
+Individuo IND47847GEN.bin no mutó 
+------------------------------------------
+Individuo IND47848GEN.bin no mutó 
+------------------------------------------
+Individuo IND47849GEN.bin no mutó 
+------------------------------------------
+Individuo IND47850GEN.bin no mutó 
+------------------------------------------
+Individuo IND47851GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar2
+ Gen seleccionado 7
+ Gen a insertar 10
+------------------------------------------
+Individuo IND47852GEN.bin no mutó 
+------------------------------------------
+Individuo IND47853GEN.bin no mutó 
+------------------------------------------
+Individuo IND47854GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 1
+ Gen a insertar 14
+------------------------------------------
+Individuo IND47855GEN.bin no mutó 
+------------------------------------------
+Individuo IND47856GEN.bin no mutó 
+------------------------------------------
+Individuo IND47857GEN.bin no mutó 
+------------------------------------------
+Individuo IND47858GEN.bin no mutó 
+------------------------------------------
+Individuo IND47859GEN.bin no mutó 
+------------------------------------------
+Individuo IND47860GEN.bin no mutó 
+------------------------------------------
+Individuo IND47861GEN.bin no mutó 
+------------------------------------------
+Individuo IND47862GEN.bin no mutó 
+------------------------------------------
+Individuo IND47863GEN.bin no mutó 
+------------------------------------------
+Individuo IND47864GEN.bin no mutó 
+------------------------------------------
+Individuo IND47865GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 3
+ Gen a insertar 9
+------------------------------------------
+Individuo IND47866GEN.bin no mutó 
+------------------------------------------
+Individuo IND47867GEN.bin no mutó 
+------------------------------------------
+Individuo IND47868GEN.bin no mutó 
+------------------------------------------
+Individuo IND47869GEN.bin no mutó 
+------------------------------------------
+Individuo IND47870GEN.bin no mutó 
+------------------------------------------
+Individuo IND47871GEN.bin no mutó 
+------------------------------------------
+Individuo IND47872GEN.bin no mutó 
+------------------------------------------
+Individuo IND47873GEN.bin no mutó 
+------------------------------------------
+Individuo IND47874GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 25
+ Gen a insertar 26
+------------------------------------------
+Individuo IND47875GEN.bin no mutó 
+------------------------------------------
+Individuo IND47876GEN.bin no mutó 
+------------------------------------------
+Individuo IND47877GEN.bin no mutó 
+------------------------------------------
+Individuo IND47878GEN.bin no mutó 
+------------------------------------------
+Individuo IND47879GEN.bin no mutó 
+------------------------------------------
+Individuo IND47880GEN.bin no mutó 
+------------------------------------------
+Individuo IND47881GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 26
+ Gen a insertar 26
+------------------------------------------
+Individuo IND47882GEN.bin no mutó 
+------------------------------------------
+Individuo IND47883GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 19
+ Gen a insertar 5
+------------------------------------------
+Individuo IND47884GEN.bin no mutó 
+------------------------------------------
+Individuo IND47885GEN.bin no mutó 
+------------------------------------------
+Individuo IND47886GEN.bin no mutó 
+------------------------------------------
+Individuo IND47887GEN.bin no mutó 
+------------------------------------------
+Individuo IND47888GEN.bin no mutó 
+------------------------------------------
+Individuo IND47889GEN.bin no mutó 
+------------------------------------------
+Individuo IND47890GEN.bin no mutó 
+------------------------------------------
+Individuo IND47891GEN.bin no mutó 
+------------------------------------------
+Individuo IND47892GEN.bin no mutó 
+------------------------------------------
+Individuo IND47893GEN.bin no mutó 
+------------------------------------------
+Individuo IND47894GEN.bin no mutó 
+------------------------------------------
+Individuo IND47895GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 17
+ Gen a insertar 8
+------------------------------------------
+Individuo IND47896GEN.bin no mutó 
+------------------------------------------
+Individuo IND47897GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 5
+ Gen a insertar 15
+------------------------------------------
+Individuo IND47898GEN.bin no mutó 
+------------------------------------------
+Individuo IND47899GEN.bin no mutó 
+------------------------------------------
+Individuo IND47900GEN.bin no mutó 
+------------------------------------------
+Individuo IND47901GEN.bin no mutó 
+------------------------------------------
+Individuo IND47902GEN.bin no mutó 
+------------------------------------------
+Individuo IND47903GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar5
+ Gen seleccionado 10
+ Gen a insertar 25
+------------------------------------------
+Individuo IND47904GEN.bin no mutó 
+------------------------------------------
+Individuo IND47905GEN.bin no mutó 
+------------------------------------------
+Individuo IND47906GEN.bin no mutó 
+------------------------------------------
+Individuo IND47907GEN.bin no mutó 
+------------------------------------------
+Individuo IND47908GEN.bin no mutó 
+------------------------------------------
+Individuo IND47909GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 6
+ Gen a insertar 16
+------------------------------------------
+Individuo IND47910GEN.bin no mutó 
+------------------------------------------
+Individuo IND47911GEN.bin no mutó 
+------------------------------------------
+Individuo IND47912GEN.bin no mutó 
+------------------------------------------
+Individuo IND47913GEN.bin no mutó 
+------------------------------------------
+Individuo IND47914GEN.bin no mutó 
+------------------------------------------
+Individuo IND47915GEN.bin no mutó 
+------------------------------------------
+Individuo IND47916GEN.bin no mutó 
+------------------------------------------
+Individuo IND47917GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 17
+ Gen a insertar 23
+------------------------------------------
+Individuo IND47918GEN.bin no mutó 
+------------------------------------------
+Individuo IND47919GEN.bin no mutó 
+------------------------------------------
+Individuo IND47920GEN.bin no mutó 
+------------------------------------------
+Individuo IND47921GEN.bin no mutó 
+------------------------------------------
+Individuo IND47922GEN.bin no mutó 
+------------------------------------------
+Individuo IND47923GEN.bin no mutó 
+------------------------------------------
+Individuo IND47924GEN.bin no mutó 
+------------------------------------------
+Individuo IND47925GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar6
+ Gen seleccionado 3
+ Gen a insertar 22
+------------------------------------------
+Individuo IND47926GEN.bin no mutó 
+------------------------------------------
+Individuo IND47927GEN.bin no mutó 
+------------------------------------------
+Individuo IND47928GEN.bin no mutó 
+------------------------------------------
+Individuo IND47929GEN.bin no mutó 
+------------------------------------------
+Individuo IND47930GEN.bin no mutó 
+------------------------------------------
+Individuo IND47931GEN.bin no mutó 
+------------------------------------------
+Individuo IND47932GEN.bin no mutó 
+------------------------------------------
+Individuo IND47933GEN.bin no mutó 
+------------------------------------------
+Individuo IND47934GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar0
+ Gen seleccionado 11
+ Gen a insertar 15
+------------------------------------------
+Individuo IND47935GEN.bin no mutó 
+------------------------------------------
+Individuo IND47936GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar4
+ Gen seleccionado 25
+ Gen a insertar 1
+------------------------------------------
+Individuo IND47937GEN.bin no mutó 
+------------------------------------------
+Individuo IND47938GEN.bin no mutó 
+------------------------------------------
+Individuo IND47939GEN.bin no mutó 
+------------------------------------------
+Individuo IND47940GEN.bin no mutó 
+------------------------------------------
+Individuo IND47941GEN.bin no mutó 
+------------------------------------------
+Individuo IND47942GEN.bin no mutó 
+------------------------------------------
+Individuo IND47943GEN.bin no mutó 
+------------------------------------------
+Individuo IND47944GEN.bin no mutó 
+------------------------------------------
+Individuo IND47945GEN.bin no mutó 
+------------------------------------------
+Individuo IND47946GEN.bin no mutó 
+------------------------------------------
+Individuo IND47947GEN.bin no mutó 
+------------------------------------------
+Individuo IND47948GEN.bin no mutó 
+------------------------------------------
+Individuo IND47949GEN.bin no mutó 
+------------------------------------------
+Individuo IND47950GEN.bin no mutó 
+------------------------------------------
+Individuo IND47951GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar3
+ Gen seleccionado 23
+ Gen a insertar 26
+------------------------------------------
+Individuo IND47952GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 20
+ Gen a insertar 2
+------------------------------------------
+Individuo IND47953GEN.bin
+ >>Valor obtenido Exponente0
+ >>Valor obtenido segmento1000
+ Valor obtenido Umbral6
+ Valor obtenido Azar1
+ Gen seleccionado 4
+ Gen a insertar 8
+------------------------------------------
+
+***************************************************************************
